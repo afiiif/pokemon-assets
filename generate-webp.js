@@ -5,8 +5,8 @@ const sharp = require('sharp');
 
 const GITHUB_CONTENT_URL = 'https://raw.githubusercontent.com/PokeAPI/sprites/master';
 
-mkdirSync('artwork/webp/400x400', { recursive: true });
-mkdirSync('artwork/webp/128x128', { recursive: true });
+mkdirSync('artwork/webp/600x600', { recursive: true });
+mkdirSync('artwork/webp/192x192', { recursive: true });
 
 fetch('https://api.github.com/repos/PokeAPI/sprites/git/trees/master?recursive=1').then((res) => {
   res.json().then((data) => {
@@ -21,8 +21,8 @@ fetch('https://api.github.com/repos/PokeAPI/sprites/git/trees/master?recursive=1
             const filename = path.split('/').splice(-1)[0].split('.')[0];
 
             if (
-              existsSync(`./artwork/webp/400x400/${filename}.webp`) &&
-              existsSync(`./artwork/webp/128x128/${filename}.webp`)
+              existsSync(`./artwork/webp/600x600/${filename}.webp`) &&
+              existsSync(`./artwork/webp/192x192/${filename}.webp`)
             ) {
               resolve();
               return;
@@ -31,7 +31,7 @@ fetch('https://api.github.com/repos/PokeAPI/sprites/git/trees/master?recursive=1
             // Workaround using timeout to resolve, because bug node-fetch buffer() not resolving
             setTimeout(() => {
               resolve();
-            }, 1000 * 60);
+            }, 1000 * 20);
 
             fetch(`${GITHUB_CONTENT_URL}/${path}`)
               .then((res) =>
@@ -40,13 +40,13 @@ fetch('https://api.github.com/repos/PokeAPI/sprites/git/trees/master?recursive=1
                   .then((buffer) =>
                     Promise.all([
                       sharp(buffer)
-                        .resize(400, 400)
+                        .resize(600, 600)
                         .webp({ quality: 60 })
-                        .toFile(`./artwork/webp/400x400/${filename}.webp`),
+                        .toFile(`./artwork/webp/600x600/${filename}.webp`),
                       sharp(buffer)
-                        .resize(128, 128)
+                        .resize(192, 192)
                         .webp({ quality: 60 })
-                        .toFile(`./artwork/webp/128x128/${filename}.webp`),
+                        .toFile(`./artwork/webp/192x192/${filename}.webp`),
                     ]).then(() => {
                       console.log(`Pokemon ${filename} images generated`);
                     })
