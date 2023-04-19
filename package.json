@@ -1,16 +1,19 @@
 {
   "name": "pokemon-assets",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "generate": "npx ts-node src/generate-webp.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "2",
-    "sharp": "^0.30.7"
+    "sharp": "^0.32.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11"
   }
 }
