@@ -9,6 +9,8 @@ const replaceExisting = process.argv[3] === 'replace';
 const RAW_GITHUB_CONTENT_URL = 'https://raw.githubusercontent.com/PokeAPI/sprites/master';
 const REPO_TREE_URL = 'https://api.github.com/repos/PokeAPI/sprites/git/trees/master?recursive=1';
 
+const failedPaths = [];
+
 const getArtworkPaths = async () => {
   type Path = { path: string; url: string };
   const paths: Path[] = (await fetch(REPO_TREE_URL).then((res) => res.json())).tree;
@@ -35,6 +37,7 @@ const generateWebp = async (path: string, destination: string) => {
     console.log('🟢 Generated', destination);
     return true;
   } catch (error) {
+    failedPaths.push(path);
     console.error('Failed', path);
     console.error(error);
     return false;
@@ -51,4 +54,6 @@ const generateWebp = async (path: string, destination: string) => {
       : `artwork/webp/${size}x${size}/${pokemonNumber}`;
     await generateWebp(path, destination);
   }
+  console.info(`🔴 Failed: ${failedPaths.length}`);
+  console.log(failedPaths);
 })();
