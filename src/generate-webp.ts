@@ -16,7 +16,7 @@ const getArtworkPaths = async () => {
   const paths: Path[] = (await fetch(REPO_TREE_URL).then((res) => res.json())).tree;
   const artworkPaths: string[] = [];
   paths.forEach(({ path }) => {
-    if (/^sprites\/pokemon\/other\/official\-artwork\/.+\.\w+/.test(path)) {
+    if (/^sprites\/pokemon\/other\/official\-artwork\/[\w-]+\.\w+/.test(path)) {
       return artworkPaths.push(path);
     }
   });
