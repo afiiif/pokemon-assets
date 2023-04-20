@@ -1,0 +1,248 @@
+[
+  {
+    "id": 459,
+    "name": "snover",
+    "gen": 4,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 120,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 459,
+        "name": "snover",
+        "types": [
+          "grass",
+          "ice"
+        ]
+      }
+    ],
+    "names": [
+      "snover"
+    ],
+    "types": [
+      "grass",
+      "ice"
+    ]
+  },
+  {
+    "id": 460,
+    "name": "abomasnow",
+    "gen": 4,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 60,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 460,
+        "name": "abomasnow",
+        "types": [
+          "grass",
+          "ice"
+        ]
+      },
+      {
+        "id": 10060,
+        "name": "abomasnow-mega",
+        "types": [
+          "grass",
+          "ice"
+        ]
+      }
+    ],
+    "names": [
+      "abomasnow",
+      "abomasnow-mega"
+    ],
+    "types": [
+      "grass",
+      "ice"
+    ]
+  },
+  {
+    "id": 461,
+    "name": "weavile",
+    "gen": 4,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 461,
+        "name": "weavile",
+        "types": [
+          "dark",
+          "ice"
+        ]
+      }
+    ],
+    "names": [
+      "weavile"
+    ],
+    "types": [
+      "dark",
+      "ice"
+    ]
+  },
+  {
+    "id": 471,
+    "name": "glaceon",
+    "gen": 4,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 471,
+        "name": "glaceon",
+        "types": [
+          "ice"
+        ]
+      }
+    ],
+    "names": [
+      "glaceon"
+    ],
+    "types": [
+      "ice"
+    ]
+  },
+  {
+    "id": 473,
+    "name": "mamoswine",
+    "gen": 4,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 50,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 473,
+        "name": "mamoswine",
+        "types": [
+          "ice",
+          "ground"
+        ]
+      }
+    ],
+    "names": [
+      "mamoswine"
+    ],
+    "types": [
+      "ice",
+      "ground"
+    ]
+  },
+  {
+    "id": 478,
+    "name": "froslass",
+    "gen": 4,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 75,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 478,
+        "name": "froslass",
+        "types": [
+          "ice",
+          "ghost"
+        ]
+      }
+    ],
+    "names": [
+      "froslass"
+    ],
+    "types": [
+      "ice",
+      "ghost"
+    ]
+  },
+  {
+    "id": 479,
+    "name": "rotom",
+    "gen": 4,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 479,
+        "name": "rotom",
+        "types": [
+          "electric",
+          "ghost"
+        ]
+      },
+      {
+        "id": 10008,
+        "name": "rotom-heat",
+        "types": [
+          "electric",
+          "fire"
+        ]
+      },
+      {
+        "id": 10009,
+        "name": "rotom-wash",
+        "types": [
+          "electric",
+          "water"
+        ]
+      },
+      {
+        "id": 10010,
+        "name": "rotom-frost",
+        "types": [
+          "electric",
+          "ice"
+        ]
+      },
+      {
+        "id": 10011,
+        "name": "rotom-fan",
+        "types": [
+          "electric",
+          "flying"
+        ]
+      },
+      {
+        "id": 10012,
+        "name": "rotom-mow",
+        "types": [
+          "electric",
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "rotom",
+      "rotom-heat",
+      "rotom-wash",
+      "rotom-frost",
+      "rotom-fan",
+      "rotom-mow"
+    ],
+    "types": [
+      "electric",
+      "ghost",
+      "fire",
+      "water",
+      "ice",
+      "flying",
+      "grass"
+    ]
+  }
+]

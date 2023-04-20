@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "id": 391,
+      "name": "monferno",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 391,
+          "name": "monferno",
+          "types": [
+            "fire",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "monferno"
+      ],
+      "types": [
+        "fire",
+        "fighting"
+      ]
+    },
+    {
+      "id": 392,
+      "name": "infernape",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 392,
+          "name": "infernape",
+          "types": [
+            "fire",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "infernape"
+      ],
+      "types": [
+        "fire",
+        "fighting"
+      ]
+    },
+    {
+      "id": 428,
+      "name": "lopunny",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 428,
+          "name": "lopunny",
+          "types": [
+            "normal"
+          ]
+        },
+        {
+          "id": 10088,
+          "name": "lopunny-mega",
+          "types": [
+            "normal",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "lopunny",
+        "lopunny-mega"
+      ],
+      "types": [
+        "normal",
+        "fighting"
+      ]
+    },
+    {
+      "id": 447,
+      "name": "riolu",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": true,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 447,
+          "name": "riolu",
+          "types": [
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "riolu"
+      ],
+      "types": [
+        "fighting"
+      ]
+    },
+    {
+      "id": 448,
+      "name": "lucario",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 448,
+          "name": "lucario",
+          "types": [
+            "fighting",
+            "steel"
+          ]
+        },
+        {
+          "id": 10059,
+          "name": "lucario-mega",
+          "types": [
+            "fighting",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "lucario",
+        "lucario-mega"
+      ],
+      "types": [
+        "fighting",
+        "steel"
+      ]
+    },
+    {
+      "id": 453,
+      "name": "croagunk",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 140,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 453,
+          "name": "croagunk",
+          "types": [
+            "poison",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "croagunk"
+      ],
+      "types": [
+        "poison",
+        "fighting"
+      ]
+    },
+    {
+      "id": 454,
+      "name": "toxicroak",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 454,
+          "name": "toxicroak",
+          "types": [
+            "poison",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "toxicroak"
+      ],
+      "types": [
+        "poison",
+        "fighting"
+      ]
+    },
+    {
+      "id": 475,
+      "name": "gallade",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 475,
+          "name": "gallade",
+          "types": [
+            "psychic",
+            "fighting"
+          ]
+        },
+        {
+          "id": 10068,
+          "name": "gallade-mega",
+          "types": [
+            "psychic",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "gallade",
+        "gallade-mega"
+      ],
+      "types": [
+        "psychic",
+        "fighting"
+      ]
+    }
+  ],
+  "page": 1,
+  "nextPage": null
+}

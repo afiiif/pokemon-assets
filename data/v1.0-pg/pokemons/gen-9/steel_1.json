@@ -1,0 +1,247 @@
+{
+  "data": [
+    {
+      "id": 957,
+      "name": "tinkatink",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 957,
+          "name": "tinkatink",
+          "types": [
+            "fairy",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "tinkatink"
+      ],
+      "types": [
+        "fairy",
+        "steel"
+      ]
+    },
+    {
+      "id": 958,
+      "name": "tinkatuff",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 958,
+          "name": "tinkatuff",
+          "types": [
+            "fairy",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "tinkatuff"
+      ],
+      "types": [
+        "fairy",
+        "steel"
+      ]
+    },
+    {
+      "id": 959,
+      "name": "tinkaton",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 959,
+          "name": "tinkaton",
+          "types": [
+            "fairy",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "tinkaton"
+      ],
+      "types": [
+        "fairy",
+        "steel"
+      ]
+    },
+    {
+      "id": 965,
+      "name": "varoom",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 965,
+          "name": "varoom",
+          "types": [
+            "steel",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "varoom"
+      ],
+      "types": [
+        "steel",
+        "poison"
+      ]
+    },
+    {
+      "id": 966,
+      "name": "revavroom",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 966,
+          "name": "revavroom",
+          "types": [
+            "steel",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "revavroom"
+      ],
+      "types": [
+        "steel",
+        "poison"
+      ]
+    },
+    {
+      "id": 968,
+      "name": "orthworm",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 25,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 968,
+          "name": "orthworm",
+          "types": [
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "orthworm"
+      ],
+      "types": [
+        "steel"
+      ]
+    },
+    {
+      "id": 983,
+      "name": "kingambit",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 25,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 983,
+          "name": "kingambit",
+          "types": [
+            "dark",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "kingambit"
+      ],
+      "types": [
+        "dark",
+        "steel"
+      ]
+    },
+    {
+      "id": 990,
+      "name": "iron-treads",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 990,
+          "name": "iron-treads",
+          "types": [
+            "ground",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "iron-treads"
+      ],
+      "types": [
+        "ground",
+        "steel"
+      ]
+    },
+    {
+      "id": 1000,
+      "name": "gholdengo",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 1000,
+          "name": "gholdengo",
+          "types": [
+            "steel",
+            "ghost"
+          ]
+        }
+      ],
+      "names": [
+        "gholdengo"
+      ],
+      "types": [
+        "steel",
+        "ghost"
+      ]
+    }
+  ],
+  "page": 1,
+  "nextPage": null
+}

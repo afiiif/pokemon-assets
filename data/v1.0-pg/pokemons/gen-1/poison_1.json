@@ -1,0 +1,669 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "bulbasaur",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 1,
+          "name": "bulbasaur",
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "bulbasaur"
+      ],
+      "types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "ivysaur",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 2,
+          "name": "ivysaur",
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "ivysaur"
+      ],
+      "types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "venusaur",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 3,
+          "name": "venusaur",
+          "types": [
+            "grass",
+            "poison"
+          ]
+        },
+        {
+          "id": 10033,
+          "name": "venusaur-mega",
+          "types": [
+            "grass",
+            "poison"
+          ]
+        },
+        {
+          "id": 10195,
+          "name": "venusaur-gmax",
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "venusaur",
+        "venusaur-mega",
+        "venusaur-gmax"
+      ],
+      "types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "weedle",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 13,
+          "name": "weedle",
+          "types": [
+            "bug",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "weedle"
+      ],
+      "types": [
+        "bug",
+        "poison"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "kakuna",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 14,
+          "name": "kakuna",
+          "types": [
+            "bug",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "kakuna"
+      ],
+      "types": [
+        "bug",
+        "poison"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "beedrill",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 15,
+          "name": "beedrill",
+          "types": [
+            "bug",
+            "poison"
+          ]
+        },
+        {
+          "id": 10090,
+          "name": "beedrill-mega",
+          "types": [
+            "bug",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "beedrill",
+        "beedrill-mega"
+      ],
+      "types": [
+        "bug",
+        "poison"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "ekans",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 23,
+          "name": "ekans",
+          "types": [
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "ekans"
+      ],
+      "types": [
+        "poison"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "arbok",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 24,
+          "name": "arbok",
+          "types": [
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "arbok"
+      ],
+      "types": [
+        "poison"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "nidoran-f",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 235,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 29,
+          "name": "nidoran-f",
+          "types": [
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "nidoran-f"
+      ],
+      "types": [
+        "poison"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "nidorina",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 30,
+          "name": "nidorina",
+          "types": [
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "nidorina"
+      ],
+      "types": [
+        "poison"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "nidoqueen",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 31,
+          "name": "nidoqueen",
+          "types": [
+            "poison",
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "nidoqueen"
+      ],
+      "types": [
+        "poison",
+        "ground"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "nidoran-m",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 235,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 32,
+          "name": "nidoran-m",
+          "types": [
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "nidoran-m"
+      ],
+      "types": [
+        "poison"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "nidorino",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 33,
+          "name": "nidorino",
+          "types": [
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "nidorino"
+      ],
+      "types": [
+        "poison"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "nidoking",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 34,
+          "name": "nidoking",
+          "types": [
+            "poison",
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "nidoking"
+      ],
+      "types": [
+        "poison",
+        "ground"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "zubat",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "cave",
+      "pokemons": [
+        {
+          "id": 41,
+          "name": "zubat",
+          "types": [
+            "poison",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "zubat"
+      ],
+      "types": [
+        "poison",
+        "flying"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "golbat",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": "cave",
+      "pokemons": [
+        {
+          "id": 42,
+          "name": "golbat",
+          "types": [
+            "poison",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "golbat"
+      ],
+      "types": [
+        "poison",
+        "flying"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "oddish",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 43,
+          "name": "oddish",
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "oddish"
+      ],
+      "types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "gloom",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 44,
+          "name": "gloom",
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "gloom"
+      ],
+      "types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "vileplume",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 45,
+          "name": "vileplume",
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "vileplume"
+      ],
+      "types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "venonat",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 48,
+          "name": "venonat",
+          "types": [
+            "bug",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "venonat"
+      ],
+      "types": [
+        "bug",
+        "poison"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "venomoth",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 49,
+          "name": "venomoth",
+          "types": [
+            "bug",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "venomoth"
+      ],
+      "types": [
+        "bug",
+        "poison"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "bellsprout",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 69,
+          "name": "bellsprout",
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "bellsprout"
+      ],
+      "types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "id": 70,
+      "name": "weepinbell",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 70,
+          "name": "weepinbell",
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "weepinbell"
+      ],
+      "types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "victreebel",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 71,
+          "name": "victreebel",
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "victreebel"
+      ],
+      "types": [
+        "grass",
+        "poison"
+      ]
+    }
+  ],
+  "page": 1,
+  "nextPage": 2
+}

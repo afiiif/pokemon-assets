@@ -1,0 +1,290 @@
+{
+  "data": [
+    {
+      "id": 883,
+      "name": "arctovish",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 883,
+          "name": "arctovish",
+          "types": [
+            "water",
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "arctovish"
+      ],
+      "types": [
+        "water",
+        "ice"
+      ]
+    },
+    {
+      "id": 896,
+      "name": "glastrier",
+      "gen": 8,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 896,
+          "name": "glastrier",
+          "types": [
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "glastrier"
+      ],
+      "types": [
+        "ice"
+      ]
+    },
+    {
+      "id": 898,
+      "name": "calyrex",
+      "gen": 8,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 898,
+          "name": "calyrex",
+          "types": [
+            "psychic",
+            "grass"
+          ]
+        },
+        {
+          "id": 10193,
+          "name": "calyrex-ice",
+          "types": [
+            "psychic",
+            "ice"
+          ]
+        },
+        {
+          "id": 10194,
+          "name": "calyrex-shadow",
+          "types": [
+            "psychic",
+            "ghost"
+          ]
+        }
+      ],
+      "names": [
+        "calyrex",
+        "calyrex-ice",
+        "calyrex-shadow"
+      ],
+      "types": [
+        "psychic",
+        "grass",
+        "ice",
+        "ghost"
+      ]
+    },
+    {
+      "id": 974,
+      "name": "cetoddle",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 150,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 974,
+          "name": "cetoddle",
+          "types": [
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "cetoddle"
+      ],
+      "types": [
+        "ice"
+      ]
+    },
+    {
+      "id": 975,
+      "name": "cetitan",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 50,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 975,
+          "name": "cetitan",
+          "types": [
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "cetitan"
+      ],
+      "types": [
+        "ice"
+      ]
+    },
+    {
+      "id": 991,
+      "name": "iron-bundle",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 50,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 991,
+          "name": "iron-bundle",
+          "types": [
+            "ice",
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "iron-bundle"
+      ],
+      "types": [
+        "ice",
+        "water"
+      ]
+    },
+    {
+      "id": 996,
+      "name": "frigibax",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 996,
+          "name": "frigibax",
+          "types": [
+            "dragon",
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "frigibax"
+      ],
+      "types": [
+        "dragon",
+        "ice"
+      ]
+    },
+    {
+      "id": 997,
+      "name": "arctibax",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 25,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 997,
+          "name": "arctibax",
+          "types": [
+            "dragon",
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "arctibax"
+      ],
+      "types": [
+        "dragon",
+        "ice"
+      ]
+    },
+    {
+      "id": 998,
+      "name": "baxcalibur",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 10,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 998,
+          "name": "baxcalibur",
+          "types": [
+            "dragon",
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "baxcalibur"
+      ],
+      "types": [
+        "dragon",
+        "ice"
+      ]
+    },
+    {
+      "id": 1002,
+      "name": "chien-pao",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 6,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 1002,
+          "name": "chien-pao",
+          "types": [
+            "dark",
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "chien-pao"
+      ],
+      "types": [
+        "dark",
+        "ice"
+      ]
+    }
+  ],
+  "page": 3,
+  "nextPage": null
+}

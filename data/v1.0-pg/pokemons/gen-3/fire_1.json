@@ -1,0 +1,269 @@
+{
+  "data": [
+    {
+      "id": 255,
+      "name": "torchic",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 255,
+          "name": "torchic",
+          "types": [
+            "fire"
+          ]
+        }
+      ],
+      "names": [
+        "torchic"
+      ],
+      "types": [
+        "fire"
+      ]
+    },
+    {
+      "id": 256,
+      "name": "combusken",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 256,
+          "name": "combusken",
+          "types": [
+            "fire",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "combusken"
+      ],
+      "types": [
+        "fire",
+        "fighting"
+      ]
+    },
+    {
+      "id": 257,
+      "name": "blaziken",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 257,
+          "name": "blaziken",
+          "types": [
+            "fire",
+            "fighting"
+          ]
+        },
+        {
+          "id": 10050,
+          "name": "blaziken-mega",
+          "types": [
+            "fire",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "blaziken",
+        "blaziken-mega"
+      ],
+      "types": [
+        "fire",
+        "fighting"
+      ]
+    },
+    {
+      "id": 322,
+      "name": "numel",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "mountain",
+      "pokemons": [
+        {
+          "id": 322,
+          "name": "numel",
+          "types": [
+            "fire",
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "numel"
+      ],
+      "types": [
+        "fire",
+        "ground"
+      ]
+    },
+    {
+      "id": 323,
+      "name": "camerupt",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 150,
+      "habitat": "mountain",
+      "pokemons": [
+        {
+          "id": 323,
+          "name": "camerupt",
+          "types": [
+            "fire",
+            "ground"
+          ]
+        },
+        {
+          "id": 10087,
+          "name": "camerupt-mega",
+          "types": [
+            "fire",
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "camerupt",
+        "camerupt-mega"
+      ],
+      "types": [
+        "fire",
+        "ground"
+      ]
+    },
+    {
+      "id": 324,
+      "name": "torkoal",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": "mountain",
+      "pokemons": [
+        {
+          "id": 324,
+          "name": "torkoal",
+          "types": [
+            "fire"
+          ]
+        }
+      ],
+      "names": [
+        "torkoal"
+      ],
+      "types": [
+        "fire"
+      ]
+    },
+    {
+      "id": 351,
+      "name": "castform",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 351,
+          "name": "castform",
+          "types": [
+            "normal"
+          ]
+        },
+        {
+          "id": 10013,
+          "name": "castform-sunny",
+          "types": [
+            "fire"
+          ]
+        },
+        {
+          "id": 10014,
+          "name": "castform-rainy",
+          "types": [
+            "water"
+          ]
+        },
+        {
+          "id": 10015,
+          "name": "castform-snowy",
+          "types": [
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "castform",
+        "castform-sunny",
+        "castform-rainy",
+        "castform-snowy"
+      ],
+      "types": [
+        "normal",
+        "fire",
+        "water",
+        "ice"
+      ]
+    },
+    {
+      "id": 383,
+      "name": "groudon",
+      "gen": 3,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": "rough-terrain",
+      "pokemons": [
+        {
+          "id": 383,
+          "name": "groudon",
+          "types": [
+            "ground"
+          ]
+        },
+        {
+          "id": 10078,
+          "name": "groudon-primal",
+          "types": [
+            "ground",
+            "fire"
+          ]
+        }
+      ],
+      "names": [
+        "groudon",
+        "groudon-primal"
+      ],
+      "types": [
+        "ground",
+        "fire"
+      ]
+    }
+  ],
+  "page": 1,
+  "nextPage": null
+}

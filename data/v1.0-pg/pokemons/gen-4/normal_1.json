@@ -1,0 +1,451 @@
+{
+  "data": [
+    {
+      "id": 396,
+      "name": "starly",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 396,
+          "name": "starly",
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "starly"
+      ],
+      "types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "id": 397,
+      "name": "staravia",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 397,
+          "name": "staravia",
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "staravia"
+      ],
+      "types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "id": 398,
+      "name": "staraptor",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 398,
+          "name": "staraptor",
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "staraptor"
+      ],
+      "types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "id": 399,
+      "name": "bidoof",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 399,
+          "name": "bidoof",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "bidoof"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 400,
+      "name": "bibarel",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 127,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 400,
+          "name": "bibarel",
+          "types": [
+            "normal",
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "bibarel"
+      ],
+      "types": [
+        "normal",
+        "water"
+      ]
+    },
+    {
+      "id": 424,
+      "name": "ambipom",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 424,
+          "name": "ambipom",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "ambipom"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 427,
+      "name": "buneary",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 427,
+          "name": "buneary",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "buneary"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 428,
+      "name": "lopunny",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 428,
+          "name": "lopunny",
+          "types": [
+            "normal"
+          ]
+        },
+        {
+          "id": 10088,
+          "name": "lopunny-mega",
+          "types": [
+            "normal",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "lopunny",
+        "lopunny-mega"
+      ],
+      "types": [
+        "normal",
+        "fighting"
+      ]
+    },
+    {
+      "id": 431,
+      "name": "glameow",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 431,
+          "name": "glameow",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "glameow"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 432,
+      "name": "purugly",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 432,
+          "name": "purugly",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "purugly"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 440,
+      "name": "happiny",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": true,
+      "captureRate": 130,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 440,
+          "name": "happiny",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "happiny"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 441,
+      "name": "chatot",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 441,
+          "name": "chatot",
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "chatot"
+      ],
+      "types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "id": 446,
+      "name": "munchlax",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": true,
+      "captureRate": 50,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 446,
+          "name": "munchlax",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "munchlax"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 463,
+      "name": "lickilicky",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 463,
+          "name": "lickilicky",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "lickilicky"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 474,
+      "name": "porygon-z",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 474,
+          "name": "porygon-z",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "porygon-z"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 486,
+      "name": "regigigas",
+      "gen": 4,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 486,
+          "name": "regigigas",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "regigigas"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 493,
+      "name": "arceus",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": true,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 493,
+          "name": "arceus",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "arceus"
+      ],
+      "types": [
+        "normal"
+      ]
+    }
+  ],
+  "page": 1,
+  "nextPage": null
+}

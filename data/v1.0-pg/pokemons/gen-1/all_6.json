@@ -1,0 +1,741 @@
+{
+  "data": [
+    {
+      "id": 121,
+      "name": "starmie",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": "sea",
+      "pokemons": [
+        {
+          "id": 121,
+          "name": "starmie",
+          "types": [
+            "water",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "starmie"
+      ],
+      "types": [
+        "water",
+        "psychic"
+      ]
+    },
+    {
+      "id": 122,
+      "name": "mr-mime",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "urban",
+      "pokemons": [
+        {
+          "id": 122,
+          "name": "mr-mime",
+          "types": [
+            "psychic",
+            "fairy"
+          ]
+        },
+        {
+          "id": 10168,
+          "name": "mr-mime-galar",
+          "types": [
+            "ice",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "mr-mime",
+        "mr-mime-galar"
+      ],
+      "types": [
+        "psychic",
+        "fairy",
+        "ice"
+      ]
+    },
+    {
+      "id": 123,
+      "name": "scyther",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 123,
+          "name": "scyther",
+          "types": [
+            "bug",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "scyther"
+      ],
+      "types": [
+        "bug",
+        "flying"
+      ]
+    },
+    {
+      "id": 124,
+      "name": "jynx",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "urban",
+      "pokemons": [
+        {
+          "id": 124,
+          "name": "jynx",
+          "types": [
+            "ice",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "jynx"
+      ],
+      "types": [
+        "ice",
+        "psychic"
+      ]
+    },
+    {
+      "id": 125,
+      "name": "electabuzz",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 125,
+          "name": "electabuzz",
+          "types": [
+            "electric"
+          ]
+        }
+      ],
+      "names": [
+        "electabuzz"
+      ],
+      "types": [
+        "electric"
+      ]
+    },
+    {
+      "id": 126,
+      "name": "magmar",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "mountain",
+      "pokemons": [
+        {
+          "id": 126,
+          "name": "magmar",
+          "types": [
+            "fire"
+          ]
+        }
+      ],
+      "names": [
+        "magmar"
+      ],
+      "types": [
+        "fire"
+      ]
+    },
+    {
+      "id": 127,
+      "name": "pinsir",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 127,
+          "name": "pinsir",
+          "types": [
+            "bug"
+          ]
+        },
+        {
+          "id": 10040,
+          "name": "pinsir-mega",
+          "types": [
+            "bug",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "pinsir",
+        "pinsir-mega"
+      ],
+      "types": [
+        "bug",
+        "flying"
+      ]
+    },
+    {
+      "id": 128,
+      "name": "tauros",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 128,
+          "name": "tauros",
+          "types": [
+            "normal"
+          ]
+        },
+        {
+          "id": 10250,
+          "name": "tauros-paldea-combat-breed",
+          "types": [
+            "fighting"
+          ]
+        },
+        {
+          "id": 10251,
+          "name": "tauros-paldea-blaze-breed",
+          "types": [
+            "fighting",
+            "fire"
+          ]
+        },
+        {
+          "id": 10252,
+          "name": "tauros-paldea-aqua-breed",
+          "types": [
+            "fighting",
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "tauros",
+        "tauros-paldea-combat-breed",
+        "tauros-paldea-blaze-breed",
+        "tauros-paldea-aqua-breed"
+      ],
+      "types": [
+        "normal",
+        "fighting",
+        "fire",
+        "water"
+      ]
+    },
+    {
+      "id": 129,
+      "name": "magikarp",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 129,
+          "name": "magikarp",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "magikarp"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 130,
+      "name": "gyarados",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 130,
+          "name": "gyarados",
+          "types": [
+            "water",
+            "flying"
+          ]
+        },
+        {
+          "id": 10041,
+          "name": "gyarados-mega",
+          "types": [
+            "water",
+            "dark"
+          ]
+        }
+      ],
+      "names": [
+        "gyarados",
+        "gyarados-mega"
+      ],
+      "types": [
+        "water",
+        "flying",
+        "dark"
+      ]
+    },
+    {
+      "id": 131,
+      "name": "lapras",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "sea",
+      "pokemons": [
+        {
+          "id": 131,
+          "name": "lapras",
+          "types": [
+            "water",
+            "ice"
+          ]
+        },
+        {
+          "id": 10204,
+          "name": "lapras-gmax",
+          "types": [
+            "water",
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "lapras",
+        "lapras-gmax"
+      ],
+      "types": [
+        "water",
+        "ice"
+      ]
+    },
+    {
+      "id": 132,
+      "name": "ditto",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 35,
+      "habitat": "urban",
+      "pokemons": [
+        {
+          "id": 132,
+          "name": "ditto",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "ditto"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 133,
+      "name": "eevee",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "urban",
+      "pokemons": [
+        {
+          "id": 133,
+          "name": "eevee",
+          "types": [
+            "normal"
+          ]
+        },
+        {
+          "id": 10159,
+          "name": "eevee-starter",
+          "types": [
+            "normal"
+          ]
+        },
+        {
+          "id": 10205,
+          "name": "eevee-gmax",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "eevee",
+        "eevee-starter",
+        "eevee-gmax"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 134,
+      "name": "vaporeon",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "urban",
+      "pokemons": [
+        {
+          "id": 134,
+          "name": "vaporeon",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "vaporeon"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 135,
+      "name": "jolteon",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "urban",
+      "pokemons": [
+        {
+          "id": 135,
+          "name": "jolteon",
+          "types": [
+            "electric"
+          ]
+        }
+      ],
+      "names": [
+        "jolteon"
+      ],
+      "types": [
+        "electric"
+      ]
+    },
+    {
+      "id": 136,
+      "name": "flareon",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "urban",
+      "pokemons": [
+        {
+          "id": 136,
+          "name": "flareon",
+          "types": [
+            "fire"
+          ]
+        }
+      ],
+      "names": [
+        "flareon"
+      ],
+      "types": [
+        "fire"
+      ]
+    },
+    {
+      "id": 137,
+      "name": "porygon",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "urban",
+      "pokemons": [
+        {
+          "id": 137,
+          "name": "porygon",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "porygon"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 138,
+      "name": "omanyte",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "sea",
+      "pokemons": [
+        {
+          "id": 138,
+          "name": "omanyte",
+          "types": [
+            "rock",
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "omanyte"
+      ],
+      "types": [
+        "rock",
+        "water"
+      ]
+    },
+    {
+      "id": 139,
+      "name": "omastar",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "sea",
+      "pokemons": [
+        {
+          "id": 139,
+          "name": "omastar",
+          "types": [
+            "rock",
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "omastar"
+      ],
+      "types": [
+        "rock",
+        "water"
+      ]
+    },
+    {
+      "id": 140,
+      "name": "kabuto",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "sea",
+      "pokemons": [
+        {
+          "id": 140,
+          "name": "kabuto",
+          "types": [
+            "rock",
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "kabuto"
+      ],
+      "types": [
+        "rock",
+        "water"
+      ]
+    },
+    {
+      "id": 141,
+      "name": "kabutops",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "sea",
+      "pokemons": [
+        {
+          "id": 141,
+          "name": "kabutops",
+          "types": [
+            "rock",
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "kabutops"
+      ],
+      "types": [
+        "rock",
+        "water"
+      ]
+    },
+    {
+      "id": 142,
+      "name": "aerodactyl",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "mountain",
+      "pokemons": [
+        {
+          "id": 142,
+          "name": "aerodactyl",
+          "types": [
+            "rock",
+            "flying"
+          ]
+        },
+        {
+          "id": 10042,
+          "name": "aerodactyl-mega",
+          "types": [
+            "rock",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "aerodactyl",
+        "aerodactyl-mega"
+      ],
+      "types": [
+        "rock",
+        "flying"
+      ]
+    },
+    {
+      "id": 143,
+      "name": "snorlax",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 25,
+      "habitat": "mountain",
+      "pokemons": [
+        {
+          "id": 143,
+          "name": "snorlax",
+          "types": [
+            "normal"
+          ]
+        },
+        {
+          "id": 10206,
+          "name": "snorlax-gmax",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "snorlax",
+        "snorlax-gmax"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 144,
+      "name": "articuno",
+      "gen": 1,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": "rare",
+      "pokemons": [
+        {
+          "id": 144,
+          "name": "articuno",
+          "types": [
+            "ice",
+            "flying"
+          ]
+        },
+        {
+          "id": 10169,
+          "name": "articuno-galar",
+          "types": [
+            "psychic",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "articuno",
+        "articuno-galar"
+      ],
+      "types": [
+        "ice",
+        "flying",
+        "psychic"
+      ]
+    }
+  ],
+  "page": 6,
+  "nextPage": 7
+}

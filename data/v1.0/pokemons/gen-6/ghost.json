@@ -1,0 +1,291 @@
+[
+  {
+    "id": 679,
+    "name": "honedge",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 180,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 679,
+        "name": "honedge",
+        "types": [
+          "steel",
+          "ghost"
+        ]
+      }
+    ],
+    "names": [
+      "honedge"
+    ],
+    "types": [
+      "steel",
+      "ghost"
+    ]
+  },
+  {
+    "id": 680,
+    "name": "doublade",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 90,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 680,
+        "name": "doublade",
+        "types": [
+          "steel",
+          "ghost"
+        ]
+      }
+    ],
+    "names": [
+      "doublade"
+    ],
+    "types": [
+      "steel",
+      "ghost"
+    ]
+  },
+  {
+    "id": 681,
+    "name": "aegislash",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 681,
+        "name": "aegislash-shield",
+        "types": [
+          "steel",
+          "ghost"
+        ]
+      },
+      {
+        "id": 10026,
+        "name": "aegislash-blade",
+        "types": [
+          "steel",
+          "ghost"
+        ]
+      }
+    ],
+    "names": [
+      "aegislash-shield",
+      "aegislash-blade"
+    ],
+    "types": [
+      "steel",
+      "ghost"
+    ]
+  },
+  {
+    "id": 708,
+    "name": "phantump",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 120,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 708,
+        "name": "phantump",
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "phantump"
+    ],
+    "types": [
+      "ghost",
+      "grass"
+    ]
+  },
+  {
+    "id": 709,
+    "name": "trevenant",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 60,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 709,
+        "name": "trevenant",
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "trevenant"
+    ],
+    "types": [
+      "ghost",
+      "grass"
+    ]
+  },
+  {
+    "id": 710,
+    "name": "pumpkaboo",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 120,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 710,
+        "name": "pumpkaboo-average",
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      },
+      {
+        "id": 10027,
+        "name": "pumpkaboo-small",
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      },
+      {
+        "id": 10028,
+        "name": "pumpkaboo-large",
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      },
+      {
+        "id": 10029,
+        "name": "pumpkaboo-super",
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "pumpkaboo-average",
+      "pumpkaboo-small",
+      "pumpkaboo-large",
+      "pumpkaboo-super"
+    ],
+    "types": [
+      "ghost",
+      "grass"
+    ]
+  },
+  {
+    "id": 711,
+    "name": "gourgeist",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 60,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 711,
+        "name": "gourgeist-average",
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      },
+      {
+        "id": 10030,
+        "name": "gourgeist-small",
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      },
+      {
+        "id": 10031,
+        "name": "gourgeist-large",
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      },
+      {
+        "id": 10032,
+        "name": "gourgeist-super",
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "gourgeist-average",
+      "gourgeist-small",
+      "gourgeist-large",
+      "gourgeist-super"
+    ],
+    "types": [
+      "ghost",
+      "grass"
+    ]
+  },
+  {
+    "id": 720,
+    "name": "hoopa",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": true,
+    "isBaby": false,
+    "captureRate": 3,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 720,
+        "name": "hoopa",
+        "types": [
+          "psychic",
+          "ghost"
+        ]
+      },
+      {
+        "id": 10086,
+        "name": "hoopa-unbound",
+        "types": [
+          "psychic",
+          "dark"
+        ]
+      }
+    ],
+    "names": [
+      "hoopa",
+      "hoopa-unbound"
+    ],
+    "types": [
+      "psychic",
+      "ghost",
+      "dark"
+    ]
+  }
+]

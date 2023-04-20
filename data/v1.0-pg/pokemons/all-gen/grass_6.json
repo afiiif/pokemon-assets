@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "id": 951,
+      "name": "capsakid",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 951,
+          "name": "capsakid",
+          "types": [
+            "grass"
+          ]
+        }
+      ],
+      "names": [
+        "capsakid"
+      ],
+      "types": [
+        "grass"
+      ]
+    },
+    {
+      "id": 952,
+      "name": "scovillain",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 952,
+          "name": "scovillain",
+          "types": [
+            "grass",
+            "fire"
+          ]
+        }
+      ],
+      "names": [
+        "scovillain"
+      ],
+      "types": [
+        "grass",
+        "fire"
+      ]
+    },
+    {
+      "id": 986,
+      "name": "brute-bonnet",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 50,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 986,
+          "name": "brute-bonnet",
+          "types": [
+            "grass",
+            "dark"
+          ]
+        }
+      ],
+      "names": [
+        "brute-bonnet"
+      ],
+      "types": [
+        "grass",
+        "dark"
+      ]
+    },
+    {
+      "id": 1001,
+      "name": "wo-chien",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 6,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 1001,
+          "name": "wo-chien",
+          "types": [
+            "dark",
+            "grass"
+          ]
+        }
+      ],
+      "names": [
+        "wo-chien"
+      ],
+      "types": [
+        "dark",
+        "grass"
+      ]
+    }
+  ],
+  "page": 6,
+  "nextPage": null
+}

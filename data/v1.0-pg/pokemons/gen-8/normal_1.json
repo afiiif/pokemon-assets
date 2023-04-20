@@ -1,0 +1,223 @@
+{
+  "data": [
+    {
+      "id": 819,
+      "name": "skwovet",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 819,
+          "name": "skwovet",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "skwovet"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 820,
+      "name": "greedent",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 820,
+          "name": "greedent",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "greedent"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 831,
+      "name": "wooloo",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 831,
+          "name": "wooloo",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "wooloo"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 832,
+      "name": "dubwool",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 127,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 832,
+          "name": "dubwool",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "dubwool"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 862,
+      "name": "obstagoon",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 862,
+          "name": "obstagoon",
+          "types": [
+            "dark",
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "obstagoon"
+      ],
+      "types": [
+        "dark",
+        "normal"
+      ]
+    },
+    {
+      "id": 876,
+      "name": "indeedee",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 876,
+          "name": "indeedee-male",
+          "types": [
+            "psychic",
+            "normal"
+          ]
+        },
+        {
+          "id": 10186,
+          "name": "indeedee-female",
+          "types": [
+            "psychic",
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "indeedee-male",
+        "indeedee-female"
+      ],
+      "types": [
+        "psychic",
+        "normal"
+      ]
+    },
+    {
+      "id": 899,
+      "name": "wyrdeer",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 135,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 899,
+          "name": "wyrdeer",
+          "types": [
+            "normal",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "wyrdeer"
+      ],
+      "types": [
+        "normal",
+        "psychic"
+      ]
+    },
+    {
+      "id": 901,
+      "name": "ursaluna",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 901,
+          "name": "ursaluna",
+          "types": [
+            "ground",
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "ursaluna"
+      ],
+      "types": [
+        "ground",
+        "normal"
+      ]
+    }
+  ],
+  "page": 1,
+  "nextPage": null
+}

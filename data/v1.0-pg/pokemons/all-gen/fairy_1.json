@@ -1,0 +1,706 @@
+{
+  "data": [
+    {
+      "id": 35,
+      "name": "clefairy",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 150,
+      "habitat": "mountain",
+      "pokemons": [
+        {
+          "id": 35,
+          "name": "clefairy",
+          "types": [
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "clefairy"
+      ],
+      "types": [
+        "fairy"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "clefable",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 25,
+      "habitat": "mountain",
+      "pokemons": [
+        {
+          "id": 36,
+          "name": "clefable",
+          "types": [
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "clefable"
+      ],
+      "types": [
+        "fairy"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "ninetales",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 38,
+          "name": "ninetales",
+          "types": [
+            "fire"
+          ]
+        },
+        {
+          "id": 10104,
+          "name": "ninetales-alola",
+          "types": [
+            "ice",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "ninetales",
+        "ninetales-alola"
+      ],
+      "types": [
+        "fire",
+        "ice",
+        "fairy"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "jigglypuff",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 170,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 39,
+          "name": "jigglypuff",
+          "types": [
+            "normal",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "jigglypuff"
+      ],
+      "types": [
+        "normal",
+        "fairy"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "wigglytuff",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 50,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 40,
+          "name": "wigglytuff",
+          "types": [
+            "normal",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "wigglytuff"
+      ],
+      "types": [
+        "normal",
+        "fairy"
+      ]
+    },
+    {
+      "id": 78,
+      "name": "rapidash",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 78,
+          "name": "rapidash",
+          "types": [
+            "fire"
+          ]
+        },
+        {
+          "id": 10163,
+          "name": "rapidash-galar",
+          "types": [
+            "psychic",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "rapidash",
+        "rapidash-galar"
+      ],
+      "types": [
+        "fire",
+        "psychic",
+        "fairy"
+      ]
+    },
+    {
+      "id": 110,
+      "name": "weezing",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": "urban",
+      "pokemons": [
+        {
+          "id": 110,
+          "name": "weezing",
+          "types": [
+            "poison"
+          ]
+        },
+        {
+          "id": 10167,
+          "name": "weezing-galar",
+          "types": [
+            "poison",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "weezing",
+        "weezing-galar"
+      ],
+      "types": [
+        "poison",
+        "fairy"
+      ]
+    },
+    {
+      "id": 122,
+      "name": "mr-mime",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "urban",
+      "pokemons": [
+        {
+          "id": 122,
+          "name": "mr-mime",
+          "types": [
+            "psychic",
+            "fairy"
+          ]
+        },
+        {
+          "id": 10168,
+          "name": "mr-mime-galar",
+          "types": [
+            "ice",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "mr-mime",
+        "mr-mime-galar"
+      ],
+      "types": [
+        "psychic",
+        "fairy",
+        "ice"
+      ]
+    },
+    {
+      "id": 173,
+      "name": "cleffa",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": true,
+      "captureRate": 150,
+      "habitat": "mountain",
+      "pokemons": [
+        {
+          "id": 173,
+          "name": "cleffa",
+          "types": [
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "cleffa"
+      ],
+      "types": [
+        "fairy"
+      ]
+    },
+    {
+      "id": 174,
+      "name": "igglybuff",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": true,
+      "captureRate": 170,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 174,
+          "name": "igglybuff",
+          "types": [
+            "normal",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "igglybuff"
+      ],
+      "types": [
+        "normal",
+        "fairy"
+      ]
+    },
+    {
+      "id": 175,
+      "name": "togepi",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": true,
+      "captureRate": 190,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 175,
+          "name": "togepi",
+          "types": [
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "togepi"
+      ],
+      "types": [
+        "fairy"
+      ]
+    },
+    {
+      "id": 176,
+      "name": "togetic",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 176,
+          "name": "togetic",
+          "types": [
+            "fairy",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "togetic"
+      ],
+      "types": [
+        "fairy",
+        "flying"
+      ]
+    },
+    {
+      "id": 183,
+      "name": "marill",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 183,
+          "name": "marill",
+          "types": [
+            "water",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "marill"
+      ],
+      "types": [
+        "water",
+        "fairy"
+      ]
+    },
+    {
+      "id": 184,
+      "name": "azumarill",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 184,
+          "name": "azumarill",
+          "types": [
+            "water",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "azumarill"
+      ],
+      "types": [
+        "water",
+        "fairy"
+      ]
+    },
+    {
+      "id": 209,
+      "name": "snubbull",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": "urban",
+      "pokemons": [
+        {
+          "id": 209,
+          "name": "snubbull",
+          "types": [
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "snubbull"
+      ],
+      "types": [
+        "fairy"
+      ]
+    },
+    {
+      "id": 210,
+      "name": "granbull",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": "urban",
+      "pokemons": [
+        {
+          "id": 210,
+          "name": "granbull",
+          "types": [
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "granbull"
+      ],
+      "types": [
+        "fairy"
+      ]
+    },
+    {
+      "id": 280,
+      "name": "ralts",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 235,
+      "habitat": "urban",
+      "pokemons": [
+        {
+          "id": 280,
+          "name": "ralts",
+          "types": [
+            "psychic",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "ralts"
+      ],
+      "types": [
+        "psychic",
+        "fairy"
+      ]
+    },
+    {
+      "id": 281,
+      "name": "kirlia",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": "urban",
+      "pokemons": [
+        {
+          "id": 281,
+          "name": "kirlia",
+          "types": [
+            "psychic",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "kirlia"
+      ],
+      "types": [
+        "psychic",
+        "fairy"
+      ]
+    },
+    {
+      "id": 282,
+      "name": "gardevoir",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "urban",
+      "pokemons": [
+        {
+          "id": 282,
+          "name": "gardevoir",
+          "types": [
+            "psychic",
+            "fairy"
+          ]
+        },
+        {
+          "id": 10051,
+          "name": "gardevoir-mega",
+          "types": [
+            "psychic",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "gardevoir",
+        "gardevoir-mega"
+      ],
+      "types": [
+        "psychic",
+        "fairy"
+      ]
+    },
+    {
+      "id": 298,
+      "name": "azurill",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": true,
+      "captureRate": 150,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 298,
+          "name": "azurill",
+          "types": [
+            "normal",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "azurill"
+      ],
+      "types": [
+        "normal",
+        "fairy"
+      ]
+    },
+    {
+      "id": 303,
+      "name": "mawile",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "cave",
+      "pokemons": [
+        {
+          "id": 303,
+          "name": "mawile",
+          "types": [
+            "steel",
+            "fairy"
+          ]
+        },
+        {
+          "id": 10052,
+          "name": "mawile-mega",
+          "types": [
+            "steel",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "mawile",
+        "mawile-mega"
+      ],
+      "types": [
+        "steel",
+        "fairy"
+      ]
+    },
+    {
+      "id": 334,
+      "name": "altaria",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 334,
+          "name": "altaria",
+          "types": [
+            "dragon",
+            "flying"
+          ]
+        },
+        {
+          "id": 10067,
+          "name": "altaria-mega",
+          "types": [
+            "dragon",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "altaria",
+        "altaria-mega"
+      ],
+      "types": [
+        "dragon",
+        "flying",
+        "fairy"
+      ]
+    },
+    {
+      "id": 439,
+      "name": "mime-jr",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": true,
+      "captureRate": 145,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 439,
+          "name": "mime-jr",
+          "types": [
+            "psychic",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "mime-jr"
+      ],
+      "types": [
+        "psychic",
+        "fairy"
+      ]
+    },
+    {
+      "id": 468,
+      "name": "togekiss",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 468,
+          "name": "togekiss",
+          "types": [
+            "fairy",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "togekiss"
+      ],
+      "types": [
+        "fairy",
+        "flying"
+      ]
+    }
+  ],
+  "page": 1,
+  "nextPage": 2
+}

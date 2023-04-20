@@ -1,0 +1,673 @@
+{
+  "data": [
+    {
+      "id": 7,
+      "name": "squirtle",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 7,
+          "name": "squirtle",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "squirtle"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "wartortle",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 8,
+          "name": "wartortle",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "wartortle"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "blastoise",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 9,
+          "name": "blastoise",
+          "types": [
+            "water"
+          ]
+        },
+        {
+          "id": 10036,
+          "name": "blastoise-mega",
+          "types": [
+            "water"
+          ]
+        },
+        {
+          "id": 10197,
+          "name": "blastoise-gmax",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "blastoise",
+        "blastoise-mega",
+        "blastoise-gmax"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "psyduck",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 54,
+          "name": "psyduck",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "psyduck"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "golduck",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 55,
+          "name": "golduck",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "golduck"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "poliwag",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 60,
+          "name": "poliwag",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "poliwag"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "poliwhirl",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 61,
+          "name": "poliwhirl",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "poliwhirl"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "poliwrath",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 62,
+          "name": "poliwrath",
+          "types": [
+            "water",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "poliwrath"
+      ],
+      "types": [
+        "water",
+        "fighting"
+      ]
+    },
+    {
+      "id": 72,
+      "name": "tentacool",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": "sea",
+      "pokemons": [
+        {
+          "id": 72,
+          "name": "tentacool",
+          "types": [
+            "water",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "tentacool"
+      ],
+      "types": [
+        "water",
+        "poison"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "tentacruel",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": "sea",
+      "pokemons": [
+        {
+          "id": 73,
+          "name": "tentacruel",
+          "types": [
+            "water",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "tentacruel"
+      ],
+      "types": [
+        "water",
+        "poison"
+      ]
+    },
+    {
+      "id": 79,
+      "name": "slowpoke",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 79,
+          "name": "slowpoke",
+          "types": [
+            "water",
+            "psychic"
+          ]
+        },
+        {
+          "id": 10164,
+          "name": "slowpoke-galar",
+          "types": [
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "slowpoke",
+        "slowpoke-galar"
+      ],
+      "types": [
+        "water",
+        "psychic"
+      ]
+    },
+    {
+      "id": 80,
+      "name": "slowbro",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 80,
+          "name": "slowbro",
+          "types": [
+            "water",
+            "psychic"
+          ]
+        },
+        {
+          "id": 10071,
+          "name": "slowbro-mega",
+          "types": [
+            "water",
+            "psychic"
+          ]
+        },
+        {
+          "id": 10165,
+          "name": "slowbro-galar",
+          "types": [
+            "poison",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "slowbro",
+        "slowbro-mega",
+        "slowbro-galar"
+      ],
+      "types": [
+        "water",
+        "psychic",
+        "poison"
+      ]
+    },
+    {
+      "id": 86,
+      "name": "seel",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": "sea",
+      "pokemons": [
+        {
+          "id": 86,
+          "name": "seel",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "seel"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 87,
+      "name": "dewgong",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": "sea",
+      "pokemons": [
+        {
+          "id": 87,
+          "name": "dewgong",
+          "types": [
+            "water",
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "dewgong"
+      ],
+      "types": [
+        "water",
+        "ice"
+      ]
+    },
+    {
+      "id": 90,
+      "name": "shellder",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": "sea",
+      "pokemons": [
+        {
+          "id": 90,
+          "name": "shellder",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "shellder"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 91,
+      "name": "cloyster",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": "sea",
+      "pokemons": [
+        {
+          "id": 91,
+          "name": "cloyster",
+          "types": [
+            "water",
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "cloyster"
+      ],
+      "types": [
+        "water",
+        "ice"
+      ]
+    },
+    {
+      "id": 98,
+      "name": "krabby",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 225,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 98,
+          "name": "krabby",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "krabby"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 99,
+      "name": "kingler",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 99,
+          "name": "kingler",
+          "types": [
+            "water"
+          ]
+        },
+        {
+          "id": 10203,
+          "name": "kingler-gmax",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "kingler",
+        "kingler-gmax"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 116,
+      "name": "horsea",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 225,
+      "habitat": "sea",
+      "pokemons": [
+        {
+          "id": 116,
+          "name": "horsea",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "horsea"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 117,
+      "name": "seadra",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": "sea",
+      "pokemons": [
+        {
+          "id": 117,
+          "name": "seadra",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "seadra"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 118,
+      "name": "goldeen",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 225,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 118,
+          "name": "goldeen",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "goldeen"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 119,
+      "name": "seaking",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 119,
+          "name": "seaking",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "seaking"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 120,
+      "name": "staryu",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 225,
+      "habitat": "sea",
+      "pokemons": [
+        {
+          "id": 120,
+          "name": "staryu",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "staryu"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 121,
+      "name": "starmie",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": "sea",
+      "pokemons": [
+        {
+          "id": 121,
+          "name": "starmie",
+          "types": [
+            "water",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "starmie"
+      ],
+      "types": [
+        "water",
+        "psychic"
+      ]
+    }
+  ],
+  "page": 1,
+  "nextPage": 2
+}

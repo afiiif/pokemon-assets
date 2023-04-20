@@ -1,0 +1,284 @@
+[
+  {
+    "id": 554,
+    "name": "darumaka",
+    "gen": 5,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 120,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 554,
+        "name": "darumaka",
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "id": 10176,
+        "name": "darumaka-galar",
+        "types": [
+          "ice"
+        ]
+      }
+    ],
+    "names": [
+      "darumaka",
+      "darumaka-galar"
+    ],
+    "types": [
+      "fire",
+      "ice"
+    ]
+  },
+  {
+    "id": 555,
+    "name": "darmanitan",
+    "gen": 5,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 60,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 555,
+        "name": "darmanitan-standard",
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "id": 10017,
+        "name": "darmanitan-zen",
+        "types": [
+          "fire",
+          "psychic"
+        ]
+      },
+      {
+        "id": 10177,
+        "name": "darmanitan-galar-standard",
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "id": 10178,
+        "name": "darmanitan-galar-zen",
+        "types": [
+          "ice",
+          "fire"
+        ]
+      }
+    ],
+    "names": [
+      "darmanitan-standard",
+      "darmanitan-zen",
+      "darmanitan-galar-standard",
+      "darmanitan-galar-zen"
+    ],
+    "types": [
+      "fire",
+      "psychic",
+      "ice"
+    ]
+  },
+  {
+    "id": 582,
+    "name": "vanillite",
+    "gen": 5,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 255,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 582,
+        "name": "vanillite",
+        "types": [
+          "ice"
+        ]
+      }
+    ],
+    "names": [
+      "vanillite"
+    ],
+    "types": [
+      "ice"
+    ]
+  },
+  {
+    "id": 583,
+    "name": "vanillish",
+    "gen": 5,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 120,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 583,
+        "name": "vanillish",
+        "types": [
+          "ice"
+        ]
+      }
+    ],
+    "names": [
+      "vanillish"
+    ],
+    "types": [
+      "ice"
+    ]
+  },
+  {
+    "id": 584,
+    "name": "vanilluxe",
+    "gen": 5,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 584,
+        "name": "vanilluxe",
+        "types": [
+          "ice"
+        ]
+      }
+    ],
+    "names": [
+      "vanilluxe"
+    ],
+    "types": [
+      "ice"
+    ]
+  },
+  {
+    "id": 613,
+    "name": "cubchoo",
+    "gen": 5,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 120,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 613,
+        "name": "cubchoo",
+        "types": [
+          "ice"
+        ]
+      }
+    ],
+    "names": [
+      "cubchoo"
+    ],
+    "types": [
+      "ice"
+    ]
+  },
+  {
+    "id": 614,
+    "name": "beartic",
+    "gen": 5,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 60,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 614,
+        "name": "beartic",
+        "types": [
+          "ice"
+        ]
+      }
+    ],
+    "names": [
+      "beartic"
+    ],
+    "types": [
+      "ice"
+    ]
+  },
+  {
+    "id": 615,
+    "name": "cryogonal",
+    "gen": 5,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 25,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 615,
+        "name": "cryogonal",
+        "types": [
+          "ice"
+        ]
+      }
+    ],
+    "names": [
+      "cryogonal"
+    ],
+    "types": [
+      "ice"
+    ]
+  },
+  {
+    "id": 646,
+    "name": "kyurem",
+    "gen": 5,
+    "isLegendary": true,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 3,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 646,
+        "name": "kyurem",
+        "types": [
+          "dragon",
+          "ice"
+        ]
+      },
+      {
+        "id": 10022,
+        "name": "kyurem-black",
+        "types": [
+          "dragon",
+          "ice"
+        ]
+      },
+      {
+        "id": 10023,
+        "name": "kyurem-white",
+        "types": [
+          "dragon",
+          "ice"
+        ]
+      }
+    ],
+    "names": [
+      "kyurem",
+      "kyurem-black",
+      "kyurem-white"
+    ],
+    "types": [
+      "dragon",
+      "ice"
+    ]
+  }
+]

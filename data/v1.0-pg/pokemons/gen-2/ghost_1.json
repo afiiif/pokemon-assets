@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "id": 157,
+      "name": "typhlosion",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 157,
+          "name": "typhlosion",
+          "types": [
+            "fire"
+          ]
+        },
+        {
+          "id": 10233,
+          "name": "typhlosion-hisui",
+          "types": [
+            "fire",
+            "ghost"
+          ]
+        }
+      ],
+      "names": [
+        "typhlosion",
+        "typhlosion-hisui"
+      ],
+      "types": [
+        "fire",
+        "ghost"
+      ]
+    },
+    {
+      "id": 200,
+      "name": "misdreavus",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "cave",
+      "pokemons": [
+        {
+          "id": 200,
+          "name": "misdreavus",
+          "types": [
+            "ghost"
+          ]
+        }
+      ],
+      "names": [
+        "misdreavus"
+      ],
+      "types": [
+        "ghost"
+      ]
+    },
+    {
+      "id": 222,
+      "name": "corsola",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": "sea",
+      "pokemons": [
+        {
+          "id": 222,
+          "name": "corsola",
+          "types": [
+            "water",
+            "rock"
+          ]
+        },
+        {
+          "id": 10173,
+          "name": "corsola-galar",
+          "types": [
+            "ghost"
+          ]
+        }
+      ],
+      "names": [
+        "corsola",
+        "corsola-galar"
+      ],
+      "types": [
+        "water",
+        "rock",
+        "ghost"
+      ]
+    }
+  ],
+  "page": 1,
+  "nextPage": null
+}

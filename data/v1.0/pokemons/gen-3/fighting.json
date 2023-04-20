@@ -1,0 +1,205 @@
+[
+  {
+    "id": 256,
+    "name": "combusken",
+    "gen": 3,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": "grassland",
+    "pokemons": [
+      {
+        "id": 256,
+        "name": "combusken",
+        "types": [
+          "fire",
+          "fighting"
+        ]
+      }
+    ],
+    "names": [
+      "combusken"
+    ],
+    "types": [
+      "fire",
+      "fighting"
+    ]
+  },
+  {
+    "id": 257,
+    "name": "blaziken",
+    "gen": 3,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": "grassland",
+    "pokemons": [
+      {
+        "id": 257,
+        "name": "blaziken",
+        "types": [
+          "fire",
+          "fighting"
+        ]
+      },
+      {
+        "id": 10050,
+        "name": "blaziken-mega",
+        "types": [
+          "fire",
+          "fighting"
+        ]
+      }
+    ],
+    "names": [
+      "blaziken",
+      "blaziken-mega"
+    ],
+    "types": [
+      "fire",
+      "fighting"
+    ]
+  },
+  {
+    "id": 286,
+    "name": "breloom",
+    "gen": 3,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 90,
+    "habitat": "forest",
+    "pokemons": [
+      {
+        "id": 286,
+        "name": "breloom",
+        "types": [
+          "grass",
+          "fighting"
+        ]
+      }
+    ],
+    "names": [
+      "breloom"
+    ],
+    "types": [
+      "grass",
+      "fighting"
+    ]
+  },
+  {
+    "id": 296,
+    "name": "makuhita",
+    "gen": 3,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 180,
+    "habitat": "mountain",
+    "pokemons": [
+      {
+        "id": 296,
+        "name": "makuhita",
+        "types": [
+          "fighting"
+        ]
+      }
+    ],
+    "names": [
+      "makuhita"
+    ],
+    "types": [
+      "fighting"
+    ]
+  },
+  {
+    "id": 297,
+    "name": "hariyama",
+    "gen": 3,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 200,
+    "habitat": "mountain",
+    "pokemons": [
+      {
+        "id": 297,
+        "name": "hariyama",
+        "types": [
+          "fighting"
+        ]
+      }
+    ],
+    "names": [
+      "hariyama"
+    ],
+    "types": [
+      "fighting"
+    ]
+  },
+  {
+    "id": 307,
+    "name": "meditite",
+    "gen": 3,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 180,
+    "habitat": "mountain",
+    "pokemons": [
+      {
+        "id": 307,
+        "name": "meditite",
+        "types": [
+          "fighting",
+          "psychic"
+        ]
+      }
+    ],
+    "names": [
+      "meditite"
+    ],
+    "types": [
+      "fighting",
+      "psychic"
+    ]
+  },
+  {
+    "id": 308,
+    "name": "medicham",
+    "gen": 3,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 90,
+    "habitat": "mountain",
+    "pokemons": [
+      {
+        "id": 308,
+        "name": "medicham",
+        "types": [
+          "fighting",
+          "psychic"
+        ]
+      },
+      {
+        "id": 10054,
+        "name": "medicham-mega",
+        "types": [
+          "fighting",
+          "psychic"
+        ]
+      }
+    ],
+    "names": [
+      "medicham",
+      "medicham-mega"
+    ],
+    "types": [
+      "fighting",
+      "psychic"
+    ]
+  }
+]

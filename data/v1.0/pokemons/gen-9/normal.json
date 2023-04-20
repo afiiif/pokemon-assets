@@ -1,0 +1,394 @@
+[
+  {
+    "id": 915,
+    "name": "lechonk",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 255,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 915,
+        "name": "lechonk",
+        "types": [
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "lechonk"
+    ],
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": 916,
+    "name": "oinkologne",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 100,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 916,
+        "name": "oinkologne",
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "id": 10254,
+        "name": "oinkologne-female",
+        "types": [
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "oinkologne",
+      "oinkologne-female"
+    ],
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": 924,
+    "name": "tandemaus",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 150,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 924,
+        "name": "tandemaus",
+        "types": [
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "tandemaus"
+    ],
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": 925,
+    "name": "maushold",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 75,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 925,
+        "name": "maushold",
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "id": 10257,
+        "name": "maushold-family-of-three",
+        "types": [
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "maushold",
+      "maushold-family-of-three"
+    ],
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": 928,
+    "name": "smoliv",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 255,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 928,
+        "name": "smoliv",
+        "types": [
+          "grass",
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "smoliv"
+    ],
+    "types": [
+      "grass",
+      "normal"
+    ]
+  },
+  {
+    "id": 929,
+    "name": "dolliv",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 120,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 929,
+        "name": "dolliv",
+        "types": [
+          "grass",
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "dolliv"
+    ],
+    "types": [
+      "grass",
+      "normal"
+    ]
+  },
+  {
+    "id": 930,
+    "name": "arboliva",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 930,
+        "name": "arboliva",
+        "types": [
+          "grass",
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "arboliva"
+    ],
+    "types": [
+      "grass",
+      "normal"
+    ]
+  },
+  {
+    "id": 931,
+    "name": "squawkabilly",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 190,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 931,
+        "name": "squawkabilly",
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "id": 10260,
+        "name": "squawkabilly-blue-plumage",
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "id": 10261,
+        "name": "squawkabilly-yellow-plumage",
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "id": 10262,
+        "name": "squawkabilly-white-plumage",
+        "types": [
+          "normal",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "squawkabilly",
+      "squawkabilly-blue-plumage",
+      "squawkabilly-yellow-plumage",
+      "squawkabilly-white-plumage"
+    ],
+    "types": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "id": 944,
+    "name": "shroodle",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 190,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 944,
+        "name": "shroodle",
+        "types": [
+          "poison",
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "shroodle"
+    ],
+    "types": [
+      "poison",
+      "normal"
+    ]
+  },
+  {
+    "id": 945,
+    "name": "grafaiai",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 90,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 945,
+        "name": "grafaiai",
+        "types": [
+          "poison",
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "grafaiai"
+    ],
+    "types": [
+      "poison",
+      "normal"
+    ]
+  },
+  {
+    "id": 967,
+    "name": "cyclizar",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 190,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 967,
+        "name": "cyclizar",
+        "types": [
+          "dragon",
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "cyclizar"
+    ],
+    "types": [
+      "dragon",
+      "normal"
+    ]
+  },
+  {
+    "id": 981,
+    "name": "farigiraf",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 981,
+        "name": "farigiraf",
+        "types": [
+          "normal",
+          "psychic"
+        ]
+      }
+    ],
+    "names": [
+      "farigiraf"
+    ],
+    "types": [
+      "normal",
+      "psychic"
+    ]
+  },
+  {
+    "id": 982,
+    "name": "dudunsparce",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 982,
+        "name": "dudunsparce",
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "id": 10255,
+        "name": "dudunsparce-three-segment",
+        "types": [
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "dudunsparce",
+      "dudunsparce-three-segment"
+    ],
+    "types": [
+      "normal"
+    ]
+  }
+]

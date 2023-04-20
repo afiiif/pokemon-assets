@@ -1,0 +1,260 @@
+[
+  {
+    "id": 152,
+    "name": "chikorita",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": "grassland",
+    "pokemons": [
+      {
+        "id": 152,
+        "name": "chikorita",
+        "types": [
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "chikorita"
+    ],
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "bayleef",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": "grassland",
+    "pokemons": [
+      {
+        "id": 153,
+        "name": "bayleef",
+        "types": [
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "bayleef"
+    ],
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "meganium",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": "grassland",
+    "pokemons": [
+      {
+        "id": 154,
+        "name": "meganium",
+        "types": [
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "meganium"
+    ],
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": 182,
+    "name": "bellossom",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": "grassland",
+    "pokemons": [
+      {
+        "id": 182,
+        "name": "bellossom",
+        "types": [
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "bellossom"
+    ],
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": 187,
+    "name": "hoppip",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 255,
+    "habitat": "grassland",
+    "pokemons": [
+      {
+        "id": 187,
+        "name": "hoppip",
+        "types": [
+          "grass",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "hoppip"
+    ],
+    "types": [
+      "grass",
+      "flying"
+    ]
+  },
+  {
+    "id": 188,
+    "name": "skiploom",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 120,
+    "habitat": "grassland",
+    "pokemons": [
+      {
+        "id": 188,
+        "name": "skiploom",
+        "types": [
+          "grass",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "skiploom"
+    ],
+    "types": [
+      "grass",
+      "flying"
+    ]
+  },
+  {
+    "id": 189,
+    "name": "jumpluff",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": "grassland",
+    "pokemons": [
+      {
+        "id": 189,
+        "name": "jumpluff",
+        "types": [
+          "grass",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "jumpluff"
+    ],
+    "types": [
+      "grass",
+      "flying"
+    ]
+  },
+  {
+    "id": 191,
+    "name": "sunkern",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 235,
+    "habitat": "grassland",
+    "pokemons": [
+      {
+        "id": 191,
+        "name": "sunkern",
+        "types": [
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "sunkern"
+    ],
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": 192,
+    "name": "sunflora",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 120,
+    "habitat": "grassland",
+    "pokemons": [
+      {
+        "id": 192,
+        "name": "sunflora",
+        "types": [
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "sunflora"
+    ],
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": 251,
+    "name": "celebi",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": true,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": "forest",
+    "pokemons": [
+      {
+        "id": 251,
+        "name": "celebi",
+        "types": [
+          "psychic",
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "celebi"
+    ],
+    "types": [
+      "psychic",
+      "grass"
+    ]
+  }
+]

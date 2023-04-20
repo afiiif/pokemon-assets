@@ -1,0 +1,210 @@
+[
+  {
+    "id": 173,
+    "name": "cleffa",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": true,
+    "captureRate": 150,
+    "habitat": "mountain",
+    "pokemons": [
+      {
+        "id": 173,
+        "name": "cleffa",
+        "types": [
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "cleffa"
+    ],
+    "types": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "igglybuff",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": true,
+    "captureRate": 170,
+    "habitat": "grassland",
+    "pokemons": [
+      {
+        "id": 174,
+        "name": "igglybuff",
+        "types": [
+          "normal",
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "igglybuff"
+    ],
+    "types": [
+      "normal",
+      "fairy"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "togepi",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": true,
+    "captureRate": 190,
+    "habitat": "forest",
+    "pokemons": [
+      {
+        "id": 175,
+        "name": "togepi",
+        "types": [
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "togepi"
+    ],
+    "types": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 176,
+    "name": "togetic",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 75,
+    "habitat": "forest",
+    "pokemons": [
+      {
+        "id": 176,
+        "name": "togetic",
+        "types": [
+          "fairy",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "togetic"
+    ],
+    "types": [
+      "fairy",
+      "flying"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "marill",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 190,
+    "habitat": "waters-edge",
+    "pokemons": [
+      {
+        "id": 183,
+        "name": "marill",
+        "types": [
+          "water",
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "marill"
+    ],
+    "types": [
+      "water",
+      "fairy"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "azumarill",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 75,
+    "habitat": "waters-edge",
+    "pokemons": [
+      {
+        "id": 184,
+        "name": "azumarill",
+        "types": [
+          "water",
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "azumarill"
+    ],
+    "types": [
+      "water",
+      "fairy"
+    ]
+  },
+  {
+    "id": 209,
+    "name": "snubbull",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 190,
+    "habitat": "urban",
+    "pokemons": [
+      {
+        "id": 209,
+        "name": "snubbull",
+        "types": [
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "snubbull"
+    ],
+    "types": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 210,
+    "name": "granbull",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 75,
+    "habitat": "urban",
+    "pokemons": [
+      {
+        "id": 210,
+        "name": "granbull",
+        "types": [
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "granbull"
+    ],
+    "types": [
+      "fairy"
+    ]
+  }
+]

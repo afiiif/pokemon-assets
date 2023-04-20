@@ -1,0 +1,659 @@
+{
+  "data": [
+    {
+      "id": 433,
+      "name": "chingling",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": true,
+      "captureRate": 120,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 433,
+          "name": "chingling",
+          "types": [
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "chingling"
+      ],
+      "types": [
+        "psychic"
+      ]
+    },
+    {
+      "id": 436,
+      "name": "bronzor",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 436,
+          "name": "bronzor",
+          "types": [
+            "steel",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "bronzor"
+      ],
+      "types": [
+        "steel",
+        "psychic"
+      ]
+    },
+    {
+      "id": 437,
+      "name": "bronzong",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 437,
+          "name": "bronzong",
+          "types": [
+            "steel",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "bronzong"
+      ],
+      "types": [
+        "steel",
+        "psychic"
+      ]
+    },
+    {
+      "id": 439,
+      "name": "mime-jr",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": true,
+      "captureRate": 145,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 439,
+          "name": "mime-jr",
+          "types": [
+            "psychic",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "mime-jr"
+      ],
+      "types": [
+        "psychic",
+        "fairy"
+      ]
+    },
+    {
+      "id": 475,
+      "name": "gallade",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 475,
+          "name": "gallade",
+          "types": [
+            "psychic",
+            "fighting"
+          ]
+        },
+        {
+          "id": 10068,
+          "name": "gallade-mega",
+          "types": [
+            "psychic",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "gallade",
+        "gallade-mega"
+      ],
+      "types": [
+        "psychic",
+        "fighting"
+      ]
+    },
+    {
+      "id": 480,
+      "name": "uxie",
+      "gen": 4,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 480,
+          "name": "uxie",
+          "types": [
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "uxie"
+      ],
+      "types": [
+        "psychic"
+      ]
+    },
+    {
+      "id": 481,
+      "name": "mesprit",
+      "gen": 4,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 481,
+          "name": "mesprit",
+          "types": [
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "mesprit"
+      ],
+      "types": [
+        "psychic"
+      ]
+    },
+    {
+      "id": 482,
+      "name": "azelf",
+      "gen": 4,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 482,
+          "name": "azelf",
+          "types": [
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "azelf"
+      ],
+      "types": [
+        "psychic"
+      ]
+    },
+    {
+      "id": 488,
+      "name": "cresselia",
+      "gen": 4,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 488,
+          "name": "cresselia",
+          "types": [
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "cresselia"
+      ],
+      "types": [
+        "psychic"
+      ]
+    },
+    {
+      "id": 494,
+      "name": "victini",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": true,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 494,
+          "name": "victini",
+          "types": [
+            "psychic",
+            "fire"
+          ]
+        }
+      ],
+      "names": [
+        "victini"
+      ],
+      "types": [
+        "psychic",
+        "fire"
+      ]
+    },
+    {
+      "id": 517,
+      "name": "munna",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 517,
+          "name": "munna",
+          "types": [
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "munna"
+      ],
+      "types": [
+        "psychic"
+      ]
+    },
+    {
+      "id": 518,
+      "name": "musharna",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 518,
+          "name": "musharna",
+          "types": [
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "musharna"
+      ],
+      "types": [
+        "psychic"
+      ]
+    },
+    {
+      "id": 527,
+      "name": "woobat",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 527,
+          "name": "woobat",
+          "types": [
+            "psychic",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "woobat"
+      ],
+      "types": [
+        "psychic",
+        "flying"
+      ]
+    },
+    {
+      "id": 528,
+      "name": "swoobat",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 528,
+          "name": "swoobat",
+          "types": [
+            "psychic",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "swoobat"
+      ],
+      "types": [
+        "psychic",
+        "flying"
+      ]
+    },
+    {
+      "id": 555,
+      "name": "darmanitan",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 555,
+          "name": "darmanitan-standard",
+          "types": [
+            "fire"
+          ]
+        },
+        {
+          "id": 10017,
+          "name": "darmanitan-zen",
+          "types": [
+            "fire",
+            "psychic"
+          ]
+        },
+        {
+          "id": 10177,
+          "name": "darmanitan-galar-standard",
+          "types": [
+            "ice"
+          ]
+        },
+        {
+          "id": 10178,
+          "name": "darmanitan-galar-zen",
+          "types": [
+            "ice",
+            "fire"
+          ]
+        }
+      ],
+      "names": [
+        "darmanitan-standard",
+        "darmanitan-zen",
+        "darmanitan-galar-standard",
+        "darmanitan-galar-zen"
+      ],
+      "types": [
+        "fire",
+        "psychic",
+        "ice"
+      ]
+    },
+    {
+      "id": 561,
+      "name": "sigilyph",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 561,
+          "name": "sigilyph",
+          "types": [
+            "psychic",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "sigilyph"
+      ],
+      "types": [
+        "psychic",
+        "flying"
+      ]
+    },
+    {
+      "id": 574,
+      "name": "gothita",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 200,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 574,
+          "name": "gothita",
+          "types": [
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "gothita"
+      ],
+      "types": [
+        "psychic"
+      ]
+    },
+    {
+      "id": 575,
+      "name": "gothorita",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 100,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 575,
+          "name": "gothorita",
+          "types": [
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "gothorita"
+      ],
+      "types": [
+        "psychic"
+      ]
+    },
+    {
+      "id": 576,
+      "name": "gothitelle",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 50,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 576,
+          "name": "gothitelle",
+          "types": [
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "gothitelle"
+      ],
+      "types": [
+        "psychic"
+      ]
+    },
+    {
+      "id": 577,
+      "name": "solosis",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 200,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 577,
+          "name": "solosis",
+          "types": [
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "solosis"
+      ],
+      "types": [
+        "psychic"
+      ]
+    },
+    {
+      "id": 578,
+      "name": "duosion",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 100,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 578,
+          "name": "duosion",
+          "types": [
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "duosion"
+      ],
+      "types": [
+        "psychic"
+      ]
+    },
+    {
+      "id": 579,
+      "name": "reuniclus",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 50,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 579,
+          "name": "reuniclus",
+          "types": [
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "reuniclus"
+      ],
+      "types": [
+        "psychic"
+      ]
+    },
+    {
+      "id": 605,
+      "name": "elgyem",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 605,
+          "name": "elgyem",
+          "types": [
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "elgyem"
+      ],
+      "types": [
+        "psychic"
+      ]
+    },
+    {
+      "id": 606,
+      "name": "beheeyem",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 606,
+          "name": "beheeyem",
+          "types": [
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "beheeyem"
+      ],
+      "types": [
+        "psychic"
+      ]
+    }
+  ],
+  "page": 3,
+  "nextPage": 4
+}

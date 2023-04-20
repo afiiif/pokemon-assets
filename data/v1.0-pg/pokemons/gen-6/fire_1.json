@@ -1,0 +1,218 @@
+{
+  "data": [
+    {
+      "id": 653,
+      "name": "fennekin",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 653,
+          "name": "fennekin",
+          "types": [
+            "fire"
+          ]
+        }
+      ],
+      "names": [
+        "fennekin"
+      ],
+      "types": [
+        "fire"
+      ]
+    },
+    {
+      "id": 654,
+      "name": "braixen",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 654,
+          "name": "braixen",
+          "types": [
+            "fire"
+          ]
+        }
+      ],
+      "names": [
+        "braixen"
+      ],
+      "types": [
+        "fire"
+      ]
+    },
+    {
+      "id": 655,
+      "name": "delphox",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 655,
+          "name": "delphox",
+          "types": [
+            "fire",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "delphox"
+      ],
+      "types": [
+        "fire",
+        "psychic"
+      ]
+    },
+    {
+      "id": 662,
+      "name": "fletchinder",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 662,
+          "name": "fletchinder",
+          "types": [
+            "fire",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "fletchinder"
+      ],
+      "types": [
+        "fire",
+        "flying"
+      ]
+    },
+    {
+      "id": 663,
+      "name": "talonflame",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 663,
+          "name": "talonflame",
+          "types": [
+            "fire",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "talonflame"
+      ],
+      "types": [
+        "fire",
+        "flying"
+      ]
+    },
+    {
+      "id": 667,
+      "name": "litleo",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 220,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 667,
+          "name": "litleo",
+          "types": [
+            "fire",
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "litleo"
+      ],
+      "types": [
+        "fire",
+        "normal"
+      ]
+    },
+    {
+      "id": 668,
+      "name": "pyroar",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 65,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 668,
+          "name": "pyroar",
+          "types": [
+            "fire",
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "pyroar"
+      ],
+      "types": [
+        "fire",
+        "normal"
+      ]
+    },
+    {
+      "id": 721,
+      "name": "volcanion",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": true,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 721,
+          "name": "volcanion",
+          "types": [
+            "fire",
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "volcanion"
+      ],
+      "types": [
+        "fire",
+        "water"
+      ]
+    }
+  ],
+  "page": 1,
+  "nextPage": null
+}

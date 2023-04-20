@@ -1,0 +1,214 @@
+[
+  {
+    "id": 659,
+    "name": "bunnelby",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 255,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 659,
+        "name": "bunnelby",
+        "types": [
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "bunnelby"
+    ],
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": 660,
+    "name": "diggersby",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 127,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 660,
+        "name": "diggersby",
+        "types": [
+          "normal",
+          "ground"
+        ]
+      }
+    ],
+    "names": [
+      "diggersby"
+    ],
+    "types": [
+      "normal",
+      "ground"
+    ]
+  },
+  {
+    "id": 661,
+    "name": "fletchling",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 255,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 661,
+        "name": "fletchling",
+        "types": [
+          "normal",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "fletchling"
+    ],
+    "types": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "id": 667,
+    "name": "litleo",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 220,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 667,
+        "name": "litleo",
+        "types": [
+          "fire",
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "litleo"
+    ],
+    "types": [
+      "fire",
+      "normal"
+    ]
+  },
+  {
+    "id": 668,
+    "name": "pyroar",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 65,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 668,
+        "name": "pyroar",
+        "types": [
+          "fire",
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "pyroar"
+    ],
+    "types": [
+      "fire",
+      "normal"
+    ]
+  },
+  {
+    "id": 676,
+    "name": "furfrou",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 160,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 676,
+        "name": "furfrou",
+        "types": [
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "furfrou"
+    ],
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": 694,
+    "name": "helioptile",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 190,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 694,
+        "name": "helioptile",
+        "types": [
+          "electric",
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "helioptile"
+    ],
+    "types": [
+      "electric",
+      "normal"
+    ]
+  },
+  {
+    "id": 695,
+    "name": "heliolisk",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 75,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 695,
+        "name": "heliolisk",
+        "types": [
+          "electric",
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "heliolisk"
+    ],
+    "types": [
+      "electric",
+      "normal"
+    ]
+  }
+]

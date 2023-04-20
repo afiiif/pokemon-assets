@@ -1,0 +1,361 @@
+[
+  {
+    "id": 722,
+    "name": "rowlet",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 722,
+        "name": "rowlet",
+        "types": [
+          "grass",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "rowlet"
+    ],
+    "types": [
+      "grass",
+      "flying"
+    ]
+  },
+  {
+    "id": 723,
+    "name": "dartrix",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 723,
+        "name": "dartrix",
+        "types": [
+          "grass",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "dartrix"
+    ],
+    "types": [
+      "grass",
+      "flying"
+    ]
+  },
+  {
+    "id": 724,
+    "name": "decidueye",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 724,
+        "name": "decidueye",
+        "types": [
+          "grass",
+          "ghost"
+        ]
+      },
+      {
+        "id": 10244,
+        "name": "decidueye-hisui",
+        "types": [
+          "grass",
+          "fighting"
+        ]
+      }
+    ],
+    "names": [
+      "decidueye",
+      "decidueye-hisui"
+    ],
+    "types": [
+      "grass",
+      "ghost",
+      "fighting"
+    ]
+  },
+  {
+    "id": 753,
+    "name": "fomantis",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 190,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 753,
+        "name": "fomantis",
+        "types": [
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "fomantis"
+    ],
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": 754,
+    "name": "lurantis",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 75,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 754,
+        "name": "lurantis",
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "id": 10128,
+        "name": "lurantis-totem",
+        "types": [
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "lurantis",
+      "lurantis-totem"
+    ],
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": 755,
+    "name": "morelull",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 190,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 755,
+        "name": "morelull",
+        "types": [
+          "grass",
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "morelull"
+    ],
+    "types": [
+      "grass",
+      "fairy"
+    ]
+  },
+  {
+    "id": 756,
+    "name": "shiinotic",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 75,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 756,
+        "name": "shiinotic",
+        "types": [
+          "grass",
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "shiinotic"
+    ],
+    "types": [
+      "grass",
+      "fairy"
+    ]
+  },
+  {
+    "id": 761,
+    "name": "bounsweet",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 235,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 761,
+        "name": "bounsweet",
+        "types": [
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "bounsweet"
+    ],
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": 762,
+    "name": "steenee",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 120,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 762,
+        "name": "steenee",
+        "types": [
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "steenee"
+    ],
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": 763,
+    "name": "tsareena",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 763,
+        "name": "tsareena",
+        "types": [
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "tsareena"
+    ],
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": 781,
+    "name": "dhelmise",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 25,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 781,
+        "name": "dhelmise",
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "dhelmise"
+    ],
+    "types": [
+      "ghost",
+      "grass"
+    ]
+  },
+  {
+    "id": 787,
+    "name": "tapu-bulu",
+    "gen": 7,
+    "isLegendary": true,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 3,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 787,
+        "name": "tapu-bulu",
+        "types": [
+          "grass",
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "tapu-bulu"
+    ],
+    "types": [
+      "grass",
+      "fairy"
+    ]
+  },
+  {
+    "id": 798,
+    "name": "kartana",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 798,
+        "name": "kartana",
+        "types": [
+          "grass",
+          "steel"
+        ]
+      }
+    ],
+    "names": [
+      "kartana"
+    ],
+    "types": [
+      "grass",
+      "steel"
+    ]
+  }
+]

@@ -1,0 +1,695 @@
+{
+  "data": [
+    {
+      "id": 865,
+      "name": "sirfetchd",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 865,
+          "name": "sirfetchd",
+          "types": [
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "sirfetchd"
+      ],
+      "types": [
+        "fighting"
+      ]
+    },
+    {
+      "id": 866,
+      "name": "mr-rime",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 866,
+          "name": "mr-rime",
+          "types": [
+            "ice",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "mr-rime"
+      ],
+      "types": [
+        "ice",
+        "psychic"
+      ]
+    },
+    {
+      "id": 867,
+      "name": "runerigus",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 867,
+          "name": "runerigus",
+          "types": [
+            "ground",
+            "ghost"
+          ]
+        }
+      ],
+      "names": [
+        "runerigus"
+      ],
+      "types": [
+        "ground",
+        "ghost"
+      ]
+    },
+    {
+      "id": 868,
+      "name": "milcery",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 200,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 868,
+          "name": "milcery",
+          "types": [
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "milcery"
+      ],
+      "types": [
+        "fairy"
+      ]
+    },
+    {
+      "id": 869,
+      "name": "alcremie",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 100,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 869,
+          "name": "alcremie",
+          "types": [
+            "fairy"
+          ]
+        },
+        {
+          "id": 10223,
+          "name": "alcremie-gmax",
+          "types": [
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "alcremie",
+        "alcremie-gmax"
+      ],
+      "types": [
+        "fairy"
+      ]
+    },
+    {
+      "id": 870,
+      "name": "falinks",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 870,
+          "name": "falinks",
+          "types": [
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "falinks"
+      ],
+      "types": [
+        "fighting"
+      ]
+    },
+    {
+      "id": 871,
+      "name": "pincurchin",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 871,
+          "name": "pincurchin",
+          "types": [
+            "electric"
+          ]
+        }
+      ],
+      "names": [
+        "pincurchin"
+      ],
+      "types": [
+        "electric"
+      ]
+    },
+    {
+      "id": 872,
+      "name": "snom",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 872,
+          "name": "snom",
+          "types": [
+            "ice",
+            "bug"
+          ]
+        }
+      ],
+      "names": [
+        "snom"
+      ],
+      "types": [
+        "ice",
+        "bug"
+      ]
+    },
+    {
+      "id": 873,
+      "name": "frosmoth",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 873,
+          "name": "frosmoth",
+          "types": [
+            "ice",
+            "bug"
+          ]
+        }
+      ],
+      "names": [
+        "frosmoth"
+      ],
+      "types": [
+        "ice",
+        "bug"
+      ]
+    },
+    {
+      "id": 874,
+      "name": "stonjourner",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 874,
+          "name": "stonjourner",
+          "types": [
+            "rock"
+          ]
+        }
+      ],
+      "names": [
+        "stonjourner"
+      ],
+      "types": [
+        "rock"
+      ]
+    },
+    {
+      "id": 875,
+      "name": "eiscue",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 875,
+          "name": "eiscue-ice",
+          "types": [
+            "ice"
+          ]
+        },
+        {
+          "id": 10185,
+          "name": "eiscue-noice",
+          "types": [
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "eiscue-ice",
+        "eiscue-noice"
+      ],
+      "types": [
+        "ice"
+      ]
+    },
+    {
+      "id": 876,
+      "name": "indeedee",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 876,
+          "name": "indeedee-male",
+          "types": [
+            "psychic",
+            "normal"
+          ]
+        },
+        {
+          "id": 10186,
+          "name": "indeedee-female",
+          "types": [
+            "psychic",
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "indeedee-male",
+        "indeedee-female"
+      ],
+      "types": [
+        "psychic",
+        "normal"
+      ]
+    },
+    {
+      "id": 877,
+      "name": "morpeko",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 180,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 877,
+          "name": "morpeko-full-belly",
+          "types": [
+            "electric",
+            "dark"
+          ]
+        },
+        {
+          "id": 10187,
+          "name": "morpeko-hangry",
+          "types": [
+            "electric",
+            "dark"
+          ]
+        }
+      ],
+      "names": [
+        "morpeko-full-belly",
+        "morpeko-hangry"
+      ],
+      "types": [
+        "electric",
+        "dark"
+      ]
+    },
+    {
+      "id": 878,
+      "name": "cufant",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 878,
+          "name": "cufant",
+          "types": [
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "cufant"
+      ],
+      "types": [
+        "steel"
+      ]
+    },
+    {
+      "id": 879,
+      "name": "copperajah",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 879,
+          "name": "copperajah",
+          "types": [
+            "steel"
+          ]
+        },
+        {
+          "id": 10224,
+          "name": "copperajah-gmax",
+          "types": [
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "copperajah",
+        "copperajah-gmax"
+      ],
+      "types": [
+        "steel"
+      ]
+    },
+    {
+      "id": 880,
+      "name": "dracozolt",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 880,
+          "name": "dracozolt",
+          "types": [
+            "electric",
+            "dragon"
+          ]
+        }
+      ],
+      "names": [
+        "dracozolt"
+      ],
+      "types": [
+        "electric",
+        "dragon"
+      ]
+    },
+    {
+      "id": 881,
+      "name": "arctozolt",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 881,
+          "name": "arctozolt",
+          "types": [
+            "electric",
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "arctozolt"
+      ],
+      "types": [
+        "electric",
+        "ice"
+      ]
+    },
+    {
+      "id": 882,
+      "name": "dracovish",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 882,
+          "name": "dracovish",
+          "types": [
+            "water",
+            "dragon"
+          ]
+        }
+      ],
+      "names": [
+        "dracovish"
+      ],
+      "types": [
+        "water",
+        "dragon"
+      ]
+    },
+    {
+      "id": 883,
+      "name": "arctovish",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 883,
+          "name": "arctovish",
+          "types": [
+            "water",
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "arctovish"
+      ],
+      "types": [
+        "water",
+        "ice"
+      ]
+    },
+    {
+      "id": 884,
+      "name": "duraludon",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 884,
+          "name": "duraludon",
+          "types": [
+            "steel",
+            "dragon"
+          ]
+        },
+        {
+          "id": 10225,
+          "name": "duraludon-gmax",
+          "types": [
+            "steel",
+            "dragon"
+          ]
+        }
+      ],
+      "names": [
+        "duraludon",
+        "duraludon-gmax"
+      ],
+      "types": [
+        "steel",
+        "dragon"
+      ]
+    },
+    {
+      "id": 885,
+      "name": "dreepy",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 885,
+          "name": "dreepy",
+          "types": [
+            "dragon",
+            "ghost"
+          ]
+        }
+      ],
+      "names": [
+        "dreepy"
+      ],
+      "types": [
+        "dragon",
+        "ghost"
+      ]
+    },
+    {
+      "id": 886,
+      "name": "drakloak",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 886,
+          "name": "drakloak",
+          "types": [
+            "dragon",
+            "ghost"
+          ]
+        }
+      ],
+      "names": [
+        "drakloak"
+      ],
+      "types": [
+        "dragon",
+        "ghost"
+      ]
+    },
+    {
+      "id": 887,
+      "name": "dragapult",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 887,
+          "name": "dragapult",
+          "types": [
+            "dragon",
+            "ghost"
+          ]
+        }
+      ],
+      "names": [
+        "dragapult"
+      ],
+      "types": [
+        "dragon",
+        "ghost"
+      ]
+    },
+    {
+      "id": 888,
+      "name": "zacian",
+      "gen": 8,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 10,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 888,
+          "name": "zacian",
+          "types": [
+            "fairy"
+          ]
+        },
+        {
+          "id": 10188,
+          "name": "zacian-crowned",
+          "types": [
+            "fairy",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "zacian",
+        "zacian-crowned"
+      ],
+      "types": [
+        "fairy",
+        "steel"
+      ]
+    }
+  ],
+  "page": 37,
+  "nextPage": 38
+}

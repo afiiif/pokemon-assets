@@ -1,0 +1,659 @@
+{
+  "data": [
+    {
+      "id": 930,
+      "name": "arboliva",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 930,
+          "name": "arboliva",
+          "types": [
+            "grass",
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "arboliva"
+      ],
+      "types": [
+        "grass",
+        "normal"
+      ]
+    },
+    {
+      "id": 931,
+      "name": "squawkabilly",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 931,
+          "name": "squawkabilly",
+          "types": [
+            "normal",
+            "flying"
+          ]
+        },
+        {
+          "id": 10260,
+          "name": "squawkabilly-blue-plumage",
+          "types": [
+            "normal",
+            "flying"
+          ]
+        },
+        {
+          "id": 10261,
+          "name": "squawkabilly-yellow-plumage",
+          "types": [
+            "normal",
+            "flying"
+          ]
+        },
+        {
+          "id": 10262,
+          "name": "squawkabilly-white-plumage",
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "squawkabilly",
+        "squawkabilly-blue-plumage",
+        "squawkabilly-yellow-plumage",
+        "squawkabilly-white-plumage"
+      ],
+      "types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "id": 932,
+      "name": "nacli",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 932,
+          "name": "nacli",
+          "types": [
+            "rock"
+          ]
+        }
+      ],
+      "names": [
+        "nacli"
+      ],
+      "types": [
+        "rock"
+      ]
+    },
+    {
+      "id": 933,
+      "name": "naclstack",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 933,
+          "name": "naclstack",
+          "types": [
+            "rock"
+          ]
+        }
+      ],
+      "names": [
+        "naclstack"
+      ],
+      "types": [
+        "rock"
+      ]
+    },
+    {
+      "id": 934,
+      "name": "garganacl",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 934,
+          "name": "garganacl",
+          "types": [
+            "rock"
+          ]
+        }
+      ],
+      "names": [
+        "garganacl"
+      ],
+      "types": [
+        "rock"
+      ]
+    },
+    {
+      "id": 935,
+      "name": "charcadet",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 935,
+          "name": "charcadet",
+          "types": [
+            "fire"
+          ]
+        }
+      ],
+      "names": [
+        "charcadet"
+      ],
+      "types": [
+        "fire"
+      ]
+    },
+    {
+      "id": 936,
+      "name": "armarouge",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 25,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 936,
+          "name": "armarouge",
+          "types": [
+            "fire",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "armarouge"
+      ],
+      "types": [
+        "fire",
+        "psychic"
+      ]
+    },
+    {
+      "id": 937,
+      "name": "ceruledge",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 25,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 937,
+          "name": "ceruledge",
+          "types": [
+            "fire",
+            "ghost"
+          ]
+        }
+      ],
+      "names": [
+        "ceruledge"
+      ],
+      "types": [
+        "fire",
+        "ghost"
+      ]
+    },
+    {
+      "id": 938,
+      "name": "tadbulb",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 938,
+          "name": "tadbulb",
+          "types": [
+            "electric"
+          ]
+        }
+      ],
+      "names": [
+        "tadbulb"
+      ],
+      "types": [
+        "electric"
+      ]
+    },
+    {
+      "id": 939,
+      "name": "bellibolt",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 50,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 939,
+          "name": "bellibolt",
+          "types": [
+            "electric"
+          ]
+        }
+      ],
+      "names": [
+        "bellibolt"
+      ],
+      "types": [
+        "electric"
+      ]
+    },
+    {
+      "id": 940,
+      "name": "wattrel",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 180,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 940,
+          "name": "wattrel",
+          "types": [
+            "electric",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "wattrel"
+      ],
+      "types": [
+        "electric",
+        "flying"
+      ]
+    },
+    {
+      "id": 941,
+      "name": "kilowattrel",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 941,
+          "name": "kilowattrel",
+          "types": [
+            "electric",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "kilowattrel"
+      ],
+      "types": [
+        "electric",
+        "flying"
+      ]
+    },
+    {
+      "id": 942,
+      "name": "maschiff",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 150,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 942,
+          "name": "maschiff",
+          "types": [
+            "dark"
+          ]
+        }
+      ],
+      "names": [
+        "maschiff"
+      ],
+      "types": [
+        "dark"
+      ]
+    },
+    {
+      "id": 943,
+      "name": "mabosstiff",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 943,
+          "name": "mabosstiff",
+          "types": [
+            "dark"
+          ]
+        }
+      ],
+      "names": [
+        "mabosstiff"
+      ],
+      "types": [
+        "dark"
+      ]
+    },
+    {
+      "id": 944,
+      "name": "shroodle",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 944,
+          "name": "shroodle",
+          "types": [
+            "poison",
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "shroodle"
+      ],
+      "types": [
+        "poison",
+        "normal"
+      ]
+    },
+    {
+      "id": 945,
+      "name": "grafaiai",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 945,
+          "name": "grafaiai",
+          "types": [
+            "poison",
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "grafaiai"
+      ],
+      "types": [
+        "poison",
+        "normal"
+      ]
+    },
+    {
+      "id": 946,
+      "name": "bramblin",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 946,
+          "name": "bramblin",
+          "types": [
+            "grass",
+            "ghost"
+          ]
+        }
+      ],
+      "names": [
+        "bramblin"
+      ],
+      "types": [
+        "grass",
+        "ghost"
+      ]
+    },
+    {
+      "id": 947,
+      "name": "brambleghast",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 947,
+          "name": "brambleghast",
+          "types": [
+            "grass",
+            "ghost"
+          ]
+        }
+      ],
+      "names": [
+        "brambleghast"
+      ],
+      "types": [
+        "grass",
+        "ghost"
+      ]
+    },
+    {
+      "id": 948,
+      "name": "toedscool",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 948,
+          "name": "toedscool",
+          "types": [
+            "ground",
+            "grass"
+          ]
+        }
+      ],
+      "names": [
+        "toedscool"
+      ],
+      "types": [
+        "ground",
+        "grass"
+      ]
+    },
+    {
+      "id": 949,
+      "name": "toedscruel",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 949,
+          "name": "toedscruel",
+          "types": [
+            "ground",
+            "grass"
+          ]
+        }
+      ],
+      "names": [
+        "toedscruel"
+      ],
+      "types": [
+        "ground",
+        "grass"
+      ]
+    },
+    {
+      "id": 950,
+      "name": "klawf",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 950,
+          "name": "klawf",
+          "types": [
+            "rock"
+          ]
+        }
+      ],
+      "names": [
+        "klawf"
+      ],
+      "types": [
+        "rock"
+      ]
+    },
+    {
+      "id": 951,
+      "name": "capsakid",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 951,
+          "name": "capsakid",
+          "types": [
+            "grass"
+          ]
+        }
+      ],
+      "names": [
+        "capsakid"
+      ],
+      "types": [
+        "grass"
+      ]
+    },
+    {
+      "id": 952,
+      "name": "scovillain",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 952,
+          "name": "scovillain",
+          "types": [
+            "grass",
+            "fire"
+          ]
+        }
+      ],
+      "names": [
+        "scovillain"
+      ],
+      "types": [
+        "grass",
+        "fire"
+      ]
+    },
+    {
+      "id": 953,
+      "name": "rellor",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 953,
+          "name": "rellor",
+          "types": [
+            "bug"
+          ]
+        }
+      ],
+      "names": [
+        "rellor"
+      ],
+      "types": [
+        "bug"
+      ]
+    }
+  ],
+  "page": 2,
+  "nextPage": 3
+}

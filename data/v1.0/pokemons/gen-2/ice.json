@@ -1,0 +1,148 @@
+[
+  {
+    "id": 215,
+    "name": "sneasel",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 60,
+    "habitat": "forest",
+    "pokemons": [
+      {
+        "id": 215,
+        "name": "sneasel",
+        "types": [
+          "dark",
+          "ice"
+        ]
+      },
+      {
+        "id": 10235,
+        "name": "sneasel-hisui",
+        "types": [
+          "fighting",
+          "poison"
+        ]
+      }
+    ],
+    "names": [
+      "sneasel",
+      "sneasel-hisui"
+    ],
+    "types": [
+      "dark",
+      "ice",
+      "fighting",
+      "poison"
+    ]
+  },
+  {
+    "id": 220,
+    "name": "swinub",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 225,
+    "habitat": "cave",
+    "pokemons": [
+      {
+        "id": 220,
+        "name": "swinub",
+        "types": [
+          "ice",
+          "ground"
+        ]
+      }
+    ],
+    "names": [
+      "swinub"
+    ],
+    "types": [
+      "ice",
+      "ground"
+    ]
+  },
+  {
+    "id": 221,
+    "name": "piloswine",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 75,
+    "habitat": "cave",
+    "pokemons": [
+      {
+        "id": 221,
+        "name": "piloswine",
+        "types": [
+          "ice",
+          "ground"
+        ]
+      }
+    ],
+    "names": [
+      "piloswine"
+    ],
+    "types": [
+      "ice",
+      "ground"
+    ]
+  },
+  {
+    "id": 225,
+    "name": "delibird",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": "mountain",
+    "pokemons": [
+      {
+        "id": 225,
+        "name": "delibird",
+        "types": [
+          "ice",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "delibird"
+    ],
+    "types": [
+      "ice",
+      "flying"
+    ]
+  },
+  {
+    "id": 238,
+    "name": "smoochum",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": true,
+    "captureRate": 45,
+    "habitat": "urban",
+    "pokemons": [
+      {
+        "id": 238,
+        "name": "smoochum",
+        "types": [
+          "ice",
+          "psychic"
+        ]
+      }
+    ],
+    "names": [
+      "smoochum"
+    ],
+    "types": [
+      "ice",
+      "psychic"
+    ]
+  }
+]

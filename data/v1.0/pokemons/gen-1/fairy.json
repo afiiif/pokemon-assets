@@ -1,0 +1,250 @@
+[
+  {
+    "id": 35,
+    "name": "clefairy",
+    "gen": 1,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 150,
+    "habitat": "mountain",
+    "pokemons": [
+      {
+        "id": 35,
+        "name": "clefairy",
+        "types": [
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "clefairy"
+    ],
+    "types": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "clefable",
+    "gen": 1,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 25,
+    "habitat": "mountain",
+    "pokemons": [
+      {
+        "id": 36,
+        "name": "clefable",
+        "types": [
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "clefable"
+    ],
+    "types": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "ninetales",
+    "gen": 1,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 75,
+    "habitat": "grassland",
+    "pokemons": [
+      {
+        "id": 38,
+        "name": "ninetales",
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "id": 10104,
+        "name": "ninetales-alola",
+        "types": [
+          "ice",
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "ninetales",
+      "ninetales-alola"
+    ],
+    "types": [
+      "fire",
+      "ice",
+      "fairy"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "jigglypuff",
+    "gen": 1,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 170,
+    "habitat": "grassland",
+    "pokemons": [
+      {
+        "id": 39,
+        "name": "jigglypuff",
+        "types": [
+          "normal",
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "jigglypuff"
+    ],
+    "types": [
+      "normal",
+      "fairy"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "wigglytuff",
+    "gen": 1,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 50,
+    "habitat": "grassland",
+    "pokemons": [
+      {
+        "id": 40,
+        "name": "wigglytuff",
+        "types": [
+          "normal",
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "wigglytuff"
+    ],
+    "types": [
+      "normal",
+      "fairy"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "rapidash",
+    "gen": 1,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 60,
+    "habitat": "grassland",
+    "pokemons": [
+      {
+        "id": 78,
+        "name": "rapidash",
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "id": 10163,
+        "name": "rapidash-galar",
+        "types": [
+          "psychic",
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "rapidash",
+      "rapidash-galar"
+    ],
+    "types": [
+      "fire",
+      "psychic",
+      "fairy"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "weezing",
+    "gen": 1,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 60,
+    "habitat": "urban",
+    "pokemons": [
+      {
+        "id": 110,
+        "name": "weezing",
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "id": 10167,
+        "name": "weezing-galar",
+        "types": [
+          "poison",
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "weezing",
+      "weezing-galar"
+    ],
+    "types": [
+      "poison",
+      "fairy"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "mr-mime",
+    "gen": 1,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": "urban",
+    "pokemons": [
+      {
+        "id": 122,
+        "name": "mr-mime",
+        "types": [
+          "psychic",
+          "fairy"
+        ]
+      },
+      {
+        "id": 10168,
+        "name": "mr-mime-galar",
+        "types": [
+          "ice",
+          "psychic"
+        ]
+      }
+    ],
+    "names": [
+      "mr-mime",
+      "mr-mime-galar"
+    ],
+    "types": [
+      "psychic",
+      "fairy",
+      "ice"
+    ]
+  }
+]

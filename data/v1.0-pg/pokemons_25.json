@@ -1,0 +1,634 @@
+{
+  "data": [
+    {
+      "id": 577,
+      "name": "solosis",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 200,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 577,
+          "name": "solosis",
+          "types": [
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "solosis"
+      ],
+      "types": [
+        "psychic"
+      ]
+    },
+    {
+      "id": 578,
+      "name": "duosion",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 100,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 578,
+          "name": "duosion",
+          "types": [
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "duosion"
+      ],
+      "types": [
+        "psychic"
+      ]
+    },
+    {
+      "id": 579,
+      "name": "reuniclus",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 50,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 579,
+          "name": "reuniclus",
+          "types": [
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "reuniclus"
+      ],
+      "types": [
+        "psychic"
+      ]
+    },
+    {
+      "id": 580,
+      "name": "ducklett",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 580,
+          "name": "ducklett",
+          "types": [
+            "water",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "ducklett"
+      ],
+      "types": [
+        "water",
+        "flying"
+      ]
+    },
+    {
+      "id": 581,
+      "name": "swanna",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 581,
+          "name": "swanna",
+          "types": [
+            "water",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "swanna"
+      ],
+      "types": [
+        "water",
+        "flying"
+      ]
+    },
+    {
+      "id": 582,
+      "name": "vanillite",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 582,
+          "name": "vanillite",
+          "types": [
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "vanillite"
+      ],
+      "types": [
+        "ice"
+      ]
+    },
+    {
+      "id": 583,
+      "name": "vanillish",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 583,
+          "name": "vanillish",
+          "types": [
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "vanillish"
+      ],
+      "types": [
+        "ice"
+      ]
+    },
+    {
+      "id": 584,
+      "name": "vanilluxe",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 584,
+          "name": "vanilluxe",
+          "types": [
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "vanilluxe"
+      ],
+      "types": [
+        "ice"
+      ]
+    },
+    {
+      "id": 585,
+      "name": "deerling",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 585,
+          "name": "deerling",
+          "types": [
+            "normal",
+            "grass"
+          ]
+        }
+      ],
+      "names": [
+        "deerling"
+      ],
+      "types": [
+        "normal",
+        "grass"
+      ]
+    },
+    {
+      "id": 586,
+      "name": "sawsbuck",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 586,
+          "name": "sawsbuck",
+          "types": [
+            "normal",
+            "grass"
+          ]
+        }
+      ],
+      "names": [
+        "sawsbuck"
+      ],
+      "types": [
+        "normal",
+        "grass"
+      ]
+    },
+    {
+      "id": 587,
+      "name": "emolga",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 200,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 587,
+          "name": "emolga",
+          "types": [
+            "electric",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "emolga"
+      ],
+      "types": [
+        "electric",
+        "flying"
+      ]
+    },
+    {
+      "id": 588,
+      "name": "karrablast",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 200,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 588,
+          "name": "karrablast",
+          "types": [
+            "bug"
+          ]
+        }
+      ],
+      "names": [
+        "karrablast"
+      ],
+      "types": [
+        "bug"
+      ]
+    },
+    {
+      "id": 589,
+      "name": "escavalier",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 589,
+          "name": "escavalier",
+          "types": [
+            "bug",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "escavalier"
+      ],
+      "types": [
+        "bug",
+        "steel"
+      ]
+    },
+    {
+      "id": 590,
+      "name": "foongus",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 590,
+          "name": "foongus",
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "foongus"
+      ],
+      "types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "id": 591,
+      "name": "amoonguss",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 591,
+          "name": "amoonguss",
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "amoonguss"
+      ],
+      "types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "id": 592,
+      "name": "frillish",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 592,
+          "name": "frillish",
+          "types": [
+            "water",
+            "ghost"
+          ]
+        }
+      ],
+      "names": [
+        "frillish"
+      ],
+      "types": [
+        "water",
+        "ghost"
+      ]
+    },
+    {
+      "id": 593,
+      "name": "jellicent",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 593,
+          "name": "jellicent",
+          "types": [
+            "water",
+            "ghost"
+          ]
+        }
+      ],
+      "names": [
+        "jellicent"
+      ],
+      "types": [
+        "water",
+        "ghost"
+      ]
+    },
+    {
+      "id": 594,
+      "name": "alomomola",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 594,
+          "name": "alomomola",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "alomomola"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 595,
+      "name": "joltik",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 595,
+          "name": "joltik",
+          "types": [
+            "bug",
+            "electric"
+          ]
+        }
+      ],
+      "names": [
+        "joltik"
+      ],
+      "types": [
+        "bug",
+        "electric"
+      ]
+    },
+    {
+      "id": 596,
+      "name": "galvantula",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 596,
+          "name": "galvantula",
+          "types": [
+            "bug",
+            "electric"
+          ]
+        }
+      ],
+      "names": [
+        "galvantula"
+      ],
+      "types": [
+        "bug",
+        "electric"
+      ]
+    },
+    {
+      "id": 597,
+      "name": "ferroseed",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 597,
+          "name": "ferroseed",
+          "types": [
+            "grass",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "ferroseed"
+      ],
+      "types": [
+        "grass",
+        "steel"
+      ]
+    },
+    {
+      "id": 598,
+      "name": "ferrothorn",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 598,
+          "name": "ferrothorn",
+          "types": [
+            "grass",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "ferrothorn"
+      ],
+      "types": [
+        "grass",
+        "steel"
+      ]
+    },
+    {
+      "id": 599,
+      "name": "klink",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 130,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 599,
+          "name": "klink",
+          "types": [
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "klink"
+      ],
+      "types": [
+        "steel"
+      ]
+    },
+    {
+      "id": 600,
+      "name": "klang",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 600,
+          "name": "klang",
+          "types": [
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "klang"
+      ],
+      "types": [
+        "steel"
+      ]
+    }
+  ],
+  "page": 25,
+  "nextPage": 26
+}

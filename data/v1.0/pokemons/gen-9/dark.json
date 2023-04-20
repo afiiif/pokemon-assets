@@ -1,0 +1,349 @@
+[
+  {
+    "id": 908,
+    "name": "meowscarada",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 908,
+        "name": "meowscarada",
+        "types": [
+          "grass",
+          "dark"
+        ]
+      }
+    ],
+    "names": [
+      "meowscarada"
+    ],
+    "types": [
+      "grass",
+      "dark"
+    ]
+  },
+  {
+    "id": 920,
+    "name": "lokix",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 30,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 920,
+        "name": "lokix",
+        "types": [
+          "bug",
+          "dark"
+        ]
+      }
+    ],
+    "names": [
+      "lokix"
+    ],
+    "types": [
+      "bug",
+      "dark"
+    ]
+  },
+  {
+    "id": 942,
+    "name": "maschiff",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 150,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 942,
+        "name": "maschiff",
+        "types": [
+          "dark"
+        ]
+      }
+    ],
+    "names": [
+      "maschiff"
+    ],
+    "types": [
+      "dark"
+    ]
+  },
+  {
+    "id": 943,
+    "name": "mabosstiff",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 75,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 943,
+        "name": "mabosstiff",
+        "types": [
+          "dark"
+        ]
+      }
+    ],
+    "names": [
+      "mabosstiff"
+    ],
+    "types": [
+      "dark"
+    ]
+  },
+  {
+    "id": 962,
+    "name": "bombirdier",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 25,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 962,
+        "name": "bombirdier",
+        "types": [
+          "flying",
+          "dark"
+        ]
+      }
+    ],
+    "names": [
+      "bombirdier"
+    ],
+    "types": [
+      "flying",
+      "dark"
+    ]
+  },
+  {
+    "id": 983,
+    "name": "kingambit",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 25,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 983,
+        "name": "kingambit",
+        "types": [
+          "dark",
+          "steel"
+        ]
+      }
+    ],
+    "names": [
+      "kingambit"
+    ],
+    "types": [
+      "dark",
+      "steel"
+    ]
+  },
+  {
+    "id": 986,
+    "name": "brute-bonnet",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 50,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 986,
+        "name": "brute-bonnet",
+        "types": [
+          "grass",
+          "dark"
+        ]
+      }
+    ],
+    "names": [
+      "brute-bonnet"
+    ],
+    "types": [
+      "grass",
+      "dark"
+    ]
+  },
+  {
+    "id": 993,
+    "name": "iron-jugulis",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 30,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 993,
+        "name": "iron-jugulis",
+        "types": [
+          "dark",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "iron-jugulis"
+    ],
+    "types": [
+      "dark",
+      "flying"
+    ]
+  },
+  {
+    "id": 1001,
+    "name": "wo-chien",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 6,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 1001,
+        "name": "wo-chien",
+        "types": [
+          "dark",
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "wo-chien"
+    ],
+    "types": [
+      "dark",
+      "grass"
+    ]
+  },
+  {
+    "id": 1002,
+    "name": "chien-pao",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 6,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 1002,
+        "name": "chien-pao",
+        "types": [
+          "dark",
+          "ice"
+        ]
+      }
+    ],
+    "names": [
+      "chien-pao"
+    ],
+    "types": [
+      "dark",
+      "ice"
+    ]
+  },
+  {
+    "id": 1003,
+    "name": "ting-lu",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 6,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 1003,
+        "name": "ting-lu",
+        "types": [
+          "dark",
+          "ground"
+        ]
+      }
+    ],
+    "names": [
+      "ting-lu"
+    ],
+    "types": [
+      "dark",
+      "ground"
+    ]
+  },
+  {
+    "id": 1004,
+    "name": "chi-yu",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 6,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 1004,
+        "name": "chi-yu",
+        "types": [
+          "dark",
+          "fire"
+        ]
+      }
+    ],
+    "names": [
+      "chi-yu"
+    ],
+    "types": [
+      "dark",
+      "fire"
+    ]
+  },
+  {
+    "id": 1005,
+    "name": "roaring-moon",
+    "gen": 9,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 10,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 1005,
+        "name": "roaring-moon",
+        "types": [
+          "dragon",
+          "dark"
+        ]
+      }
+    ],
+    "names": [
+      "roaring-moon"
+    ],
+    "types": [
+      "dragon",
+      "dark"
+    ]
+  }
+]

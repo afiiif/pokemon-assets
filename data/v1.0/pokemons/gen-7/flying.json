@@ -1,0 +1,365 @@
+[
+  {
+    "id": 722,
+    "name": "rowlet",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 722,
+        "name": "rowlet",
+        "types": [
+          "grass",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "rowlet"
+    ],
+    "types": [
+      "grass",
+      "flying"
+    ]
+  },
+  {
+    "id": 723,
+    "name": "dartrix",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 723,
+        "name": "dartrix",
+        "types": [
+          "grass",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "dartrix"
+    ],
+    "types": [
+      "grass",
+      "flying"
+    ]
+  },
+  {
+    "id": 731,
+    "name": "pikipek",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 255,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 731,
+        "name": "pikipek",
+        "types": [
+          "normal",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "pikipek"
+    ],
+    "types": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "id": 732,
+    "name": "trumbeak",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 120,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 732,
+        "name": "trumbeak",
+        "types": [
+          "normal",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "trumbeak"
+    ],
+    "types": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "id": 733,
+    "name": "toucannon",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 733,
+        "name": "toucannon",
+        "types": [
+          "normal",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "toucannon"
+    ],
+    "types": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "id": 741,
+    "name": "oricorio",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 741,
+        "name": "oricorio-baile",
+        "types": [
+          "fire",
+          "flying"
+        ]
+      },
+      {
+        "id": 10123,
+        "name": "oricorio-pom-pom",
+        "types": [
+          "electric",
+          "flying"
+        ]
+      },
+      {
+        "id": 10124,
+        "name": "oricorio-pau",
+        "types": [
+          "psychic",
+          "flying"
+        ]
+      },
+      {
+        "id": 10125,
+        "name": "oricorio-sensu",
+        "types": [
+          "ghost",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "oricorio-baile",
+      "oricorio-pom-pom",
+      "oricorio-pau",
+      "oricorio-sensu"
+    ],
+    "types": [
+      "fire",
+      "flying",
+      "electric",
+      "psychic",
+      "ghost"
+    ]
+  },
+  {
+    "id": 774,
+    "name": "minior",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 30,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 774,
+        "name": "minior-red-meteor",
+        "types": [
+          "rock",
+          "flying"
+        ]
+      },
+      {
+        "id": 10130,
+        "name": "minior-orange-meteor",
+        "types": [
+          "rock",
+          "flying"
+        ]
+      },
+      {
+        "id": 10131,
+        "name": "minior-yellow-meteor",
+        "types": [
+          "rock",
+          "flying"
+        ]
+      },
+      {
+        "id": 10132,
+        "name": "minior-green-meteor",
+        "types": [
+          "rock",
+          "flying"
+        ]
+      },
+      {
+        "id": 10133,
+        "name": "minior-blue-meteor",
+        "types": [
+          "rock",
+          "flying"
+        ]
+      },
+      {
+        "id": 10134,
+        "name": "minior-indigo-meteor",
+        "types": [
+          "rock",
+          "flying"
+        ]
+      },
+      {
+        "id": 10135,
+        "name": "minior-violet-meteor",
+        "types": [
+          "rock",
+          "flying"
+        ]
+      },
+      {
+        "id": 10136,
+        "name": "minior-red",
+        "types": [
+          "rock",
+          "flying"
+        ]
+      },
+      {
+        "id": 10137,
+        "name": "minior-orange",
+        "types": [
+          "rock",
+          "flying"
+        ]
+      },
+      {
+        "id": 10138,
+        "name": "minior-yellow",
+        "types": [
+          "rock",
+          "flying"
+        ]
+      },
+      {
+        "id": 10139,
+        "name": "minior-green",
+        "types": [
+          "rock",
+          "flying"
+        ]
+      },
+      {
+        "id": 10140,
+        "name": "minior-blue",
+        "types": [
+          "rock",
+          "flying"
+        ]
+      },
+      {
+        "id": 10141,
+        "name": "minior-indigo",
+        "types": [
+          "rock",
+          "flying"
+        ]
+      },
+      {
+        "id": 10142,
+        "name": "minior-violet",
+        "types": [
+          "rock",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "minior-red-meteor",
+      "minior-orange-meteor",
+      "minior-yellow-meteor",
+      "minior-green-meteor",
+      "minior-blue-meteor",
+      "minior-indigo-meteor",
+      "minior-violet-meteor",
+      "minior-red",
+      "minior-orange",
+      "minior-yellow",
+      "minior-green",
+      "minior-blue",
+      "minior-indigo",
+      "minior-violet"
+    ],
+    "types": [
+      "rock",
+      "flying"
+    ]
+  },
+  {
+    "id": 797,
+    "name": "celesteela",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 797,
+        "name": "celesteela",
+        "types": [
+          "steel",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "celesteela"
+    ],
+    "types": [
+      "steel",
+      "flying"
+    ]
+  }
+]

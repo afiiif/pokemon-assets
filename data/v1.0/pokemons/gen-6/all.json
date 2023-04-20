@@ -1,0 +1,2066 @@
+[
+  {
+    "id": 650,
+    "name": "chespin",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 650,
+        "name": "chespin",
+        "types": [
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "chespin"
+    ],
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": 651,
+    "name": "quilladin",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 651,
+        "name": "quilladin",
+        "types": [
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "quilladin"
+    ],
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": 652,
+    "name": "chesnaught",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 652,
+        "name": "chesnaught",
+        "types": [
+          "grass",
+          "fighting"
+        ]
+      }
+    ],
+    "names": [
+      "chesnaught"
+    ],
+    "types": [
+      "grass",
+      "fighting"
+    ]
+  },
+  {
+    "id": 653,
+    "name": "fennekin",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 653,
+        "name": "fennekin",
+        "types": [
+          "fire"
+        ]
+      }
+    ],
+    "names": [
+      "fennekin"
+    ],
+    "types": [
+      "fire"
+    ]
+  },
+  {
+    "id": 654,
+    "name": "braixen",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 654,
+        "name": "braixen",
+        "types": [
+          "fire"
+        ]
+      }
+    ],
+    "names": [
+      "braixen"
+    ],
+    "types": [
+      "fire"
+    ]
+  },
+  {
+    "id": 655,
+    "name": "delphox",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 655,
+        "name": "delphox",
+        "types": [
+          "fire",
+          "psychic"
+        ]
+      }
+    ],
+    "names": [
+      "delphox"
+    ],
+    "types": [
+      "fire",
+      "psychic"
+    ]
+  },
+  {
+    "id": 656,
+    "name": "froakie",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 656,
+        "name": "froakie",
+        "types": [
+          "water"
+        ]
+      }
+    ],
+    "names": [
+      "froakie"
+    ],
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": 657,
+    "name": "frogadier",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 657,
+        "name": "frogadier",
+        "types": [
+          "water"
+        ]
+      }
+    ],
+    "names": [
+      "frogadier"
+    ],
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": 658,
+    "name": "greninja",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 658,
+        "name": "greninja",
+        "types": [
+          "water",
+          "dark"
+        ]
+      },
+      {
+        "id": 10116,
+        "name": "greninja-battle-bond",
+        "types": [
+          "water",
+          "dark"
+        ]
+      },
+      {
+        "id": 10117,
+        "name": "greninja-ash",
+        "types": [
+          "water",
+          "dark"
+        ]
+      }
+    ],
+    "names": [
+      "greninja",
+      "greninja-battle-bond",
+      "greninja-ash"
+    ],
+    "types": [
+      "water",
+      "dark"
+    ]
+  },
+  {
+    "id": 659,
+    "name": "bunnelby",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 255,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 659,
+        "name": "bunnelby",
+        "types": [
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "bunnelby"
+    ],
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": 660,
+    "name": "diggersby",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 127,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 660,
+        "name": "diggersby",
+        "types": [
+          "normal",
+          "ground"
+        ]
+      }
+    ],
+    "names": [
+      "diggersby"
+    ],
+    "types": [
+      "normal",
+      "ground"
+    ]
+  },
+  {
+    "id": 661,
+    "name": "fletchling",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 255,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 661,
+        "name": "fletchling",
+        "types": [
+          "normal",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "fletchling"
+    ],
+    "types": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "id": 662,
+    "name": "fletchinder",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 120,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 662,
+        "name": "fletchinder",
+        "types": [
+          "fire",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "fletchinder"
+    ],
+    "types": [
+      "fire",
+      "flying"
+    ]
+  },
+  {
+    "id": 663,
+    "name": "talonflame",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 663,
+        "name": "talonflame",
+        "types": [
+          "fire",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "talonflame"
+    ],
+    "types": [
+      "fire",
+      "flying"
+    ]
+  },
+  {
+    "id": 664,
+    "name": "scatterbug",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 255,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 664,
+        "name": "scatterbug",
+        "types": [
+          "bug"
+        ]
+      }
+    ],
+    "names": [
+      "scatterbug"
+    ],
+    "types": [
+      "bug"
+    ]
+  },
+  {
+    "id": 665,
+    "name": "spewpa",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 120,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 665,
+        "name": "spewpa",
+        "types": [
+          "bug"
+        ]
+      }
+    ],
+    "names": [
+      "spewpa"
+    ],
+    "types": [
+      "bug"
+    ]
+  },
+  {
+    "id": 666,
+    "name": "vivillon",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 666,
+        "name": "vivillon",
+        "types": [
+          "bug",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "vivillon"
+    ],
+    "types": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "id": 667,
+    "name": "litleo",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 220,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 667,
+        "name": "litleo",
+        "types": [
+          "fire",
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "litleo"
+    ],
+    "types": [
+      "fire",
+      "normal"
+    ]
+  },
+  {
+    "id": 668,
+    "name": "pyroar",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 65,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 668,
+        "name": "pyroar",
+        "types": [
+          "fire",
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "pyroar"
+    ],
+    "types": [
+      "fire",
+      "normal"
+    ]
+  },
+  {
+    "id": 669,
+    "name": "flabebe",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 225,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 669,
+        "name": "flabebe",
+        "types": [
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "flabebe"
+    ],
+    "types": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 670,
+    "name": "floette",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 120,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 670,
+        "name": "floette",
+        "types": [
+          "fairy"
+        ]
+      },
+      {
+        "id": 10061,
+        "name": "floette-eternal",
+        "types": [
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "floette",
+      "floette-eternal"
+    ],
+    "types": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 671,
+    "name": "florges",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 671,
+        "name": "florges",
+        "types": [
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "florges"
+    ],
+    "types": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 672,
+    "name": "skiddo",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 200,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 672,
+        "name": "skiddo",
+        "types": [
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "skiddo"
+    ],
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": 673,
+    "name": "gogoat",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 673,
+        "name": "gogoat",
+        "types": [
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "gogoat"
+    ],
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": 674,
+    "name": "pancham",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 220,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 674,
+        "name": "pancham",
+        "types": [
+          "fighting"
+        ]
+      }
+    ],
+    "names": [
+      "pancham"
+    ],
+    "types": [
+      "fighting"
+    ]
+  },
+  {
+    "id": 675,
+    "name": "pangoro",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 65,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 675,
+        "name": "pangoro",
+        "types": [
+          "fighting",
+          "dark"
+        ]
+      }
+    ],
+    "names": [
+      "pangoro"
+    ],
+    "types": [
+      "fighting",
+      "dark"
+    ]
+  },
+  {
+    "id": 676,
+    "name": "furfrou",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 160,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 676,
+        "name": "furfrou",
+        "types": [
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "furfrou"
+    ],
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": 677,
+    "name": "espurr",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 190,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 677,
+        "name": "espurr",
+        "types": [
+          "psychic"
+        ]
+      }
+    ],
+    "names": [
+      "espurr"
+    ],
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "id": 678,
+    "name": "meowstic",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 75,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 678,
+        "name": "meowstic-male",
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "id": 10025,
+        "name": "meowstic-female",
+        "types": [
+          "psychic"
+        ]
+      }
+    ],
+    "names": [
+      "meowstic-male",
+      "meowstic-female"
+    ],
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "id": 679,
+    "name": "honedge",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 180,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 679,
+        "name": "honedge",
+        "types": [
+          "steel",
+          "ghost"
+        ]
+      }
+    ],
+    "names": [
+      "honedge"
+    ],
+    "types": [
+      "steel",
+      "ghost"
+    ]
+  },
+  {
+    "id": 680,
+    "name": "doublade",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 90,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 680,
+        "name": "doublade",
+        "types": [
+          "steel",
+          "ghost"
+        ]
+      }
+    ],
+    "names": [
+      "doublade"
+    ],
+    "types": [
+      "steel",
+      "ghost"
+    ]
+  },
+  {
+    "id": 681,
+    "name": "aegislash",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 681,
+        "name": "aegislash-shield",
+        "types": [
+          "steel",
+          "ghost"
+        ]
+      },
+      {
+        "id": 10026,
+        "name": "aegislash-blade",
+        "types": [
+          "steel",
+          "ghost"
+        ]
+      }
+    ],
+    "names": [
+      "aegislash-shield",
+      "aegislash-blade"
+    ],
+    "types": [
+      "steel",
+      "ghost"
+    ]
+  },
+  {
+    "id": 682,
+    "name": "spritzee",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 200,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 682,
+        "name": "spritzee",
+        "types": [
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "spritzee"
+    ],
+    "types": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 683,
+    "name": "aromatisse",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 140,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 683,
+        "name": "aromatisse",
+        "types": [
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "aromatisse"
+    ],
+    "types": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 684,
+    "name": "swirlix",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 200,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 684,
+        "name": "swirlix",
+        "types": [
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "swirlix"
+    ],
+    "types": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 685,
+    "name": "slurpuff",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 140,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 685,
+        "name": "slurpuff",
+        "types": [
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "slurpuff"
+    ],
+    "types": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 686,
+    "name": "inkay",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 190,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 686,
+        "name": "inkay",
+        "types": [
+          "dark",
+          "psychic"
+        ]
+      }
+    ],
+    "names": [
+      "inkay"
+    ],
+    "types": [
+      "dark",
+      "psychic"
+    ]
+  },
+  {
+    "id": 687,
+    "name": "malamar",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 80,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 687,
+        "name": "malamar",
+        "types": [
+          "dark",
+          "psychic"
+        ]
+      }
+    ],
+    "names": [
+      "malamar"
+    ],
+    "types": [
+      "dark",
+      "psychic"
+    ]
+  },
+  {
+    "id": 688,
+    "name": "binacle",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 120,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 688,
+        "name": "binacle",
+        "types": [
+          "rock",
+          "water"
+        ]
+      }
+    ],
+    "names": [
+      "binacle"
+    ],
+    "types": [
+      "rock",
+      "water"
+    ]
+  },
+  {
+    "id": 689,
+    "name": "barbaracle",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 689,
+        "name": "barbaracle",
+        "types": [
+          "rock",
+          "water"
+        ]
+      }
+    ],
+    "names": [
+      "barbaracle"
+    ],
+    "types": [
+      "rock",
+      "water"
+    ]
+  },
+  {
+    "id": 690,
+    "name": "skrelp",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 225,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 690,
+        "name": "skrelp",
+        "types": [
+          "poison",
+          "water"
+        ]
+      }
+    ],
+    "names": [
+      "skrelp"
+    ],
+    "types": [
+      "poison",
+      "water"
+    ]
+  },
+  {
+    "id": 691,
+    "name": "dragalge",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 55,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 691,
+        "name": "dragalge",
+        "types": [
+          "poison",
+          "dragon"
+        ]
+      }
+    ],
+    "names": [
+      "dragalge"
+    ],
+    "types": [
+      "poison",
+      "dragon"
+    ]
+  },
+  {
+    "id": 692,
+    "name": "clauncher",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 225,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 692,
+        "name": "clauncher",
+        "types": [
+          "water"
+        ]
+      }
+    ],
+    "names": [
+      "clauncher"
+    ],
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": 693,
+    "name": "clawitzer",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 55,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 693,
+        "name": "clawitzer",
+        "types": [
+          "water"
+        ]
+      }
+    ],
+    "names": [
+      "clawitzer"
+    ],
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": 694,
+    "name": "helioptile",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 190,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 694,
+        "name": "helioptile",
+        "types": [
+          "electric",
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "helioptile"
+    ],
+    "types": [
+      "electric",
+      "normal"
+    ]
+  },
+  {
+    "id": 695,
+    "name": "heliolisk",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 75,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 695,
+        "name": "heliolisk",
+        "types": [
+          "electric",
+          "normal"
+        ]
+      }
+    ],
+    "names": [
+      "heliolisk"
+    ],
+    "types": [
+      "electric",
+      "normal"
+    ]
+  },
+  {
+    "id": 696,
+    "name": "tyrunt",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 696,
+        "name": "tyrunt",
+        "types": [
+          "rock",
+          "dragon"
+        ]
+      }
+    ],
+    "names": [
+      "tyrunt"
+    ],
+    "types": [
+      "rock",
+      "dragon"
+    ]
+  },
+  {
+    "id": 697,
+    "name": "tyrantrum",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 697,
+        "name": "tyrantrum",
+        "types": [
+          "rock",
+          "dragon"
+        ]
+      }
+    ],
+    "names": [
+      "tyrantrum"
+    ],
+    "types": [
+      "rock",
+      "dragon"
+    ]
+  },
+  {
+    "id": 698,
+    "name": "amaura",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 698,
+        "name": "amaura",
+        "types": [
+          "rock",
+          "ice"
+        ]
+      }
+    ],
+    "names": [
+      "amaura"
+    ],
+    "types": [
+      "rock",
+      "ice"
+    ]
+  },
+  {
+    "id": 699,
+    "name": "aurorus",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 699,
+        "name": "aurorus",
+        "types": [
+          "rock",
+          "ice"
+        ]
+      }
+    ],
+    "names": [
+      "aurorus"
+    ],
+    "types": [
+      "rock",
+      "ice"
+    ]
+  },
+  {
+    "id": 700,
+    "name": "sylveon",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 700,
+        "name": "sylveon",
+        "types": [
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "sylveon"
+    ],
+    "types": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 701,
+    "name": "hawlucha",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 100,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 701,
+        "name": "hawlucha",
+        "types": [
+          "fighting",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "hawlucha"
+    ],
+    "types": [
+      "fighting",
+      "flying"
+    ]
+  },
+  {
+    "id": 702,
+    "name": "dedenne",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 180,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 702,
+        "name": "dedenne",
+        "types": [
+          "electric",
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "dedenne"
+    ],
+    "types": [
+      "electric",
+      "fairy"
+    ]
+  },
+  {
+    "id": 703,
+    "name": "carbink",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 60,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 703,
+        "name": "carbink",
+        "types": [
+          "rock",
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "carbink"
+    ],
+    "types": [
+      "rock",
+      "fairy"
+    ]
+  },
+  {
+    "id": 704,
+    "name": "goomy",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 704,
+        "name": "goomy",
+        "types": [
+          "dragon"
+        ]
+      }
+    ],
+    "names": [
+      "goomy"
+    ],
+    "types": [
+      "dragon"
+    ]
+  },
+  {
+    "id": 705,
+    "name": "sliggoo",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 705,
+        "name": "sliggoo",
+        "types": [
+          "dragon"
+        ]
+      },
+      {
+        "id": 10241,
+        "name": "sliggoo-hisui",
+        "types": [
+          "steel",
+          "dragon"
+        ]
+      }
+    ],
+    "names": [
+      "sliggoo",
+      "sliggoo-hisui"
+    ],
+    "types": [
+      "dragon",
+      "steel"
+    ]
+  },
+  {
+    "id": 706,
+    "name": "goodra",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 706,
+        "name": "goodra",
+        "types": [
+          "dragon"
+        ]
+      },
+      {
+        "id": 10242,
+        "name": "goodra-hisui",
+        "types": [
+          "steel",
+          "dragon"
+        ]
+      }
+    ],
+    "names": [
+      "goodra",
+      "goodra-hisui"
+    ],
+    "types": [
+      "dragon",
+      "steel"
+    ]
+  },
+  {
+    "id": 707,
+    "name": "klefki",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 75,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 707,
+        "name": "klefki",
+        "types": [
+          "steel",
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "klefki"
+    ],
+    "types": [
+      "steel",
+      "fairy"
+    ]
+  },
+  {
+    "id": 708,
+    "name": "phantump",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 120,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 708,
+        "name": "phantump",
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "phantump"
+    ],
+    "types": [
+      "ghost",
+      "grass"
+    ]
+  },
+  {
+    "id": 709,
+    "name": "trevenant",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 60,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 709,
+        "name": "trevenant",
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "trevenant"
+    ],
+    "types": [
+      "ghost",
+      "grass"
+    ]
+  },
+  {
+    "id": 710,
+    "name": "pumpkaboo",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 120,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 710,
+        "name": "pumpkaboo-average",
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      },
+      {
+        "id": 10027,
+        "name": "pumpkaboo-small",
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      },
+      {
+        "id": 10028,
+        "name": "pumpkaboo-large",
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      },
+      {
+        "id": 10029,
+        "name": "pumpkaboo-super",
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "pumpkaboo-average",
+      "pumpkaboo-small",
+      "pumpkaboo-large",
+      "pumpkaboo-super"
+    ],
+    "types": [
+      "ghost",
+      "grass"
+    ]
+  },
+  {
+    "id": 711,
+    "name": "gourgeist",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 60,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 711,
+        "name": "gourgeist-average",
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      },
+      {
+        "id": 10030,
+        "name": "gourgeist-small",
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      },
+      {
+        "id": 10031,
+        "name": "gourgeist-large",
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      },
+      {
+        "id": 10032,
+        "name": "gourgeist-super",
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      }
+    ],
+    "names": [
+      "gourgeist-average",
+      "gourgeist-small",
+      "gourgeist-large",
+      "gourgeist-super"
+    ],
+    "types": [
+      "ghost",
+      "grass"
+    ]
+  },
+  {
+    "id": 712,
+    "name": "bergmite",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 190,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 712,
+        "name": "bergmite",
+        "types": [
+          "ice"
+        ]
+      }
+    ],
+    "names": [
+      "bergmite"
+    ],
+    "types": [
+      "ice"
+    ]
+  },
+  {
+    "id": 713,
+    "name": "avalugg",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 55,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 713,
+        "name": "avalugg",
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "id": 10243,
+        "name": "avalugg-hisui",
+        "types": [
+          "ice",
+          "rock"
+        ]
+      }
+    ],
+    "names": [
+      "avalugg",
+      "avalugg-hisui"
+    ],
+    "types": [
+      "ice",
+      "rock"
+    ]
+  },
+  {
+    "id": 714,
+    "name": "noibat",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 190,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 714,
+        "name": "noibat",
+        "types": [
+          "flying",
+          "dragon"
+        ]
+      }
+    ],
+    "names": [
+      "noibat"
+    ],
+    "types": [
+      "flying",
+      "dragon"
+    ]
+  },
+  {
+    "id": 715,
+    "name": "noivern",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 715,
+        "name": "noivern",
+        "types": [
+          "flying",
+          "dragon"
+        ]
+      }
+    ],
+    "names": [
+      "noivern"
+    ],
+    "types": [
+      "flying",
+      "dragon"
+    ]
+  },
+  {
+    "id": 716,
+    "name": "xerneas",
+    "gen": 6,
+    "isLegendary": true,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 716,
+        "name": "xerneas",
+        "types": [
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "xerneas"
+    ],
+    "types": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 717,
+    "name": "yveltal",
+    "gen": 6,
+    "isLegendary": true,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 717,
+        "name": "yveltal",
+        "types": [
+          "dark",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "yveltal"
+    ],
+    "types": [
+      "dark",
+      "flying"
+    ]
+  },
+  {
+    "id": 718,
+    "name": "zygarde",
+    "gen": 6,
+    "isLegendary": true,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 3,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 718,
+        "name": "zygarde-50",
+        "types": [
+          "dragon",
+          "ground"
+        ]
+      },
+      {
+        "id": 10118,
+        "name": "zygarde-10-power-construct",
+        "types": [
+          "dragon",
+          "ground"
+        ]
+      },
+      {
+        "id": 10119,
+        "name": "zygarde-50-power-construct",
+        "types": [
+          "dragon",
+          "ground"
+        ]
+      },
+      {
+        "id": 10120,
+        "name": "zygarde-complete",
+        "types": [
+          "dragon",
+          "ground"
+        ]
+      },
+      {
+        "id": 10181,
+        "name": "zygarde-10",
+        "types": [
+          "dragon",
+          "ground"
+        ]
+      }
+    ],
+    "names": [
+      "zygarde-50",
+      "zygarde-10-power-construct",
+      "zygarde-50-power-construct",
+      "zygarde-complete",
+      "zygarde-10"
+    ],
+    "types": [
+      "dragon",
+      "ground"
+    ]
+  },
+  {
+    "id": 719,
+    "name": "diancie",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": true,
+    "isBaby": false,
+    "captureRate": 3,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 719,
+        "name": "diancie",
+        "types": [
+          "rock",
+          "fairy"
+        ]
+      },
+      {
+        "id": 10075,
+        "name": "diancie-mega",
+        "types": [
+          "rock",
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "diancie",
+      "diancie-mega"
+    ],
+    "types": [
+      "rock",
+      "fairy"
+    ]
+  },
+  {
+    "id": 720,
+    "name": "hoopa",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": true,
+    "isBaby": false,
+    "captureRate": 3,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 720,
+        "name": "hoopa",
+        "types": [
+          "psychic",
+          "ghost"
+        ]
+      },
+      {
+        "id": 10086,
+        "name": "hoopa-unbound",
+        "types": [
+          "psychic",
+          "dark"
+        ]
+      }
+    ],
+    "names": [
+      "hoopa",
+      "hoopa-unbound"
+    ],
+    "types": [
+      "psychic",
+      "ghost",
+      "dark"
+    ]
+  },
+  {
+    "id": 721,
+    "name": "volcanion",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": true,
+    "isBaby": false,
+    "captureRate": 3,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 721,
+        "name": "volcanion",
+        "types": [
+          "fire",
+          "water"
+        ]
+      }
+    ],
+    "names": [
+      "volcanion"
+    ],
+    "types": [
+      "fire",
+      "water"
+    ]
+  }
+]

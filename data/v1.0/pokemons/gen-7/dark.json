@@ -1,0 +1,56 @@
+[
+  {
+    "id": 727,
+    "name": "incineroar",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 727,
+        "name": "incineroar",
+        "types": [
+          "fire",
+          "dark"
+        ]
+      }
+    ],
+    "names": [
+      "incineroar"
+    ],
+    "types": [
+      "fire",
+      "dark"
+    ]
+  },
+  {
+    "id": 799,
+    "name": "guzzlord",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 799,
+        "name": "guzzlord",
+        "types": [
+          "dark",
+          "dragon"
+        ]
+      }
+    ],
+    "names": [
+      "guzzlord"
+    ],
+    "types": [
+      "dark",
+      "dragon"
+    ]
+  }
+]

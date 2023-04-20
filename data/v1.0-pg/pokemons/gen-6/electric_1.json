@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "id": 694,
+      "name": "helioptile",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 694,
+          "name": "helioptile",
+          "types": [
+            "electric",
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "helioptile"
+      ],
+      "types": [
+        "electric",
+        "normal"
+      ]
+    },
+    {
+      "id": 695,
+      "name": "heliolisk",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 695,
+          "name": "heliolisk",
+          "types": [
+            "electric",
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "heliolisk"
+      ],
+      "types": [
+        "electric",
+        "normal"
+      ]
+    },
+    {
+      "id": 702,
+      "name": "dedenne",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 180,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 702,
+          "name": "dedenne",
+          "types": [
+            "electric",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "dedenne"
+      ],
+      "types": [
+        "electric",
+        "fairy"
+      ]
+    }
+  ],
+  "page": 1,
+  "nextPage": null
+}

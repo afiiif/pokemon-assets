@@ -1,0 +1,196 @@
+{
+  "data": [
+    {
+      "id": 280,
+      "name": "ralts",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 235,
+      "habitat": "urban",
+      "pokemons": [
+        {
+          "id": 280,
+          "name": "ralts",
+          "types": [
+            "psychic",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "ralts"
+      ],
+      "types": [
+        "psychic",
+        "fairy"
+      ]
+    },
+    {
+      "id": 281,
+      "name": "kirlia",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": "urban",
+      "pokemons": [
+        {
+          "id": 281,
+          "name": "kirlia",
+          "types": [
+            "psychic",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "kirlia"
+      ],
+      "types": [
+        "psychic",
+        "fairy"
+      ]
+    },
+    {
+      "id": 282,
+      "name": "gardevoir",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "urban",
+      "pokemons": [
+        {
+          "id": 282,
+          "name": "gardevoir",
+          "types": [
+            "psychic",
+            "fairy"
+          ]
+        },
+        {
+          "id": 10051,
+          "name": "gardevoir-mega",
+          "types": [
+            "psychic",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "gardevoir",
+        "gardevoir-mega"
+      ],
+      "types": [
+        "psychic",
+        "fairy"
+      ]
+    },
+    {
+      "id": 298,
+      "name": "azurill",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": true,
+      "captureRate": 150,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 298,
+          "name": "azurill",
+          "types": [
+            "normal",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "azurill"
+      ],
+      "types": [
+        "normal",
+        "fairy"
+      ]
+    },
+    {
+      "id": 303,
+      "name": "mawile",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "cave",
+      "pokemons": [
+        {
+          "id": 303,
+          "name": "mawile",
+          "types": [
+            "steel",
+            "fairy"
+          ]
+        },
+        {
+          "id": 10052,
+          "name": "mawile-mega",
+          "types": [
+            "steel",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "mawile",
+        "mawile-mega"
+      ],
+      "types": [
+        "steel",
+        "fairy"
+      ]
+    },
+    {
+      "id": 334,
+      "name": "altaria",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 334,
+          "name": "altaria",
+          "types": [
+            "dragon",
+            "flying"
+          ]
+        },
+        {
+          "id": 10067,
+          "name": "altaria-mega",
+          "types": [
+            "dragon",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "altaria",
+        "altaria-mega"
+      ],
+      "types": [
+        "dragon",
+        "flying",
+        "fairy"
+      ]
+    }
+  ],
+  "page": 1,
+  "nextPage": null
+}

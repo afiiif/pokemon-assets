@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": 740,
+      "name": "crabominable",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 740,
+          "name": "crabominable",
+          "types": [
+            "fighting",
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "crabominable"
+      ],
+      "types": [
+        "fighting",
+        "ice"
+      ]
+    }
+  ],
+  "page": 1,
+  "nextPage": null
+}

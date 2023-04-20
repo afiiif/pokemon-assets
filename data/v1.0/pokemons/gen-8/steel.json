@@ -1,0 +1,227 @@
+[
+  {
+    "id": 823,
+    "name": "corviknight",
+    "gen": 8,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 823,
+        "name": "corviknight",
+        "types": [
+          "flying",
+          "steel"
+        ]
+      },
+      {
+        "id": 10212,
+        "name": "corviknight-gmax",
+        "types": [
+          "flying",
+          "steel"
+        ]
+      }
+    ],
+    "names": [
+      "corviknight",
+      "corviknight-gmax"
+    ],
+    "types": [
+      "flying",
+      "steel"
+    ]
+  },
+  {
+    "id": 863,
+    "name": "perrserker",
+    "gen": 8,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 90,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 863,
+        "name": "perrserker",
+        "types": [
+          "steel"
+        ]
+      }
+    ],
+    "names": [
+      "perrserker"
+    ],
+    "types": [
+      "steel"
+    ]
+  },
+  {
+    "id": 878,
+    "name": "cufant",
+    "gen": 8,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 190,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 878,
+        "name": "cufant",
+        "types": [
+          "steel"
+        ]
+      }
+    ],
+    "names": [
+      "cufant"
+    ],
+    "types": [
+      "steel"
+    ]
+  },
+  {
+    "id": 879,
+    "name": "copperajah",
+    "gen": 8,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 90,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 879,
+        "name": "copperajah",
+        "types": [
+          "steel"
+        ]
+      },
+      {
+        "id": 10224,
+        "name": "copperajah-gmax",
+        "types": [
+          "steel"
+        ]
+      }
+    ],
+    "names": [
+      "copperajah",
+      "copperajah-gmax"
+    ],
+    "types": [
+      "steel"
+    ]
+  },
+  {
+    "id": 884,
+    "name": "duraludon",
+    "gen": 8,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 884,
+        "name": "duraludon",
+        "types": [
+          "steel",
+          "dragon"
+        ]
+      },
+      {
+        "id": 10225,
+        "name": "duraludon-gmax",
+        "types": [
+          "steel",
+          "dragon"
+        ]
+      }
+    ],
+    "names": [
+      "duraludon",
+      "duraludon-gmax"
+    ],
+    "types": [
+      "steel",
+      "dragon"
+    ]
+  },
+  {
+    "id": 888,
+    "name": "zacian",
+    "gen": 8,
+    "isLegendary": true,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 10,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 888,
+        "name": "zacian",
+        "types": [
+          "fairy"
+        ]
+      },
+      {
+        "id": 10188,
+        "name": "zacian-crowned",
+        "types": [
+          "fairy",
+          "steel"
+        ]
+      }
+    ],
+    "names": [
+      "zacian",
+      "zacian-crowned"
+    ],
+    "types": [
+      "fairy",
+      "steel"
+    ]
+  },
+  {
+    "id": 889,
+    "name": "zamazenta",
+    "gen": 8,
+    "isLegendary": true,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 10,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 889,
+        "name": "zamazenta",
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "id": 10189,
+        "name": "zamazenta-crowned",
+        "types": [
+          "fighting",
+          "steel"
+        ]
+      }
+    ],
+    "names": [
+      "zamazenta",
+      "zamazenta-crowned"
+    ],
+    "types": [
+      "fighting",
+      "steel"
+    ]
+  }
+]

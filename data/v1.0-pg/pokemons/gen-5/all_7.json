@@ -1,0 +1,391 @@
+{
+  "data": [
+    {
+      "id": 638,
+      "name": "cobalion",
+      "gen": 5,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 638,
+          "name": "cobalion",
+          "types": [
+            "steel",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "cobalion"
+      ],
+      "types": [
+        "steel",
+        "fighting"
+      ]
+    },
+    {
+      "id": 639,
+      "name": "terrakion",
+      "gen": 5,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 639,
+          "name": "terrakion",
+          "types": [
+            "rock",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "terrakion"
+      ],
+      "types": [
+        "rock",
+        "fighting"
+      ]
+    },
+    {
+      "id": 640,
+      "name": "virizion",
+      "gen": 5,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 640,
+          "name": "virizion",
+          "types": [
+            "grass",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "virizion"
+      ],
+      "types": [
+        "grass",
+        "fighting"
+      ]
+    },
+    {
+      "id": 641,
+      "name": "tornadus",
+      "gen": 5,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 641,
+          "name": "tornadus-incarnate",
+          "types": [
+            "flying"
+          ]
+        },
+        {
+          "id": 10019,
+          "name": "tornadus-therian",
+          "types": [
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "tornadus-incarnate",
+        "tornadus-therian"
+      ],
+      "types": [
+        "flying"
+      ]
+    },
+    {
+      "id": 642,
+      "name": "thundurus",
+      "gen": 5,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 642,
+          "name": "thundurus-incarnate",
+          "types": [
+            "electric",
+            "flying"
+          ]
+        },
+        {
+          "id": 10020,
+          "name": "thundurus-therian",
+          "types": [
+            "electric",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "thundurus-incarnate",
+        "thundurus-therian"
+      ],
+      "types": [
+        "electric",
+        "flying"
+      ]
+    },
+    {
+      "id": 643,
+      "name": "reshiram",
+      "gen": 5,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 643,
+          "name": "reshiram",
+          "types": [
+            "dragon",
+            "fire"
+          ]
+        }
+      ],
+      "names": [
+        "reshiram"
+      ],
+      "types": [
+        "dragon",
+        "fire"
+      ]
+    },
+    {
+      "id": 644,
+      "name": "zekrom",
+      "gen": 5,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 644,
+          "name": "zekrom",
+          "types": [
+            "dragon",
+            "electric"
+          ]
+        }
+      ],
+      "names": [
+        "zekrom"
+      ],
+      "types": [
+        "dragon",
+        "electric"
+      ]
+    },
+    {
+      "id": 645,
+      "name": "landorus",
+      "gen": 5,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 645,
+          "name": "landorus-incarnate",
+          "types": [
+            "ground",
+            "flying"
+          ]
+        },
+        {
+          "id": 10021,
+          "name": "landorus-therian",
+          "types": [
+            "ground",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "landorus-incarnate",
+        "landorus-therian"
+      ],
+      "types": [
+        "ground",
+        "flying"
+      ]
+    },
+    {
+      "id": 646,
+      "name": "kyurem",
+      "gen": 5,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 646,
+          "name": "kyurem",
+          "types": [
+            "dragon",
+            "ice"
+          ]
+        },
+        {
+          "id": 10022,
+          "name": "kyurem-black",
+          "types": [
+            "dragon",
+            "ice"
+          ]
+        },
+        {
+          "id": 10023,
+          "name": "kyurem-white",
+          "types": [
+            "dragon",
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "kyurem",
+        "kyurem-black",
+        "kyurem-white"
+      ],
+      "types": [
+        "dragon",
+        "ice"
+      ]
+    },
+    {
+      "id": 647,
+      "name": "keldeo",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": true,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 647,
+          "name": "keldeo-ordinary",
+          "types": [
+            "water",
+            "fighting"
+          ]
+        },
+        {
+          "id": 10024,
+          "name": "keldeo-resolute",
+          "types": [
+            "water",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "keldeo-ordinary",
+        "keldeo-resolute"
+      ],
+      "types": [
+        "water",
+        "fighting"
+      ]
+    },
+    {
+      "id": 648,
+      "name": "meloetta",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": true,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 648,
+          "name": "meloetta-aria",
+          "types": [
+            "normal",
+            "psychic"
+          ]
+        },
+        {
+          "id": 10018,
+          "name": "meloetta-pirouette",
+          "types": [
+            "normal",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "meloetta-aria",
+        "meloetta-pirouette"
+      ],
+      "types": [
+        "normal",
+        "psychic",
+        "fighting"
+      ]
+    },
+    {
+      "id": 649,
+      "name": "genesect",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": true,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 649,
+          "name": "genesect",
+          "types": [
+            "bug",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "genesect"
+      ],
+      "types": [
+        "bug",
+        "steel"
+      ]
+    }
+  ],
+  "page": 7,
+  "nextPage": null
+}

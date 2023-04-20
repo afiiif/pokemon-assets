@@ -1,0 +1,563 @@
+{
+  "data": [
+    {
+      "id": 752,
+      "name": "araquanid",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 100,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 752,
+          "name": "araquanid",
+          "types": [
+            "water",
+            "bug"
+          ]
+        },
+        {
+          "id": 10153,
+          "name": "araquanid-totem",
+          "types": [
+            "water",
+            "bug"
+          ]
+        }
+      ],
+      "names": [
+        "araquanid",
+        "araquanid-totem"
+      ],
+      "types": [
+        "water",
+        "bug"
+      ]
+    },
+    {
+      "id": 767,
+      "name": "wimpod",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 767,
+          "name": "wimpod",
+          "types": [
+            "bug",
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "wimpod"
+      ],
+      "types": [
+        "bug",
+        "water"
+      ]
+    },
+    {
+      "id": 768,
+      "name": "golisopod",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 768,
+          "name": "golisopod",
+          "types": [
+            "bug",
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "golisopod"
+      ],
+      "types": [
+        "bug",
+        "water"
+      ]
+    },
+    {
+      "id": 794,
+      "name": "buzzwole",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 794,
+          "name": "buzzwole",
+          "types": [
+            "bug",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "buzzwole"
+      ],
+      "types": [
+        "bug",
+        "fighting"
+      ]
+    },
+    {
+      "id": 795,
+      "name": "pheromosa",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 795,
+          "name": "pheromosa",
+          "types": [
+            "bug",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "pheromosa"
+      ],
+      "types": [
+        "bug",
+        "fighting"
+      ]
+    },
+    {
+      "id": 824,
+      "name": "blipbug",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 824,
+          "name": "blipbug",
+          "types": [
+            "bug"
+          ]
+        }
+      ],
+      "names": [
+        "blipbug"
+      ],
+      "types": [
+        "bug"
+      ]
+    },
+    {
+      "id": 825,
+      "name": "dottler",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 825,
+          "name": "dottler",
+          "types": [
+            "bug",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "dottler"
+      ],
+      "types": [
+        "bug",
+        "psychic"
+      ]
+    },
+    {
+      "id": 826,
+      "name": "orbeetle",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 826,
+          "name": "orbeetle",
+          "types": [
+            "bug",
+            "psychic"
+          ]
+        },
+        {
+          "id": 10213,
+          "name": "orbeetle-gmax",
+          "types": [
+            "bug",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "orbeetle",
+        "orbeetle-gmax"
+      ],
+      "types": [
+        "bug",
+        "psychic"
+      ]
+    },
+    {
+      "id": 850,
+      "name": "sizzlipede",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 850,
+          "name": "sizzlipede",
+          "types": [
+            "fire",
+            "bug"
+          ]
+        }
+      ],
+      "names": [
+        "sizzlipede"
+      ],
+      "types": [
+        "fire",
+        "bug"
+      ]
+    },
+    {
+      "id": 851,
+      "name": "centiskorch",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 851,
+          "name": "centiskorch",
+          "types": [
+            "fire",
+            "bug"
+          ]
+        },
+        {
+          "id": 10220,
+          "name": "centiskorch-gmax",
+          "types": [
+            "fire",
+            "bug"
+          ]
+        }
+      ],
+      "names": [
+        "centiskorch",
+        "centiskorch-gmax"
+      ],
+      "types": [
+        "fire",
+        "bug"
+      ]
+    },
+    {
+      "id": 872,
+      "name": "snom",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 872,
+          "name": "snom",
+          "types": [
+            "ice",
+            "bug"
+          ]
+        }
+      ],
+      "names": [
+        "snom"
+      ],
+      "types": [
+        "ice",
+        "bug"
+      ]
+    },
+    {
+      "id": 873,
+      "name": "frosmoth",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 873,
+          "name": "frosmoth",
+          "types": [
+            "ice",
+            "bug"
+          ]
+        }
+      ],
+      "names": [
+        "frosmoth"
+      ],
+      "types": [
+        "ice",
+        "bug"
+      ]
+    },
+    {
+      "id": 900,
+      "name": "kleavor",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 115,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 900,
+          "name": "kleavor",
+          "types": [
+            "bug",
+            "rock"
+          ]
+        }
+      ],
+      "names": [
+        "kleavor"
+      ],
+      "types": [
+        "bug",
+        "rock"
+      ]
+    },
+    {
+      "id": 917,
+      "name": "tarountula",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 917,
+          "name": "tarountula",
+          "types": [
+            "bug"
+          ]
+        }
+      ],
+      "names": [
+        "tarountula"
+      ],
+      "types": [
+        "bug"
+      ]
+    },
+    {
+      "id": 918,
+      "name": "spidops",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 918,
+          "name": "spidops",
+          "types": [
+            "bug"
+          ]
+        }
+      ],
+      "names": [
+        "spidops"
+      ],
+      "types": [
+        "bug"
+      ]
+    },
+    {
+      "id": 919,
+      "name": "nymble",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 919,
+          "name": "nymble",
+          "types": [
+            "bug"
+          ]
+        }
+      ],
+      "names": [
+        "nymble"
+      ],
+      "types": [
+        "bug"
+      ]
+    },
+    {
+      "id": 920,
+      "name": "lokix",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 920,
+          "name": "lokix",
+          "types": [
+            "bug",
+            "dark"
+          ]
+        }
+      ],
+      "names": [
+        "lokix"
+      ],
+      "types": [
+        "bug",
+        "dark"
+      ]
+    },
+    {
+      "id": 953,
+      "name": "rellor",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 953,
+          "name": "rellor",
+          "types": [
+            "bug"
+          ]
+        }
+      ],
+      "names": [
+        "rellor"
+      ],
+      "types": [
+        "bug"
+      ]
+    },
+    {
+      "id": 954,
+      "name": "rabsca",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 954,
+          "name": "rabsca",
+          "types": [
+            "bug",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "rabsca"
+      ],
+      "types": [
+        "bug",
+        "psychic"
+      ]
+    },
+    {
+      "id": 988,
+      "name": "slither-wing",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 988,
+          "name": "slither-wing",
+          "types": [
+            "bug",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "slither-wing"
+      ],
+      "types": [
+        "bug",
+        "fighting"
+      ]
+    }
+  ],
+  "page": 4,
+  "nextPage": null
+}

@@ -1,0 +1,178 @@
+[
+  {
+    "id": 655,
+    "name": "delphox",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 655,
+        "name": "delphox",
+        "types": [
+          "fire",
+          "psychic"
+        ]
+      }
+    ],
+    "names": [
+      "delphox"
+    ],
+    "types": [
+      "fire",
+      "psychic"
+    ]
+  },
+  {
+    "id": 677,
+    "name": "espurr",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 190,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 677,
+        "name": "espurr",
+        "types": [
+          "psychic"
+        ]
+      }
+    ],
+    "names": [
+      "espurr"
+    ],
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "id": 678,
+    "name": "meowstic",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 75,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 678,
+        "name": "meowstic-male",
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "id": 10025,
+        "name": "meowstic-female",
+        "types": [
+          "psychic"
+        ]
+      }
+    ],
+    "names": [
+      "meowstic-male",
+      "meowstic-female"
+    ],
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "id": 686,
+    "name": "inkay",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 190,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 686,
+        "name": "inkay",
+        "types": [
+          "dark",
+          "psychic"
+        ]
+      }
+    ],
+    "names": [
+      "inkay"
+    ],
+    "types": [
+      "dark",
+      "psychic"
+    ]
+  },
+  {
+    "id": 687,
+    "name": "malamar",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 80,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 687,
+        "name": "malamar",
+        "types": [
+          "dark",
+          "psychic"
+        ]
+      }
+    ],
+    "names": [
+      "malamar"
+    ],
+    "types": [
+      "dark",
+      "psychic"
+    ]
+  },
+  {
+    "id": 720,
+    "name": "hoopa",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": true,
+    "isBaby": false,
+    "captureRate": 3,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 720,
+        "name": "hoopa",
+        "types": [
+          "psychic",
+          "ghost"
+        ]
+      },
+      {
+        "id": 10086,
+        "name": "hoopa-unbound",
+        "types": [
+          "psychic",
+          "dark"
+        ]
+      }
+    ],
+    "names": [
+      "hoopa",
+      "hoopa-unbound"
+    ],
+    "types": [
+      "psychic",
+      "ghost",
+      "dark"
+    ]
+  }
+]

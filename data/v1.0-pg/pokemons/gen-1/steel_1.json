@@ -1,0 +1,253 @@
+{
+  "data": [
+    {
+      "id": 27,
+      "name": "sandshrew",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "rough-terrain",
+      "pokemons": [
+        {
+          "id": 27,
+          "name": "sandshrew",
+          "types": [
+            "ground"
+          ]
+        },
+        {
+          "id": 10101,
+          "name": "sandshrew-alola",
+          "types": [
+            "ice",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "sandshrew",
+        "sandshrew-alola"
+      ],
+      "types": [
+        "ground",
+        "ice",
+        "steel"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "sandslash",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": "rough-terrain",
+      "pokemons": [
+        {
+          "id": 28,
+          "name": "sandslash",
+          "types": [
+            "ground"
+          ]
+        },
+        {
+          "id": 10102,
+          "name": "sandslash-alola",
+          "types": [
+            "ice",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "sandslash",
+        "sandslash-alola"
+      ],
+      "types": [
+        "ground",
+        "ice",
+        "steel"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "diglett",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "cave",
+      "pokemons": [
+        {
+          "id": 50,
+          "name": "diglett",
+          "types": [
+            "ground"
+          ]
+        },
+        {
+          "id": 10105,
+          "name": "diglett-alola",
+          "types": [
+            "ground",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "diglett",
+        "diglett-alola"
+      ],
+      "types": [
+        "ground",
+        "steel"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "dugtrio",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 50,
+      "habitat": "cave",
+      "pokemons": [
+        {
+          "id": 51,
+          "name": "dugtrio",
+          "types": [
+            "ground"
+          ]
+        },
+        {
+          "id": 10106,
+          "name": "dugtrio-alola",
+          "types": [
+            "ground",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "dugtrio",
+        "dugtrio-alola"
+      ],
+      "types": [
+        "ground",
+        "steel"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "meowth",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "urban",
+      "pokemons": [
+        {
+          "id": 52,
+          "name": "meowth",
+          "types": [
+            "normal"
+          ]
+        },
+        {
+          "id": 10107,
+          "name": "meowth-alola",
+          "types": [
+            "dark"
+          ]
+        },
+        {
+          "id": 10161,
+          "name": "meowth-galar",
+          "types": [
+            "steel"
+          ]
+        },
+        {
+          "id": 10200,
+          "name": "meowth-gmax",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "meowth",
+        "meowth-alola",
+        "meowth-galar",
+        "meowth-gmax"
+      ],
+      "types": [
+        "normal",
+        "dark",
+        "steel"
+      ]
+    },
+    {
+      "id": 81,
+      "name": "magnemite",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": "rough-terrain",
+      "pokemons": [
+        {
+          "id": 81,
+          "name": "magnemite",
+          "types": [
+            "electric",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "magnemite"
+      ],
+      "types": [
+        "electric",
+        "steel"
+      ]
+    },
+    {
+      "id": 82,
+      "name": "magneton",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": "rough-terrain",
+      "pokemons": [
+        {
+          "id": 82,
+          "name": "magneton",
+          "types": [
+            "electric",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "magneton"
+      ],
+      "types": [
+        "electric",
+        "steel"
+      ]
+    }
+  ],
+  "page": 1,
+  "nextPage": null
+}

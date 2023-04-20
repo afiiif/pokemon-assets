@@ -5,7 +5,8 @@
     "node": ">=18"
   },
   "scripts": {
-    "generate": "npx ts-node src/generate-webp.ts"
+    "generate:webp": "npx ts-node src/generate-webp.ts",
+    "generate:json": "npx ts-node src/generate-json.ts"
   },
   "keywords": [],
   "author": "",

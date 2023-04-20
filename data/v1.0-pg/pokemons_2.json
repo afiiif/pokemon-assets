@@ -1,0 +1,810 @@
+{
+  "data": [
+    {
+      "id": 25,
+      "name": "pikachu",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 25,
+          "name": "pikachu",
+          "types": [
+            "electric"
+          ]
+        },
+        {
+          "id": 10080,
+          "name": "pikachu-rock-star",
+          "types": [
+            "electric"
+          ]
+        },
+        {
+          "id": 10081,
+          "name": "pikachu-belle",
+          "types": [
+            "electric"
+          ]
+        },
+        {
+          "id": 10082,
+          "name": "pikachu-pop-star",
+          "types": [
+            "electric"
+          ]
+        },
+        {
+          "id": 10083,
+          "name": "pikachu-phd",
+          "types": [
+            "electric"
+          ]
+        },
+        {
+          "id": 10084,
+          "name": "pikachu-libre",
+          "types": [
+            "electric"
+          ]
+        },
+        {
+          "id": 10085,
+          "name": "pikachu-cosplay",
+          "types": [
+            "electric"
+          ]
+        },
+        {
+          "id": 10094,
+          "name": "pikachu-original-cap",
+          "types": [
+            "electric"
+          ]
+        },
+        {
+          "id": 10095,
+          "name": "pikachu-hoenn-cap",
+          "types": [
+            "electric"
+          ]
+        },
+        {
+          "id": 10096,
+          "name": "pikachu-sinnoh-cap",
+          "types": [
+            "electric"
+          ]
+        },
+        {
+          "id": 10097,
+          "name": "pikachu-unova-cap",
+          "types": [
+            "electric"
+          ]
+        },
+        {
+          "id": 10098,
+          "name": "pikachu-kalos-cap",
+          "types": [
+            "electric"
+          ]
+        },
+        {
+          "id": 10099,
+          "name": "pikachu-alola-cap",
+          "types": [
+            "electric"
+          ]
+        },
+        {
+          "id": 10148,
+          "name": "pikachu-partner-cap",
+          "types": [
+            "electric"
+          ]
+        },
+        {
+          "id": 10158,
+          "name": "pikachu-starter",
+          "types": [
+            "electric"
+          ]
+        },
+        {
+          "id": 10160,
+          "name": "pikachu-world-cap",
+          "types": [
+            "electric"
+          ]
+        },
+        {
+          "id": 10199,
+          "name": "pikachu-gmax",
+          "types": [
+            "electric"
+          ]
+        }
+      ],
+      "names": [
+        "pikachu",
+        "pikachu-rock-star",
+        "pikachu-belle",
+        "pikachu-pop-star",
+        "pikachu-phd",
+        "pikachu-libre",
+        "pikachu-cosplay",
+        "pikachu-original-cap",
+        "pikachu-hoenn-cap",
+        "pikachu-sinnoh-cap",
+        "pikachu-unova-cap",
+        "pikachu-kalos-cap",
+        "pikachu-alola-cap",
+        "pikachu-partner-cap",
+        "pikachu-starter",
+        "pikachu-world-cap",
+        "pikachu-gmax"
+      ],
+      "types": [
+        "electric"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "raichu",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 26,
+          "name": "raichu",
+          "types": [
+            "electric"
+          ]
+        },
+        {
+          "id": 10100,
+          "name": "raichu-alola",
+          "types": [
+            "electric",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "raichu",
+        "raichu-alola"
+      ],
+      "types": [
+        "electric",
+        "psychic"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "sandshrew",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "rough-terrain",
+      "pokemons": [
+        {
+          "id": 27,
+          "name": "sandshrew",
+          "types": [
+            "ground"
+          ]
+        },
+        {
+          "id": 10101,
+          "name": "sandshrew-alola",
+          "types": [
+            "ice",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "sandshrew",
+        "sandshrew-alola"
+      ],
+      "types": [
+        "ground",
+        "ice",
+        "steel"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "sandslash",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": "rough-terrain",
+      "pokemons": [
+        {
+          "id": 28,
+          "name": "sandslash",
+          "types": [
+            "ground"
+          ]
+        },
+        {
+          "id": 10102,
+          "name": "sandslash-alola",
+          "types": [
+            "ice",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "sandslash",
+        "sandslash-alola"
+      ],
+      "types": [
+        "ground",
+        "ice",
+        "steel"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "nidoran-f",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 235,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 29,
+          "name": "nidoran-f",
+          "types": [
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "nidoran-f"
+      ],
+      "types": [
+        "poison"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "nidorina",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 30,
+          "name": "nidorina",
+          "types": [
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "nidorina"
+      ],
+      "types": [
+        "poison"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "nidoqueen",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 31,
+          "name": "nidoqueen",
+          "types": [
+            "poison",
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "nidoqueen"
+      ],
+      "types": [
+        "poison",
+        "ground"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "nidoran-m",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 235,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 32,
+          "name": "nidoran-m",
+          "types": [
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "nidoran-m"
+      ],
+      "types": [
+        "poison"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "nidorino",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 33,
+          "name": "nidorino",
+          "types": [
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "nidorino"
+      ],
+      "types": [
+        "poison"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "nidoking",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 34,
+          "name": "nidoking",
+          "types": [
+            "poison",
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "nidoking"
+      ],
+      "types": [
+        "poison",
+        "ground"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "clefairy",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 150,
+      "habitat": "mountain",
+      "pokemons": [
+        {
+          "id": 35,
+          "name": "clefairy",
+          "types": [
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "clefairy"
+      ],
+      "types": [
+        "fairy"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "clefable",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 25,
+      "habitat": "mountain",
+      "pokemons": [
+        {
+          "id": 36,
+          "name": "clefable",
+          "types": [
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "clefable"
+      ],
+      "types": [
+        "fairy"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "vulpix",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 37,
+          "name": "vulpix",
+          "types": [
+            "fire"
+          ]
+        },
+        {
+          "id": 10103,
+          "name": "vulpix-alola",
+          "types": [
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "vulpix",
+        "vulpix-alola"
+      ],
+      "types": [
+        "fire",
+        "ice"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "ninetales",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 38,
+          "name": "ninetales",
+          "types": [
+            "fire"
+          ]
+        },
+        {
+          "id": 10104,
+          "name": "ninetales-alola",
+          "types": [
+            "ice",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "ninetales",
+        "ninetales-alola"
+      ],
+      "types": [
+        "fire",
+        "ice",
+        "fairy"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "jigglypuff",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 170,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 39,
+          "name": "jigglypuff",
+          "types": [
+            "normal",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "jigglypuff"
+      ],
+      "types": [
+        "normal",
+        "fairy"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "wigglytuff",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 50,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 40,
+          "name": "wigglytuff",
+          "types": [
+            "normal",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "wigglytuff"
+      ],
+      "types": [
+        "normal",
+        "fairy"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "zubat",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "cave",
+      "pokemons": [
+        {
+          "id": 41,
+          "name": "zubat",
+          "types": [
+            "poison",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "zubat"
+      ],
+      "types": [
+        "poison",
+        "flying"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "golbat",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": "cave",
+      "pokemons": [
+        {
+          "id": 42,
+          "name": "golbat",
+          "types": [
+            "poison",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "golbat"
+      ],
+      "types": [
+        "poison",
+        "flying"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "oddish",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 43,
+          "name": "oddish",
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "oddish"
+      ],
+      "types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "gloom",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 44,
+          "name": "gloom",
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "gloom"
+      ],
+      "types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "vileplume",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 45,
+          "name": "vileplume",
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "vileplume"
+      ],
+      "types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "paras",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 46,
+          "name": "paras",
+          "types": [
+            "bug",
+            "grass"
+          ]
+        }
+      ],
+      "names": [
+        "paras"
+      ],
+      "types": [
+        "bug",
+        "grass"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "parasect",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 47,
+          "name": "parasect",
+          "types": [
+            "bug",
+            "grass"
+          ]
+        }
+      ],
+      "names": [
+        "parasect"
+      ],
+      "types": [
+        "bug",
+        "grass"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "venonat",
+      "gen": 1,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 48,
+          "name": "venonat",
+          "types": [
+            "bug",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "venonat"
+      ],
+      "types": [
+        "bug",
+        "poison"
+      ]
+    }
+  ],
+  "page": 2,
+  "nextPage": 3
+}

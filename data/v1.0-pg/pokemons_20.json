@@ -1,0 +1,702 @@
+{
+  "data": [
+    {
+      "id": 457,
+      "name": "lumineon",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 457,
+          "name": "lumineon",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "lumineon"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 458,
+      "name": "mantyke",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": true,
+      "captureRate": 25,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 458,
+          "name": "mantyke",
+          "types": [
+            "water",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "mantyke"
+      ],
+      "types": [
+        "water",
+        "flying"
+      ]
+    },
+    {
+      "id": 459,
+      "name": "snover",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 459,
+          "name": "snover",
+          "types": [
+            "grass",
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "snover"
+      ],
+      "types": [
+        "grass",
+        "ice"
+      ]
+    },
+    {
+      "id": 460,
+      "name": "abomasnow",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 460,
+          "name": "abomasnow",
+          "types": [
+            "grass",
+            "ice"
+          ]
+        },
+        {
+          "id": 10060,
+          "name": "abomasnow-mega",
+          "types": [
+            "grass",
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "abomasnow",
+        "abomasnow-mega"
+      ],
+      "types": [
+        "grass",
+        "ice"
+      ]
+    },
+    {
+      "id": 461,
+      "name": "weavile",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 461,
+          "name": "weavile",
+          "types": [
+            "dark",
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "weavile"
+      ],
+      "types": [
+        "dark",
+        "ice"
+      ]
+    },
+    {
+      "id": 462,
+      "name": "magnezone",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 462,
+          "name": "magnezone",
+          "types": [
+            "electric",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "magnezone"
+      ],
+      "types": [
+        "electric",
+        "steel"
+      ]
+    },
+    {
+      "id": 463,
+      "name": "lickilicky",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 463,
+          "name": "lickilicky",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "lickilicky"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 464,
+      "name": "rhyperior",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 464,
+          "name": "rhyperior",
+          "types": [
+            "ground",
+            "rock"
+          ]
+        }
+      ],
+      "names": [
+        "rhyperior"
+      ],
+      "types": [
+        "ground",
+        "rock"
+      ]
+    },
+    {
+      "id": 465,
+      "name": "tangrowth",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 465,
+          "name": "tangrowth",
+          "types": [
+            "grass"
+          ]
+        }
+      ],
+      "names": [
+        "tangrowth"
+      ],
+      "types": [
+        "grass"
+      ]
+    },
+    {
+      "id": 466,
+      "name": "electivire",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 466,
+          "name": "electivire",
+          "types": [
+            "electric"
+          ]
+        }
+      ],
+      "names": [
+        "electivire"
+      ],
+      "types": [
+        "electric"
+      ]
+    },
+    {
+      "id": 467,
+      "name": "magmortar",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 467,
+          "name": "magmortar",
+          "types": [
+            "fire"
+          ]
+        }
+      ],
+      "names": [
+        "magmortar"
+      ],
+      "types": [
+        "fire"
+      ]
+    },
+    {
+      "id": 468,
+      "name": "togekiss",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 468,
+          "name": "togekiss",
+          "types": [
+            "fairy",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "togekiss"
+      ],
+      "types": [
+        "fairy",
+        "flying"
+      ]
+    },
+    {
+      "id": 469,
+      "name": "yanmega",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 469,
+          "name": "yanmega",
+          "types": [
+            "bug",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "yanmega"
+      ],
+      "types": [
+        "bug",
+        "flying"
+      ]
+    },
+    {
+      "id": 470,
+      "name": "leafeon",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 470,
+          "name": "leafeon",
+          "types": [
+            "grass"
+          ]
+        }
+      ],
+      "names": [
+        "leafeon"
+      ],
+      "types": [
+        "grass"
+      ]
+    },
+    {
+      "id": 471,
+      "name": "glaceon",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 471,
+          "name": "glaceon",
+          "types": [
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "glaceon"
+      ],
+      "types": [
+        "ice"
+      ]
+    },
+    {
+      "id": 472,
+      "name": "gliscor",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 472,
+          "name": "gliscor",
+          "types": [
+            "ground",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "gliscor"
+      ],
+      "types": [
+        "ground",
+        "flying"
+      ]
+    },
+    {
+      "id": 473,
+      "name": "mamoswine",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 50,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 473,
+          "name": "mamoswine",
+          "types": [
+            "ice",
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "mamoswine"
+      ],
+      "types": [
+        "ice",
+        "ground"
+      ]
+    },
+    {
+      "id": 474,
+      "name": "porygon-z",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 474,
+          "name": "porygon-z",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "porygon-z"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 475,
+      "name": "gallade",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 475,
+          "name": "gallade",
+          "types": [
+            "psychic",
+            "fighting"
+          ]
+        },
+        {
+          "id": 10068,
+          "name": "gallade-mega",
+          "types": [
+            "psychic",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "gallade",
+        "gallade-mega"
+      ],
+      "types": [
+        "psychic",
+        "fighting"
+      ]
+    },
+    {
+      "id": 476,
+      "name": "probopass",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 476,
+          "name": "probopass",
+          "types": [
+            "rock",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "probopass"
+      ],
+      "types": [
+        "rock",
+        "steel"
+      ]
+    },
+    {
+      "id": 477,
+      "name": "dusknoir",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 477,
+          "name": "dusknoir",
+          "types": [
+            "ghost"
+          ]
+        }
+      ],
+      "names": [
+        "dusknoir"
+      ],
+      "types": [
+        "ghost"
+      ]
+    },
+    {
+      "id": 478,
+      "name": "froslass",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 478,
+          "name": "froslass",
+          "types": [
+            "ice",
+            "ghost"
+          ]
+        }
+      ],
+      "names": [
+        "froslass"
+      ],
+      "types": [
+        "ice",
+        "ghost"
+      ]
+    },
+    {
+      "id": 479,
+      "name": "rotom",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 479,
+          "name": "rotom",
+          "types": [
+            "electric",
+            "ghost"
+          ]
+        },
+        {
+          "id": 10008,
+          "name": "rotom-heat",
+          "types": [
+            "electric",
+            "fire"
+          ]
+        },
+        {
+          "id": 10009,
+          "name": "rotom-wash",
+          "types": [
+            "electric",
+            "water"
+          ]
+        },
+        {
+          "id": 10010,
+          "name": "rotom-frost",
+          "types": [
+            "electric",
+            "ice"
+          ]
+        },
+        {
+          "id": 10011,
+          "name": "rotom-fan",
+          "types": [
+            "electric",
+            "flying"
+          ]
+        },
+        {
+          "id": 10012,
+          "name": "rotom-mow",
+          "types": [
+            "electric",
+            "grass"
+          ]
+        }
+      ],
+      "names": [
+        "rotom",
+        "rotom-heat",
+        "rotom-wash",
+        "rotom-frost",
+        "rotom-fan",
+        "rotom-mow"
+      ],
+      "types": [
+        "electric",
+        "ghost",
+        "fire",
+        "water",
+        "ice",
+        "flying",
+        "grass"
+      ]
+    },
+    {
+      "id": 480,
+      "name": "uxie",
+      "gen": 4,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 480,
+          "name": "uxie",
+          "types": [
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "uxie"
+      ],
+      "types": [
+        "psychic"
+      ]
+    }
+  ],
+  "page": 20,
+  "nextPage": 21
+}

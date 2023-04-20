@@ -1,0 +1,816 @@
+{
+  "data": [
+    {
+      "id": 639,
+      "name": "terrakion",
+      "gen": 5,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 639,
+          "name": "terrakion",
+          "types": [
+            "rock",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "terrakion"
+      ],
+      "types": [
+        "rock",
+        "fighting"
+      ]
+    },
+    {
+      "id": 688,
+      "name": "binacle",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 688,
+          "name": "binacle",
+          "types": [
+            "rock",
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "binacle"
+      ],
+      "types": [
+        "rock",
+        "water"
+      ]
+    },
+    {
+      "id": 689,
+      "name": "barbaracle",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 689,
+          "name": "barbaracle",
+          "types": [
+            "rock",
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "barbaracle"
+      ],
+      "types": [
+        "rock",
+        "water"
+      ]
+    },
+    {
+      "id": 696,
+      "name": "tyrunt",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 696,
+          "name": "tyrunt",
+          "types": [
+            "rock",
+            "dragon"
+          ]
+        }
+      ],
+      "names": [
+        "tyrunt"
+      ],
+      "types": [
+        "rock",
+        "dragon"
+      ]
+    },
+    {
+      "id": 697,
+      "name": "tyrantrum",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 697,
+          "name": "tyrantrum",
+          "types": [
+            "rock",
+            "dragon"
+          ]
+        }
+      ],
+      "names": [
+        "tyrantrum"
+      ],
+      "types": [
+        "rock",
+        "dragon"
+      ]
+    },
+    {
+      "id": 698,
+      "name": "amaura",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 698,
+          "name": "amaura",
+          "types": [
+            "rock",
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "amaura"
+      ],
+      "types": [
+        "rock",
+        "ice"
+      ]
+    },
+    {
+      "id": 699,
+      "name": "aurorus",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 699,
+          "name": "aurorus",
+          "types": [
+            "rock",
+            "ice"
+          ]
+        }
+      ],
+      "names": [
+        "aurorus"
+      ],
+      "types": [
+        "rock",
+        "ice"
+      ]
+    },
+    {
+      "id": 703,
+      "name": "carbink",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 703,
+          "name": "carbink",
+          "types": [
+            "rock",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "carbink"
+      ],
+      "types": [
+        "rock",
+        "fairy"
+      ]
+    },
+    {
+      "id": 713,
+      "name": "avalugg",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 55,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 713,
+          "name": "avalugg",
+          "types": [
+            "ice"
+          ]
+        },
+        {
+          "id": 10243,
+          "name": "avalugg-hisui",
+          "types": [
+            "ice",
+            "rock"
+          ]
+        }
+      ],
+      "names": [
+        "avalugg",
+        "avalugg-hisui"
+      ],
+      "types": [
+        "ice",
+        "rock"
+      ]
+    },
+    {
+      "id": 719,
+      "name": "diancie",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": true,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 719,
+          "name": "diancie",
+          "types": [
+            "rock",
+            "fairy"
+          ]
+        },
+        {
+          "id": 10075,
+          "name": "diancie-mega",
+          "types": [
+            "rock",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "diancie",
+        "diancie-mega"
+      ],
+      "types": [
+        "rock",
+        "fairy"
+      ]
+    },
+    {
+      "id": 744,
+      "name": "rockruff",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 744,
+          "name": "rockruff",
+          "types": [
+            "rock"
+          ]
+        },
+        {
+          "id": 10151,
+          "name": "rockruff-own-tempo",
+          "types": [
+            "rock"
+          ]
+        }
+      ],
+      "names": [
+        "rockruff",
+        "rockruff-own-tempo"
+      ],
+      "types": [
+        "rock"
+      ]
+    },
+    {
+      "id": 745,
+      "name": "lycanroc",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 745,
+          "name": "lycanroc-midday",
+          "types": [
+            "rock"
+          ]
+        },
+        {
+          "id": 10126,
+          "name": "lycanroc-midnight",
+          "types": [
+            "rock"
+          ]
+        },
+        {
+          "id": 10152,
+          "name": "lycanroc-dusk",
+          "types": [
+            "rock"
+          ]
+        }
+      ],
+      "names": [
+        "lycanroc-midday",
+        "lycanroc-midnight",
+        "lycanroc-dusk"
+      ],
+      "types": [
+        "rock"
+      ]
+    },
+    {
+      "id": 774,
+      "name": "minior",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 774,
+          "name": "minior-red-meteor",
+          "types": [
+            "rock",
+            "flying"
+          ]
+        },
+        {
+          "id": 10130,
+          "name": "minior-orange-meteor",
+          "types": [
+            "rock",
+            "flying"
+          ]
+        },
+        {
+          "id": 10131,
+          "name": "minior-yellow-meteor",
+          "types": [
+            "rock",
+            "flying"
+          ]
+        },
+        {
+          "id": 10132,
+          "name": "minior-green-meteor",
+          "types": [
+            "rock",
+            "flying"
+          ]
+        },
+        {
+          "id": 10133,
+          "name": "minior-blue-meteor",
+          "types": [
+            "rock",
+            "flying"
+          ]
+        },
+        {
+          "id": 10134,
+          "name": "minior-indigo-meteor",
+          "types": [
+            "rock",
+            "flying"
+          ]
+        },
+        {
+          "id": 10135,
+          "name": "minior-violet-meteor",
+          "types": [
+            "rock",
+            "flying"
+          ]
+        },
+        {
+          "id": 10136,
+          "name": "minior-red",
+          "types": [
+            "rock",
+            "flying"
+          ]
+        },
+        {
+          "id": 10137,
+          "name": "minior-orange",
+          "types": [
+            "rock",
+            "flying"
+          ]
+        },
+        {
+          "id": 10138,
+          "name": "minior-yellow",
+          "types": [
+            "rock",
+            "flying"
+          ]
+        },
+        {
+          "id": 10139,
+          "name": "minior-green",
+          "types": [
+            "rock",
+            "flying"
+          ]
+        },
+        {
+          "id": 10140,
+          "name": "minior-blue",
+          "types": [
+            "rock",
+            "flying"
+          ]
+        },
+        {
+          "id": 10141,
+          "name": "minior-indigo",
+          "types": [
+            "rock",
+            "flying"
+          ]
+        },
+        {
+          "id": 10142,
+          "name": "minior-violet",
+          "types": [
+            "rock",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "minior-red-meteor",
+        "minior-orange-meteor",
+        "minior-yellow-meteor",
+        "minior-green-meteor",
+        "minior-blue-meteor",
+        "minior-indigo-meteor",
+        "minior-violet-meteor",
+        "minior-red",
+        "minior-orange",
+        "minior-yellow",
+        "minior-green",
+        "minior-blue",
+        "minior-indigo",
+        "minior-violet"
+      ],
+      "types": [
+        "rock",
+        "flying"
+      ]
+    },
+    {
+      "id": 793,
+      "name": "nihilego",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 793,
+          "name": "nihilego",
+          "types": [
+            "rock",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "nihilego"
+      ],
+      "types": [
+        "rock",
+        "poison"
+      ]
+    },
+    {
+      "id": 805,
+      "name": "stakataka",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 805,
+          "name": "stakataka",
+          "types": [
+            "rock",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "stakataka"
+      ],
+      "types": [
+        "rock",
+        "steel"
+      ]
+    },
+    {
+      "id": 834,
+      "name": "drednaw",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 834,
+          "name": "drednaw",
+          "types": [
+            "water",
+            "rock"
+          ]
+        },
+        {
+          "id": 10214,
+          "name": "drednaw-gmax",
+          "types": [
+            "water",
+            "rock"
+          ]
+        }
+      ],
+      "names": [
+        "drednaw",
+        "drednaw-gmax"
+      ],
+      "types": [
+        "water",
+        "rock"
+      ]
+    },
+    {
+      "id": 837,
+      "name": "rolycoly",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 837,
+          "name": "rolycoly",
+          "types": [
+            "rock"
+          ]
+        }
+      ],
+      "names": [
+        "rolycoly"
+      ],
+      "types": [
+        "rock"
+      ]
+    },
+    {
+      "id": 838,
+      "name": "carkol",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 838,
+          "name": "carkol",
+          "types": [
+            "rock",
+            "fire"
+          ]
+        }
+      ],
+      "names": [
+        "carkol"
+      ],
+      "types": [
+        "rock",
+        "fire"
+      ]
+    },
+    {
+      "id": 839,
+      "name": "coalossal",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 839,
+          "name": "coalossal",
+          "types": [
+            "rock",
+            "fire"
+          ]
+        },
+        {
+          "id": 10215,
+          "name": "coalossal-gmax",
+          "types": [
+            "rock",
+            "fire"
+          ]
+        }
+      ],
+      "names": [
+        "coalossal",
+        "coalossal-gmax"
+      ],
+      "types": [
+        "rock",
+        "fire"
+      ]
+    },
+    {
+      "id": 874,
+      "name": "stonjourner",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 874,
+          "name": "stonjourner",
+          "types": [
+            "rock"
+          ]
+        }
+      ],
+      "names": [
+        "stonjourner"
+      ],
+      "types": [
+        "rock"
+      ]
+    },
+    {
+      "id": 900,
+      "name": "kleavor",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 115,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 900,
+          "name": "kleavor",
+          "types": [
+            "bug",
+            "rock"
+          ]
+        }
+      ],
+      "names": [
+        "kleavor"
+      ],
+      "types": [
+        "bug",
+        "rock"
+      ]
+    },
+    {
+      "id": 932,
+      "name": "nacli",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 932,
+          "name": "nacli",
+          "types": [
+            "rock"
+          ]
+        }
+      ],
+      "names": [
+        "nacli"
+      ],
+      "types": [
+        "rock"
+      ]
+    },
+    {
+      "id": 933,
+      "name": "naclstack",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 933,
+          "name": "naclstack",
+          "types": [
+            "rock"
+          ]
+        }
+      ],
+      "names": [
+        "naclstack"
+      ],
+      "types": [
+        "rock"
+      ]
+    },
+    {
+      "id": 934,
+      "name": "garganacl",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 934,
+          "name": "garganacl",
+          "types": [
+            "rock"
+          ]
+        }
+      ],
+      "names": [
+        "garganacl"
+      ],
+      "types": [
+        "rock"
+      ]
+    }
+  ],
+  "page": 3,
+  "nextPage": 4
+}

@@ -1,0 +1,207 @@
+[
+  {
+    "id": 185,
+    "name": "sudowoodo",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 65,
+    "habitat": "forest",
+    "pokemons": [
+      {
+        "id": 185,
+        "name": "sudowoodo",
+        "types": [
+          "rock"
+        ]
+      }
+    ],
+    "names": [
+      "sudowoodo"
+    ],
+    "types": [
+      "rock"
+    ]
+  },
+  {
+    "id": 213,
+    "name": "shuckle",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 190,
+    "habitat": "mountain",
+    "pokemons": [
+      {
+        "id": 213,
+        "name": "shuckle",
+        "types": [
+          "bug",
+          "rock"
+        ]
+      }
+    ],
+    "names": [
+      "shuckle"
+    ],
+    "types": [
+      "bug",
+      "rock"
+    ]
+  },
+  {
+    "id": 219,
+    "name": "magcargo",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 75,
+    "habitat": "mountain",
+    "pokemons": [
+      {
+        "id": 219,
+        "name": "magcargo",
+        "types": [
+          "fire",
+          "rock"
+        ]
+      }
+    ],
+    "names": [
+      "magcargo"
+    ],
+    "types": [
+      "fire",
+      "rock"
+    ]
+  },
+  {
+    "id": 222,
+    "name": "corsola",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 60,
+    "habitat": "sea",
+    "pokemons": [
+      {
+        "id": 222,
+        "name": "corsola",
+        "types": [
+          "water",
+          "rock"
+        ]
+      },
+      {
+        "id": 10173,
+        "name": "corsola-galar",
+        "types": [
+          "ghost"
+        ]
+      }
+    ],
+    "names": [
+      "corsola",
+      "corsola-galar"
+    ],
+    "types": [
+      "water",
+      "rock",
+      "ghost"
+    ]
+  },
+  {
+    "id": 246,
+    "name": "larvitar",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": "mountain",
+    "pokemons": [
+      {
+        "id": 246,
+        "name": "larvitar",
+        "types": [
+          "rock",
+          "ground"
+        ]
+      }
+    ],
+    "names": [
+      "larvitar"
+    ],
+    "types": [
+      "rock",
+      "ground"
+    ]
+  },
+  {
+    "id": 247,
+    "name": "pupitar",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": "mountain",
+    "pokemons": [
+      {
+        "id": 247,
+        "name": "pupitar",
+        "types": [
+          "rock",
+          "ground"
+        ]
+      }
+    ],
+    "names": [
+      "pupitar"
+    ],
+    "types": [
+      "rock",
+      "ground"
+    ]
+  },
+  {
+    "id": 248,
+    "name": "tyranitar",
+    "gen": 2,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": "mountain",
+    "pokemons": [
+      {
+        "id": 248,
+        "name": "tyranitar",
+        "types": [
+          "rock",
+          "dark"
+        ]
+      },
+      {
+        "id": 10049,
+        "name": "tyranitar-mega",
+        "types": [
+          "rock",
+          "dark"
+        ]
+      }
+    ],
+    "names": [
+      "tyranitar",
+      "tyranitar-mega"
+    ],
+    "types": [
+      "rock",
+      "dark"
+    ]
+  }
+]

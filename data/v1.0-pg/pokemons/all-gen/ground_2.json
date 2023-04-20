@@ -1,0 +1,703 @@
+{
+  "data": [
+    {
+      "id": 259,
+      "name": "marshtomp",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 259,
+          "name": "marshtomp",
+          "types": [
+            "water",
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "marshtomp"
+      ],
+      "types": [
+        "water",
+        "ground"
+      ]
+    },
+    {
+      "id": 260,
+      "name": "swampert",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 260,
+          "name": "swampert",
+          "types": [
+            "water",
+            "ground"
+          ]
+        },
+        {
+          "id": 10064,
+          "name": "swampert-mega",
+          "types": [
+            "water",
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "swampert",
+        "swampert-mega"
+      ],
+      "types": [
+        "water",
+        "ground"
+      ]
+    },
+    {
+      "id": 290,
+      "name": "nincada",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 290,
+          "name": "nincada",
+          "types": [
+            "bug",
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "nincada"
+      ],
+      "types": [
+        "bug",
+        "ground"
+      ]
+    },
+    {
+      "id": 322,
+      "name": "numel",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "mountain",
+      "pokemons": [
+        {
+          "id": 322,
+          "name": "numel",
+          "types": [
+            "fire",
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "numel"
+      ],
+      "types": [
+        "fire",
+        "ground"
+      ]
+    },
+    {
+      "id": 323,
+      "name": "camerupt",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 150,
+      "habitat": "mountain",
+      "pokemons": [
+        {
+          "id": 323,
+          "name": "camerupt",
+          "types": [
+            "fire",
+            "ground"
+          ]
+        },
+        {
+          "id": 10087,
+          "name": "camerupt-mega",
+          "types": [
+            "fire",
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "camerupt",
+        "camerupt-mega"
+      ],
+      "types": [
+        "fire",
+        "ground"
+      ]
+    },
+    {
+      "id": 328,
+      "name": "trapinch",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "rough-terrain",
+      "pokemons": [
+        {
+          "id": 328,
+          "name": "trapinch",
+          "types": [
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "trapinch"
+      ],
+      "types": [
+        "ground"
+      ]
+    },
+    {
+      "id": 329,
+      "name": "vibrava",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": "rough-terrain",
+      "pokemons": [
+        {
+          "id": 329,
+          "name": "vibrava",
+          "types": [
+            "ground",
+            "dragon"
+          ]
+        }
+      ],
+      "names": [
+        "vibrava"
+      ],
+      "types": [
+        "ground",
+        "dragon"
+      ]
+    },
+    {
+      "id": 330,
+      "name": "flygon",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "rough-terrain",
+      "pokemons": [
+        {
+          "id": 330,
+          "name": "flygon",
+          "types": [
+            "ground",
+            "dragon"
+          ]
+        }
+      ],
+      "names": [
+        "flygon"
+      ],
+      "types": [
+        "ground",
+        "dragon"
+      ]
+    },
+    {
+      "id": 339,
+      "name": "barboach",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 339,
+          "name": "barboach",
+          "types": [
+            "water",
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "barboach"
+      ],
+      "types": [
+        "water",
+        "ground"
+      ]
+    },
+    {
+      "id": 340,
+      "name": "whiscash",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 340,
+          "name": "whiscash",
+          "types": [
+            "water",
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "whiscash"
+      ],
+      "types": [
+        "water",
+        "ground"
+      ]
+    },
+    {
+      "id": 343,
+      "name": "baltoy",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "rough-terrain",
+      "pokemons": [
+        {
+          "id": 343,
+          "name": "baltoy",
+          "types": [
+            "ground",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "baltoy"
+      ],
+      "types": [
+        "ground",
+        "psychic"
+      ]
+    },
+    {
+      "id": 344,
+      "name": "claydol",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": "rough-terrain",
+      "pokemons": [
+        {
+          "id": 344,
+          "name": "claydol",
+          "types": [
+            "ground",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "claydol"
+      ],
+      "types": [
+        "ground",
+        "psychic"
+      ]
+    },
+    {
+      "id": 383,
+      "name": "groudon",
+      "gen": 3,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": "rough-terrain",
+      "pokemons": [
+        {
+          "id": 383,
+          "name": "groudon",
+          "types": [
+            "ground"
+          ]
+        },
+        {
+          "id": 10078,
+          "name": "groudon-primal",
+          "types": [
+            "ground",
+            "fire"
+          ]
+        }
+      ],
+      "names": [
+        "groudon",
+        "groudon-primal"
+      ],
+      "types": [
+        "ground",
+        "fire"
+      ]
+    },
+    {
+      "id": 389,
+      "name": "torterra",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 389,
+          "name": "torterra",
+          "types": [
+            "grass",
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "torterra"
+      ],
+      "types": [
+        "grass",
+        "ground"
+      ]
+    },
+    {
+      "id": 413,
+      "name": "wormadam",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 413,
+          "name": "wormadam-plant",
+          "types": [
+            "bug",
+            "grass"
+          ]
+        },
+        {
+          "id": 10004,
+          "name": "wormadam-sandy",
+          "types": [
+            "bug",
+            "ground"
+          ]
+        },
+        {
+          "id": 10005,
+          "name": "wormadam-trash",
+          "types": [
+            "bug",
+            "steel"
+          ]
+        }
+      ],
+      "names": [
+        "wormadam-plant",
+        "wormadam-sandy",
+        "wormadam-trash"
+      ],
+      "types": [
+        "bug",
+        "grass",
+        "ground",
+        "steel"
+      ]
+    },
+    {
+      "id": 423,
+      "name": "gastrodon",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 423,
+          "name": "gastrodon",
+          "types": [
+            "water",
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "gastrodon"
+      ],
+      "types": [
+        "water",
+        "ground"
+      ]
+    },
+    {
+      "id": 443,
+      "name": "gible",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 443,
+          "name": "gible",
+          "types": [
+            "dragon",
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "gible"
+      ],
+      "types": [
+        "dragon",
+        "ground"
+      ]
+    },
+    {
+      "id": 444,
+      "name": "gabite",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 444,
+          "name": "gabite",
+          "types": [
+            "dragon",
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "gabite"
+      ],
+      "types": [
+        "dragon",
+        "ground"
+      ]
+    },
+    {
+      "id": 445,
+      "name": "garchomp",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 445,
+          "name": "garchomp",
+          "types": [
+            "dragon",
+            "ground"
+          ]
+        },
+        {
+          "id": 10058,
+          "name": "garchomp-mega",
+          "types": [
+            "dragon",
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "garchomp",
+        "garchomp-mega"
+      ],
+      "types": [
+        "dragon",
+        "ground"
+      ]
+    },
+    {
+      "id": 449,
+      "name": "hippopotas",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 140,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 449,
+          "name": "hippopotas",
+          "types": [
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "hippopotas"
+      ],
+      "types": [
+        "ground"
+      ]
+    },
+    {
+      "id": 450,
+      "name": "hippowdon",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 450,
+          "name": "hippowdon",
+          "types": [
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "hippowdon"
+      ],
+      "types": [
+        "ground"
+      ]
+    },
+    {
+      "id": 464,
+      "name": "rhyperior",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 464,
+          "name": "rhyperior",
+          "types": [
+            "ground",
+            "rock"
+          ]
+        }
+      ],
+      "names": [
+        "rhyperior"
+      ],
+      "types": [
+        "ground",
+        "rock"
+      ]
+    },
+    {
+      "id": 472,
+      "name": "gliscor",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 472,
+          "name": "gliscor",
+          "types": [
+            "ground",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "gliscor"
+      ],
+      "types": [
+        "ground",
+        "flying"
+      ]
+    },
+    {
+      "id": 473,
+      "name": "mamoswine",
+      "gen": 4,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 50,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 473,
+          "name": "mamoswine",
+          "types": [
+            "ice",
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "mamoswine"
+      ],
+      "types": [
+        "ice",
+        "ground"
+      ]
+    }
+  ],
+  "page": 2,
+  "nextPage": 3
+}

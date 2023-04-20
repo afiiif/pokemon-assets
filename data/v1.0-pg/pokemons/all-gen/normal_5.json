@@ -1,0 +1,649 @@
+{
+  "data": [
+    {
+      "id": 676,
+      "name": "furfrou",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 160,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 676,
+          "name": "furfrou",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "furfrou"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 694,
+      "name": "helioptile",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 694,
+          "name": "helioptile",
+          "types": [
+            "electric",
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "helioptile"
+      ],
+      "types": [
+        "electric",
+        "normal"
+      ]
+    },
+    {
+      "id": 695,
+      "name": "heliolisk",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 695,
+          "name": "heliolisk",
+          "types": [
+            "electric",
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "heliolisk"
+      ],
+      "types": [
+        "electric",
+        "normal"
+      ]
+    },
+    {
+      "id": 731,
+      "name": "pikipek",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 731,
+          "name": "pikipek",
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "pikipek"
+      ],
+      "types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "id": 732,
+      "name": "trumbeak",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 732,
+          "name": "trumbeak",
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "trumbeak"
+      ],
+      "types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "id": 733,
+      "name": "toucannon",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 733,
+          "name": "toucannon",
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "toucannon"
+      ],
+      "types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "id": 734,
+      "name": "yungoos",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 734,
+          "name": "yungoos",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "yungoos"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 735,
+      "name": "gumshoos",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 127,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 735,
+          "name": "gumshoos",
+          "types": [
+            "normal"
+          ]
+        },
+        {
+          "id": 10121,
+          "name": "gumshoos-totem",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "gumshoos",
+        "gumshoos-totem"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 759,
+      "name": "stufful",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 140,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 759,
+          "name": "stufful",
+          "types": [
+            "normal",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "stufful"
+      ],
+      "types": [
+        "normal",
+        "fighting"
+      ]
+    },
+    {
+      "id": 760,
+      "name": "bewear",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 70,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 760,
+          "name": "bewear",
+          "types": [
+            "normal",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "bewear"
+      ],
+      "types": [
+        "normal",
+        "fighting"
+      ]
+    },
+    {
+      "id": 765,
+      "name": "oranguru",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 765,
+          "name": "oranguru",
+          "types": [
+            "normal",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "oranguru"
+      ],
+      "types": [
+        "normal",
+        "psychic"
+      ]
+    },
+    {
+      "id": 772,
+      "name": "type-null",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 772,
+          "name": "type-null",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "type-null"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 773,
+      "name": "silvally",
+      "gen": 7,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 773,
+          "name": "silvally",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "silvally"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 775,
+      "name": "komala",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 775,
+          "name": "komala",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "komala"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 780,
+      "name": "drampa",
+      "gen": 7,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 70,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 780,
+          "name": "drampa",
+          "types": [
+            "normal",
+            "dragon"
+          ]
+        }
+      ],
+      "names": [
+        "drampa"
+      ],
+      "types": [
+        "normal",
+        "dragon"
+      ]
+    },
+    {
+      "id": 819,
+      "name": "skwovet",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 819,
+          "name": "skwovet",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "skwovet"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 820,
+      "name": "greedent",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 820,
+          "name": "greedent",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "greedent"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 831,
+      "name": "wooloo",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 831,
+          "name": "wooloo",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "wooloo"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 832,
+      "name": "dubwool",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 127,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 832,
+          "name": "dubwool",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "dubwool"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 862,
+      "name": "obstagoon",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 862,
+          "name": "obstagoon",
+          "types": [
+            "dark",
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "obstagoon"
+      ],
+      "types": [
+        "dark",
+        "normal"
+      ]
+    },
+    {
+      "id": 876,
+      "name": "indeedee",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 30,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 876,
+          "name": "indeedee-male",
+          "types": [
+            "psychic",
+            "normal"
+          ]
+        },
+        {
+          "id": 10186,
+          "name": "indeedee-female",
+          "types": [
+            "psychic",
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "indeedee-male",
+        "indeedee-female"
+      ],
+      "types": [
+        "psychic",
+        "normal"
+      ]
+    },
+    {
+      "id": 899,
+      "name": "wyrdeer",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 135,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 899,
+          "name": "wyrdeer",
+          "types": [
+            "normal",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "wyrdeer"
+      ],
+      "types": [
+        "normal",
+        "psychic"
+      ]
+    },
+    {
+      "id": 901,
+      "name": "ursaluna",
+      "gen": 8,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 901,
+          "name": "ursaluna",
+          "types": [
+            "ground",
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "ursaluna"
+      ],
+      "types": [
+        "ground",
+        "normal"
+      ]
+    },
+    {
+      "id": 915,
+      "name": "lechonk",
+      "gen": 9,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 915,
+          "name": "lechonk",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "lechonk"
+      ],
+      "types": [
+        "normal"
+      ]
+    }
+  ],
+  "page": 5,
+  "nextPage": 6
+}

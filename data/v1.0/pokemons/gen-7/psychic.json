@@ -1,0 +1,299 @@
+[
+  {
+    "id": 741,
+    "name": "oricorio",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 741,
+        "name": "oricorio-baile",
+        "types": [
+          "fire",
+          "flying"
+        ]
+      },
+      {
+        "id": 10123,
+        "name": "oricorio-pom-pom",
+        "types": [
+          "electric",
+          "flying"
+        ]
+      },
+      {
+        "id": 10124,
+        "name": "oricorio-pau",
+        "types": [
+          "psychic",
+          "flying"
+        ]
+      },
+      {
+        "id": 10125,
+        "name": "oricorio-sensu",
+        "types": [
+          "ghost",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "oricorio-baile",
+      "oricorio-pom-pom",
+      "oricorio-pau",
+      "oricorio-sensu"
+    ],
+    "types": [
+      "fire",
+      "flying",
+      "electric",
+      "psychic",
+      "ghost"
+    ]
+  },
+  {
+    "id": 765,
+    "name": "oranguru",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 765,
+        "name": "oranguru",
+        "types": [
+          "normal",
+          "psychic"
+        ]
+      }
+    ],
+    "names": [
+      "oranguru"
+    ],
+    "types": [
+      "normal",
+      "psychic"
+    ]
+  },
+  {
+    "id": 779,
+    "name": "bruxish",
+    "gen": 7,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 80,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 779,
+        "name": "bruxish",
+        "types": [
+          "water",
+          "psychic"
+        ]
+      }
+    ],
+    "names": [
+      "bruxish"
+    ],
+    "types": [
+      "water",
+      "psychic"
+    ]
+  },
+  {
+    "id": 786,
+    "name": "tapu-lele",
+    "gen": 7,
+    "isLegendary": true,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 3,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 786,
+        "name": "tapu-lele",
+        "types": [
+          "psychic",
+          "fairy"
+        ]
+      }
+    ],
+    "names": [
+      "tapu-lele"
+    ],
+    "types": [
+      "psychic",
+      "fairy"
+    ]
+  },
+  {
+    "id": 789,
+    "name": "cosmog",
+    "gen": 7,
+    "isLegendary": true,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 789,
+        "name": "cosmog",
+        "types": [
+          "psychic"
+        ]
+      }
+    ],
+    "names": [
+      "cosmog"
+    ],
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "id": 790,
+    "name": "cosmoem",
+    "gen": 7,
+    "isLegendary": true,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 790,
+        "name": "cosmoem",
+        "types": [
+          "psychic"
+        ]
+      }
+    ],
+    "names": [
+      "cosmoem"
+    ],
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "id": 791,
+    "name": "solgaleo",
+    "gen": 7,
+    "isLegendary": true,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 791,
+        "name": "solgaleo",
+        "types": [
+          "psychic",
+          "steel"
+        ]
+      }
+    ],
+    "names": [
+      "solgaleo"
+    ],
+    "types": [
+      "psychic",
+      "steel"
+    ]
+  },
+  {
+    "id": 792,
+    "name": "lunala",
+    "gen": 7,
+    "isLegendary": true,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 792,
+        "name": "lunala",
+        "types": [
+          "psychic",
+          "ghost"
+        ]
+      }
+    ],
+    "names": [
+      "lunala"
+    ],
+    "types": [
+      "psychic",
+      "ghost"
+    ]
+  },
+  {
+    "id": 800,
+    "name": "necrozma",
+    "gen": 7,
+    "isLegendary": true,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 255,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 800,
+        "name": "necrozma",
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "id": 10155,
+        "name": "necrozma-dusk",
+        "types": [
+          "psychic",
+          "steel"
+        ]
+      },
+      {
+        "id": 10156,
+        "name": "necrozma-dawn",
+        "types": [
+          "psychic",
+          "ghost"
+        ]
+      },
+      {
+        "id": 10157,
+        "name": "necrozma-ultra",
+        "types": [
+          "psychic",
+          "dragon"
+        ]
+      }
+    ],
+    "names": [
+      "necrozma",
+      "necrozma-dusk",
+      "necrozma-dawn",
+      "necrozma-ultra"
+    ],
+    "types": [
+      "psychic",
+      "steel",
+      "ghost",
+      "dragon"
+    ]
+  }
+]

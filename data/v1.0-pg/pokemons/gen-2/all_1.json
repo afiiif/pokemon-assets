@@ -1,0 +1,636 @@
+{
+  "data": [
+    {
+      "id": 152,
+      "name": "chikorita",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 152,
+          "name": "chikorita",
+          "types": [
+            "grass"
+          ]
+        }
+      ],
+      "names": [
+        "chikorita"
+      ],
+      "types": [
+        "grass"
+      ]
+    },
+    {
+      "id": 153,
+      "name": "bayleef",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 153,
+          "name": "bayleef",
+          "types": [
+            "grass"
+          ]
+        }
+      ],
+      "names": [
+        "bayleef"
+      ],
+      "types": [
+        "grass"
+      ]
+    },
+    {
+      "id": 154,
+      "name": "meganium",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 154,
+          "name": "meganium",
+          "types": [
+            "grass"
+          ]
+        }
+      ],
+      "names": [
+        "meganium"
+      ],
+      "types": [
+        "grass"
+      ]
+    },
+    {
+      "id": 155,
+      "name": "cyndaquil",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 155,
+          "name": "cyndaquil",
+          "types": [
+            "fire"
+          ]
+        }
+      ],
+      "names": [
+        "cyndaquil"
+      ],
+      "types": [
+        "fire"
+      ]
+    },
+    {
+      "id": 156,
+      "name": "quilava",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 156,
+          "name": "quilava",
+          "types": [
+            "fire"
+          ]
+        }
+      ],
+      "names": [
+        "quilava"
+      ],
+      "types": [
+        "fire"
+      ]
+    },
+    {
+      "id": 157,
+      "name": "typhlosion",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 157,
+          "name": "typhlosion",
+          "types": [
+            "fire"
+          ]
+        },
+        {
+          "id": 10233,
+          "name": "typhlosion-hisui",
+          "types": [
+            "fire",
+            "ghost"
+          ]
+        }
+      ],
+      "names": [
+        "typhlosion",
+        "typhlosion-hisui"
+      ],
+      "types": [
+        "fire",
+        "ghost"
+      ]
+    },
+    {
+      "id": 158,
+      "name": "totodile",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 158,
+          "name": "totodile",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "totodile"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 159,
+      "name": "croconaw",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 159,
+          "name": "croconaw",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "croconaw"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 160,
+      "name": "feraligatr",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 160,
+          "name": "feraligatr",
+          "types": [
+            "water"
+          ]
+        }
+      ],
+      "names": [
+        "feraligatr"
+      ],
+      "types": [
+        "water"
+      ]
+    },
+    {
+      "id": 161,
+      "name": "sentret",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 161,
+          "name": "sentret",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "sentret"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 162,
+      "name": "furret",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 162,
+          "name": "furret",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "furret"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 163,
+      "name": "hoothoot",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 163,
+          "name": "hoothoot",
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "hoothoot"
+      ],
+      "types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "id": 164,
+      "name": "noctowl",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 164,
+          "name": "noctowl",
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "noctowl"
+      ],
+      "types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "id": 165,
+      "name": "ledyba",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 165,
+          "name": "ledyba",
+          "types": [
+            "bug",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "ledyba"
+      ],
+      "types": [
+        "bug",
+        "flying"
+      ]
+    },
+    {
+      "id": 166,
+      "name": "ledian",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 166,
+          "name": "ledian",
+          "types": [
+            "bug",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "ledian"
+      ],
+      "types": [
+        "bug",
+        "flying"
+      ]
+    },
+    {
+      "id": 167,
+      "name": "spinarak",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 167,
+          "name": "spinarak",
+          "types": [
+            "bug",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "spinarak"
+      ],
+      "types": [
+        "bug",
+        "poison"
+      ]
+    },
+    {
+      "id": 168,
+      "name": "ariados",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 168,
+          "name": "ariados",
+          "types": [
+            "bug",
+            "poison"
+          ]
+        }
+      ],
+      "names": [
+        "ariados"
+      ],
+      "types": [
+        "bug",
+        "poison"
+      ]
+    },
+    {
+      "id": 169,
+      "name": "crobat",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 90,
+      "habitat": "cave",
+      "pokemons": [
+        {
+          "id": 169,
+          "name": "crobat",
+          "types": [
+            "poison",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "crobat"
+      ],
+      "types": [
+        "poison",
+        "flying"
+      ]
+    },
+    {
+      "id": 170,
+      "name": "chinchou",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": "sea",
+      "pokemons": [
+        {
+          "id": 170,
+          "name": "chinchou",
+          "types": [
+            "water",
+            "electric"
+          ]
+        }
+      ],
+      "names": [
+        "chinchou"
+      ],
+      "types": [
+        "water",
+        "electric"
+      ]
+    },
+    {
+      "id": 171,
+      "name": "lanturn",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": "sea",
+      "pokemons": [
+        {
+          "id": 171,
+          "name": "lanturn",
+          "types": [
+            "water",
+            "electric"
+          ]
+        }
+      ],
+      "names": [
+        "lanturn"
+      ],
+      "types": [
+        "water",
+        "electric"
+      ]
+    },
+    {
+      "id": 172,
+      "name": "pichu",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": true,
+      "captureRate": 190,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 172,
+          "name": "pichu",
+          "types": [
+            "electric"
+          ]
+        }
+      ],
+      "names": [
+        "pichu"
+      ],
+      "types": [
+        "electric"
+      ]
+    },
+    {
+      "id": 173,
+      "name": "cleffa",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": true,
+      "captureRate": 150,
+      "habitat": "mountain",
+      "pokemons": [
+        {
+          "id": 173,
+          "name": "cleffa",
+          "types": [
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "cleffa"
+      ],
+      "types": [
+        "fairy"
+      ]
+    },
+    {
+      "id": 174,
+      "name": "igglybuff",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": true,
+      "captureRate": 170,
+      "habitat": "grassland",
+      "pokemons": [
+        {
+          "id": 174,
+          "name": "igglybuff",
+          "types": [
+            "normal",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "igglybuff"
+      ],
+      "types": [
+        "normal",
+        "fairy"
+      ]
+    },
+    {
+      "id": 175,
+      "name": "togepi",
+      "gen": 2,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": true,
+      "captureRate": 190,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 175,
+          "name": "togepi",
+          "types": [
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "togepi"
+      ],
+      "types": [
+        "fairy"
+      ]
+    }
+  ],
+  "page": 1,
+  "nextPage": 2
+}

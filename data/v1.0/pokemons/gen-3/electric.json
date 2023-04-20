@@ -1,0 +1,110 @@
+[
+  {
+    "id": 309,
+    "name": "electrike",
+    "gen": 3,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 120,
+    "habitat": "grassland",
+    "pokemons": [
+      {
+        "id": 309,
+        "name": "electrike",
+        "types": [
+          "electric"
+        ]
+      }
+    ],
+    "names": [
+      "electrike"
+    ],
+    "types": [
+      "electric"
+    ]
+  },
+  {
+    "id": 310,
+    "name": "manectric",
+    "gen": 3,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": "grassland",
+    "pokemons": [
+      {
+        "id": 310,
+        "name": "manectric",
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "id": 10055,
+        "name": "manectric-mega",
+        "types": [
+          "electric"
+        ]
+      }
+    ],
+    "names": [
+      "manectric",
+      "manectric-mega"
+    ],
+    "types": [
+      "electric"
+    ]
+  },
+  {
+    "id": 311,
+    "name": "plusle",
+    "gen": 3,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 200,
+    "habitat": "grassland",
+    "pokemons": [
+      {
+        "id": 311,
+        "name": "plusle",
+        "types": [
+          "electric"
+        ]
+      }
+    ],
+    "names": [
+      "plusle"
+    ],
+    "types": [
+      "electric"
+    ]
+  },
+  {
+    "id": 312,
+    "name": "minun",
+    "gen": 3,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 200,
+    "habitat": "grassland",
+    "pokemons": [
+      {
+        "id": 312,
+        "name": "minun",
+        "types": [
+          "electric"
+        ]
+      }
+    ],
+    "names": [
+      "minun"
+    ],
+    "types": [
+      "electric"
+    ]
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "id": 658,
+    "name": "greninja",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 658,
+        "name": "greninja",
+        "types": [
+          "water",
+          "dark"
+        ]
+      },
+      {
+        "id": 10116,
+        "name": "greninja-battle-bond",
+        "types": [
+          "water",
+          "dark"
+        ]
+      },
+      {
+        "id": 10117,
+        "name": "greninja-ash",
+        "types": [
+          "water",
+          "dark"
+        ]
+      }
+    ],
+    "names": [
+      "greninja",
+      "greninja-battle-bond",
+      "greninja-ash"
+    ],
+    "types": [
+      "water",
+      "dark"
+    ]
+  },
+  {
+    "id": 675,
+    "name": "pangoro",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 65,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 675,
+        "name": "pangoro",
+        "types": [
+          "fighting",
+          "dark"
+        ]
+      }
+    ],
+    "names": [
+      "pangoro"
+    ],
+    "types": [
+      "fighting",
+      "dark"
+    ]
+  },
+  {
+    "id": 686,
+    "name": "inkay",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 190,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 686,
+        "name": "inkay",
+        "types": [
+          "dark",
+          "psychic"
+        ]
+      }
+    ],
+    "names": [
+      "inkay"
+    ],
+    "types": [
+      "dark",
+      "psychic"
+    ]
+  },
+  {
+    "id": 687,
+    "name": "malamar",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 80,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 687,
+        "name": "malamar",
+        "types": [
+          "dark",
+          "psychic"
+        ]
+      }
+    ],
+    "names": [
+      "malamar"
+    ],
+    "types": [
+      "dark",
+      "psychic"
+    ]
+  },
+  {
+    "id": 717,
+    "name": "yveltal",
+    "gen": 6,
+    "isLegendary": true,
+    "isMythical": false,
+    "isBaby": false,
+    "captureRate": 45,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 717,
+        "name": "yveltal",
+        "types": [
+          "dark",
+          "flying"
+        ]
+      }
+    ],
+    "names": [
+      "yveltal"
+    ],
+    "types": [
+      "dark",
+      "flying"
+    ]
+  },
+  {
+    "id": 720,
+    "name": "hoopa",
+    "gen": 6,
+    "isLegendary": false,
+    "isMythical": true,
+    "isBaby": false,
+    "captureRate": 3,
+    "habitat": null,
+    "pokemons": [
+      {
+        "id": 720,
+        "name": "hoopa",
+        "types": [
+          "psychic",
+          "ghost"
+        ]
+      },
+      {
+        "id": 10086,
+        "name": "hoopa-unbound",
+        "types": [
+          "psychic",
+          "dark"
+        ]
+      }
+    ],
+    "names": [
+      "hoopa",
+      "hoopa-unbound"
+    ],
+    "types": [
+      "psychic",
+      "ghost",
+      "dark"
+    ]
+  }
+]

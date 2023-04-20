@@ -1,0 +1,682 @@
+{
+  "data": [
+    {
+      "id": 504,
+      "name": "patrat",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 504,
+          "name": "patrat",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "patrat"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 505,
+      "name": "watchog",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 505,
+          "name": "watchog",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "watchog"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 506,
+      "name": "lillipup",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 506,
+          "name": "lillipup",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "lillipup"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 507,
+      "name": "herdier",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 507,
+          "name": "herdier",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "herdier"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 508,
+      "name": "stoutland",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 508,
+          "name": "stoutland",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "stoutland"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 519,
+      "name": "pidove",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 519,
+          "name": "pidove",
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "pidove"
+      ],
+      "types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "id": 520,
+      "name": "tranquill",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 520,
+          "name": "tranquill",
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "tranquill"
+      ],
+      "types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "id": 521,
+      "name": "unfezant",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 521,
+          "name": "unfezant",
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "unfezant"
+      ],
+      "types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "id": 531,
+      "name": "audino",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 531,
+          "name": "audino",
+          "types": [
+            "normal"
+          ]
+        },
+        {
+          "id": 10069,
+          "name": "audino-mega",
+          "types": [
+            "normal",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "audino",
+        "audino-mega"
+      ],
+      "types": [
+        "normal",
+        "fairy"
+      ]
+    },
+    {
+      "id": 570,
+      "name": "zorua",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 570,
+          "name": "zorua",
+          "types": [
+            "dark"
+          ]
+        },
+        {
+          "id": 10238,
+          "name": "zorua-hisui",
+          "types": [
+            "normal",
+            "ghost"
+          ]
+        }
+      ],
+      "names": [
+        "zorua",
+        "zorua-hisui"
+      ],
+      "types": [
+        "dark",
+        "normal",
+        "ghost"
+      ]
+    },
+    {
+      "id": 571,
+      "name": "zoroark",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 571,
+          "name": "zoroark",
+          "types": [
+            "dark"
+          ]
+        },
+        {
+          "id": 10239,
+          "name": "zoroark-hisui",
+          "types": [
+            "normal",
+            "ghost"
+          ]
+        }
+      ],
+      "names": [
+        "zoroark",
+        "zoroark-hisui"
+      ],
+      "types": [
+        "dark",
+        "normal",
+        "ghost"
+      ]
+    },
+    {
+      "id": 572,
+      "name": "minccino",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 572,
+          "name": "minccino",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "minccino"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 573,
+      "name": "cinccino",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 573,
+          "name": "cinccino",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "cinccino"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 585,
+      "name": "deerling",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 585,
+          "name": "deerling",
+          "types": [
+            "normal",
+            "grass"
+          ]
+        }
+      ],
+      "names": [
+        "deerling"
+      ],
+      "types": [
+        "normal",
+        "grass"
+      ]
+    },
+    {
+      "id": 586,
+      "name": "sawsbuck",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 75,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 586,
+          "name": "sawsbuck",
+          "types": [
+            "normal",
+            "grass"
+          ]
+        }
+      ],
+      "names": [
+        "sawsbuck"
+      ],
+      "types": [
+        "normal",
+        "grass"
+      ]
+    },
+    {
+      "id": 626,
+      "name": "bouffalant",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 626,
+          "name": "bouffalant",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "bouffalant"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 627,
+      "name": "rufflet",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 190,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 627,
+          "name": "rufflet",
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "rufflet"
+      ],
+      "types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "id": 628,
+      "name": "braviary",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 60,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 628,
+          "name": "braviary",
+          "types": [
+            "normal",
+            "flying"
+          ]
+        },
+        {
+          "id": 10240,
+          "name": "braviary-hisui",
+          "types": [
+            "psychic",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "braviary",
+        "braviary-hisui"
+      ],
+      "types": [
+        "normal",
+        "flying",
+        "psychic"
+      ]
+    },
+    {
+      "id": 648,
+      "name": "meloetta",
+      "gen": 5,
+      "isLegendary": false,
+      "isMythical": true,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 648,
+          "name": "meloetta-aria",
+          "types": [
+            "normal",
+            "psychic"
+          ]
+        },
+        {
+          "id": 10018,
+          "name": "meloetta-pirouette",
+          "types": [
+            "normal",
+            "fighting"
+          ]
+        }
+      ],
+      "names": [
+        "meloetta-aria",
+        "meloetta-pirouette"
+      ],
+      "types": [
+        "normal",
+        "psychic",
+        "fighting"
+      ]
+    },
+    {
+      "id": 659,
+      "name": "bunnelby",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 659,
+          "name": "bunnelby",
+          "types": [
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "bunnelby"
+      ],
+      "types": [
+        "normal"
+      ]
+    },
+    {
+      "id": 660,
+      "name": "diggersby",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 127,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 660,
+          "name": "diggersby",
+          "types": [
+            "normal",
+            "ground"
+          ]
+        }
+      ],
+      "names": [
+        "diggersby"
+      ],
+      "types": [
+        "normal",
+        "ground"
+      ]
+    },
+    {
+      "id": 661,
+      "name": "fletchling",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 255,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 661,
+          "name": "fletchling",
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "fletchling"
+      ],
+      "types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "id": 667,
+      "name": "litleo",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 220,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 667,
+          "name": "litleo",
+          "types": [
+            "fire",
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "litleo"
+      ],
+      "types": [
+        "fire",
+        "normal"
+      ]
+    },
+    {
+      "id": 668,
+      "name": "pyroar",
+      "gen": 6,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 65,
+      "habitat": null,
+      "pokemons": [
+        {
+          "id": 668,
+          "name": "pyroar",
+          "types": [
+            "fire",
+            "normal"
+          ]
+        }
+      ],
+      "names": [
+        "pyroar"
+      ],
+      "types": [
+        "fire",
+        "normal"
+      ]
+    }
+  ],
+  "page": 4,
+  "nextPage": 5
+}

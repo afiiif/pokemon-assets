@@ -1,0 +1,326 @@
+{
+  "data": [
+    {
+      "id": 254,
+      "name": "sceptile",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 254,
+          "name": "sceptile",
+          "types": [
+            "grass"
+          ]
+        },
+        {
+          "id": 10065,
+          "name": "sceptile-mega",
+          "types": [
+            "grass",
+            "dragon"
+          ]
+        }
+      ],
+      "names": [
+        "sceptile",
+        "sceptile-mega"
+      ],
+      "types": [
+        "grass",
+        "dragon"
+      ]
+    },
+    {
+      "id": 329,
+      "name": "vibrava",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 120,
+      "habitat": "rough-terrain",
+      "pokemons": [
+        {
+          "id": 329,
+          "name": "vibrava",
+          "types": [
+            "ground",
+            "dragon"
+          ]
+        }
+      ],
+      "names": [
+        "vibrava"
+      ],
+      "types": [
+        "ground",
+        "dragon"
+      ]
+    },
+    {
+      "id": 330,
+      "name": "flygon",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "rough-terrain",
+      "pokemons": [
+        {
+          "id": 330,
+          "name": "flygon",
+          "types": [
+            "ground",
+            "dragon"
+          ]
+        }
+      ],
+      "names": [
+        "flygon"
+      ],
+      "types": [
+        "ground",
+        "dragon"
+      ]
+    },
+    {
+      "id": 334,
+      "name": "altaria",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "forest",
+      "pokemons": [
+        {
+          "id": 334,
+          "name": "altaria",
+          "types": [
+            "dragon",
+            "flying"
+          ]
+        },
+        {
+          "id": 10067,
+          "name": "altaria-mega",
+          "types": [
+            "dragon",
+            "fairy"
+          ]
+        }
+      ],
+      "names": [
+        "altaria",
+        "altaria-mega"
+      ],
+      "types": [
+        "dragon",
+        "flying",
+        "fairy"
+      ]
+    },
+    {
+      "id": 371,
+      "name": "bagon",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "rough-terrain",
+      "pokemons": [
+        {
+          "id": 371,
+          "name": "bagon",
+          "types": [
+            "dragon"
+          ]
+        }
+      ],
+      "names": [
+        "bagon"
+      ],
+      "types": [
+        "dragon"
+      ]
+    },
+    {
+      "id": 372,
+      "name": "shelgon",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "rough-terrain",
+      "pokemons": [
+        {
+          "id": 372,
+          "name": "shelgon",
+          "types": [
+            "dragon"
+          ]
+        }
+      ],
+      "names": [
+        "shelgon"
+      ],
+      "types": [
+        "dragon"
+      ]
+    },
+    {
+      "id": 373,
+      "name": "salamence",
+      "gen": 3,
+      "isLegendary": false,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "rough-terrain",
+      "pokemons": [
+        {
+          "id": 373,
+          "name": "salamence",
+          "types": [
+            "dragon",
+            "flying"
+          ]
+        },
+        {
+          "id": 10089,
+          "name": "salamence-mega",
+          "types": [
+            "dragon",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "salamence",
+        "salamence-mega"
+      ],
+      "types": [
+        "dragon",
+        "flying"
+      ]
+    },
+    {
+      "id": 380,
+      "name": "latias",
+      "gen": 3,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 380,
+          "name": "latias",
+          "types": [
+            "dragon",
+            "psychic"
+          ]
+        },
+        {
+          "id": 10062,
+          "name": "latias-mega",
+          "types": [
+            "dragon",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "latias",
+        "latias-mega"
+      ],
+      "types": [
+        "dragon",
+        "psychic"
+      ]
+    },
+    {
+      "id": 381,
+      "name": "latios",
+      "gen": 3,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 3,
+      "habitat": "waters-edge",
+      "pokemons": [
+        {
+          "id": 381,
+          "name": "latios",
+          "types": [
+            "dragon",
+            "psychic"
+          ]
+        },
+        {
+          "id": 10063,
+          "name": "latios-mega",
+          "types": [
+            "dragon",
+            "psychic"
+          ]
+        }
+      ],
+      "names": [
+        "latios",
+        "latios-mega"
+      ],
+      "types": [
+        "dragon",
+        "psychic"
+      ]
+    },
+    {
+      "id": 384,
+      "name": "rayquaza",
+      "gen": 3,
+      "isLegendary": true,
+      "isMythical": false,
+      "isBaby": false,
+      "captureRate": 45,
+      "habitat": "rare",
+      "pokemons": [
+        {
+          "id": 384,
+          "name": "rayquaza",
+          "types": [
+            "dragon",
+            "flying"
+          ]
+        },
+        {
+          "id": 10079,
+          "name": "rayquaza-mega",
+          "types": [
+            "dragon",
+            "flying"
+          ]
+        }
+      ],
+      "names": [
+        "rayquaza",
+        "rayquaza-mega"
+      ],
+      "types": [
+        "dragon",
+        "flying"
+      ]
+    }
+  ],
+  "page": 1,
+  "nextPage": null
+}
