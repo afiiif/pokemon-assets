@@ -1,7 +1,0 @@
-{
-  "compilerOptions": {
-    "module": "NodeNext"
-  },
-  "include": ["**/*.ts"],
-  "exclude": ["node_modules"]
-}
