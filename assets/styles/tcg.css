@@ -1,0 +1,2212 @@
+.card {
+  --grain: url(https://poke-holo.simey.me/img/grain.webp);
+  --glitter: url(https://poke-holo.simey.me/img/glitter.png);
+  --glittersize: 25%;
+  --space: 5%;
+  --angle: 133deg;
+  --imgsize: cover;
+  --red: #f80e35;
+  --yellow: #eedf10;
+  --green: #21e985;
+  --blue: #0dbde9;
+  --violet: #c929f1;
+  --clip: inset(9.85% 8% 52.85% 8%);
+  --clip-invert: polygon(
+    0% 0%,
+    100% 0%,
+    100% 100%,
+    0% 100%,
+    0 47.15%,
+    91.5% 47.15%,
+    91.5% 9.85%,
+    8% 9.85%,
+    8% 47.15%,
+    0 50%
+  );
+  --clip-stage: polygon(
+    91.5% 9.85%,
+    57% 9.85%,
+    54% 12%,
+    17% 12%,
+    16% 14%,
+    12% 16%,
+    8% 16%,
+    8% 47.15%,
+    92% 47.15%
+  );
+  --clip-stage-invert: polygon(
+    0% 0%,
+    100% 0%,
+    100% 100%,
+    0% 100%,
+    0 47.15%,
+    91.5% 47.15%,
+    91.5% 9.85%,
+    57% 9.85%,
+    54% 12%,
+    17% 12%,
+    16% 14%,
+    12% 16%,
+    8% 16%,
+    8% 47.15%,
+    0 50%
+  );
+  --clip-trainer: inset(14.5% 8.5% 48.2% 8.5%);
+  --clip-borders: inset(2.8% 4% round 2.55%/1.5%);
+}
+.card__glare,
+.card__shine {
+  will-change: transform, opacity, background-image, background-size, background-position,
+    background-blend-mode, filter;
+}
+.card[data-rarity='amazing rare'] .card__shine {
+  background-blend-mode: soft-light, color-burn;
+  background-image: var(--glitter), var(--glitter),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      #141f1a 10%,
+      rgba(193, 215, 214, 0.1) 50%,
+      hsla(0, 0%, 95%, 0.98) 90%
+    );
+  background-position:
+    40% 45%,
+    55% 55%,
+    50%;
+  background-size:
+    var(--glittersize) var(--glittersize),
+    var(--glittersize) var(--glittersize),
+    cover;
+  filter: brightness(1) contrast(1) saturate(0.9);
+}
+.card[data-rarity='amazing rare'] .card__shine:before {
+  background-blend-mode: color-burn;
+  background-image: var(--foil),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      hsla(50, 20%, 90%, 0.95) 10%,
+      rgba(181, 139, 164, 0.5) 50%,
+      #000 60%
+    );
+  background-position: 50%, 50%;
+  background-size: cover, cover;
+  content: '';
+  filter: brightness(1) contrast(1) saturate(1);
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  mix-blend-mode: lighten;
+  opacity: 0.5;
+}
+.card[data-rarity='amazing rare'] .card__shine:after {
+  background-image: repeating-linear-gradient(
+    calc(var(--angle)),
+    var(--sunpillar-clr-1) calc(var(--space) * 1),
+    var(--sunpillar-clr-2) calc(var(--space) * 2),
+    var(--sunpillar-clr-3) calc(var(--space) * 3),
+    var(--sunpillar-clr-4) calc(var(--space) * 4),
+    var(--sunpillar-clr-5) calc(var(--space) * 5),
+    var(--sunpillar-clr-6) calc(var(--space) * 6),
+    var(--sunpillar-clr-1) calc(var(--space) * 7)
+  );
+  background-position: calc(200% - var(--background-x) * 3) calc(200% - var(--background-y) * 3);
+  background-size: 400% 800%;
+  content: '';
+  filter: brightness(calc(0.75 - var(--pointer-from-center) * 0.5)) contrast(1) saturate(1);
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  mix-blend-mode: saturation;
+}
+.card.masked[data-rarity='amazing rare'] .card__glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    hsla(50, 20%, 90%, 0.45) 0,
+    rgba(61, 92, 77, 0.45) 45%,
+    rgba(0, 0, 0, 0.9) 120%
+  );
+  filter: brightness(0.9) contrast(2);
+}
+.card.masked[data-rarity='amazing rare'] .card__glare:after {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    hsla(50, 20%, 90%, 0.75) 0,
+    rgba(61, 92, 77, 0.65) 45%,
+    #000 90%
+  );
+  content: '';
+  filter: brightness(1) contrast(1.5);
+  -webkit-mask-image: var(--mask);
+  mask-image: var(--mask);
+  -webkit-mask-size: cover;
+  mask-size: cover;
+  mix-blend-mode: overlay;
+  opacity: 1;
+}
+.card:not(.masked)[data-rarity='amazing rare'] .card__shine {
+  -webkit-clip-path: var(--clip);
+  clip-path: var(--clip);
+}
+.card:not(.masked)[data-rarity='amazing rare'] .card__glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    #fff 10%,
+    hsla(0, 0%, 100%, 0.85) 20%,
+    rgba(0, 0, 0, 0.35) 90%
+  );
+  mix-blend-mode: multiply;
+}
+:root {
+  --card-aspect: 0.718;
+  --card-radius: 4.55%/3.5%;
+  --card-edge: #ffe78f;
+  --card-back: #004a80;
+  --card-glow: #ccfffb;
+  --sunpillar-1: #ff7a75;
+  --sunpillar-2: #ffed61;
+  --sunpillar-3: #a8ff61;
+  --sunpillar-4: #85fff7;
+  --sunpillar-5: #7a95ff;
+  --sunpillar-6: #d875ff;
+  --sunpillar-clr-1: var(--sunpillar-1);
+  --sunpillar-clr-2: var(--sunpillar-2);
+  --sunpillar-clr-3: var(--sunpillar-3);
+  --sunpillar-clr-4: var(--sunpillar-4);
+  --sunpillar-clr-5: var(--sunpillar-5);
+  --sunpillar-clr-6: var(--sunpillar-6);
+}
+.card {
+  pointer-events: none;
+  transform: translateZ(0.01px);
+  transform-style: preserve-3d;
+  will-change: transform, visibility, z-index;
+  z-index: calc(var(--card-scale) * 2);
+}
+.card,
+.card * {
+  outline: 1px solid transparent;
+}
+.card:not(.interactive) .card__glare,
+.card:not(.interactive) .card__rotator,
+.card:not(.interactive) .card__shine,
+.card:not(.interactive) .card__translater {
+  transition: all 0.3s ease;
+}
+.card:not(.interactive):hover {
+  --pointer-x: 25% !important;
+  --pointer-y: 10% !important;
+  --card-scale: 1.1 !important;
+  --card-opacity: 1 !important;
+  --translate-x: 0px !important;
+  --translate-y: -10px !important;
+  --rotate-x: 7deg !important;
+  --rotate-y: -19deg !important;
+  --background-x: 44% !important;
+  --background-y: 36% !important;
+  --pointer-from-center: 0.9 !important;
+  --pointer-from-top: 0.11 !important;
+  --pointer-from-left: 0.25 !important;
+}
+.card.water {
+  --card-glow: #36d4fc;
+}
+.card.fire {
+  --card-glow: #eb5b42;
+}
+.card.grass {
+  --card-glow: #97ee5d;
+}
+.card.lightning {
+  --card-glow: #f3e24f;
+}
+.card.psychic {
+  --card-glow: #ac51d6;
+}
+.card.fighting {
+  --card-glow: #915a27;
+}
+.card.darkness {
+  --card-glow: #106a7a;
+}
+.card.metal {
+  --card-glow: #a3c0c2;
+}
+.card.dragon {
+  --card-glow: #8f7f24;
+}
+.card.fairy {
+  --card-glow: #ffc7e9;
+}
+.card,
+.card__rotator {
+  aspect-ratio: var(--card-aspect);
+  border-radius: var(--card-radius);
+}
+.card.active .card__rotator,
+.card.active .card__translater {
+  touch-action: none;
+}
+.card__rotator,
+.card__translater {
+  display: grid;
+  perspective: 600px;
+  transform-origin: center;
+  -webkit-transform-origin: center;
+  will-change: transform, box-shadow;
+}
+.card__translater {
+  position: relative;
+  transform: translate3d(var(--translate-x), var(--translate-y), 0.1px) scale(var(--card-scale));
+  width: auto;
+}
+.card__rotator {
+  pointer-events: auto;
+  -webkit-transform: rotateY(var(--rotate-x)) rotateX(var(--rotate-y));
+  transform: rotateY(var(--rotate-x)) rotateX(var(--rotate-y));
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+}
+button.card__rotator {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+.card.active .card__rotator:focus,
+.card__rotator {
+  box-shadow:
+    0 0 3px -1px transparent,
+    0 0 2px 1px transparent,
+    0 0 5px 0 transparent,
+    0 10px 20px -5px #000,
+    0 2px 15px -5px #000,
+    0 0 20px 0 transparent;
+  transition:
+    box-shadow 0.4s ease,
+    opacity 0.33s ease-out;
+}
+.card.active .card__rotator,
+.card__rotator:focus {
+  box-shadow:
+    0 0 3px -1px #fff,
+    0 0 3px 1px var(--card-edge),
+    0 0 12px 2px var(--card-glow),
+    0 10px 20px -5px #000,
+    0 0 40px -30px var(--card-glow),
+    0 0 50px -20px var(--card-glow);
+}
+.card__rotator * {
+  aspect-ratio: var(--card-aspect);
+  border-radius: var(--card-radius);
+  display: grid;
+  grid-area: 1/1;
+  image-rendering: optimizeQuality;
+  overflow: hidden;
+  pointer-events: none;
+  transform-style: preserve-3d;
+  width: 100%;
+}
+.card__rotator img {
+  height: auto;
+  transform: translateZ(0.01px);
+}
+.card__back {
+  backface-visibility: visible;
+  background-color: var(--card-back);
+  transform: rotateY(180deg) translateZ(1px);
+}
+.card__front,
+.card__front * {
+  backface-visibility: hidden;
+}
+.card__front {
+  opacity: 1;
+  transform: translateZ(0.01px);
+  transition: opacity 0.33s ease-out;
+}
+.loading .card__front {
+  opacity: 0;
+}
+.loading .card__back {
+  transform: rotateY(0deg);
+}
+.card__shine {
+  background: transparent;
+  background-position: 50%;
+  background-size: cover;
+  display: grid;
+  filter: brightness(0.85) contrast(2.75) saturate(0.65);
+  mix-blend-mode: color-dodge;
+  opacity: var(--card-opacity);
+  overflow: hidden;
+  transform: translateZ(1px);
+  z-index: 3;
+}
+.card__shine:after,
+.card__shine:before {
+  --sunpillar-clr-1: var(--sunpillar-5);
+  --sunpillar-clr-2: var(--sunpillar-6);
+  --sunpillar-clr-3: var(--sunpillar-1);
+  --sunpillar-clr-4: var(--sunpillar-2);
+  --sunpillar-clr-5: var(--sunpillar-3);
+  --sunpillar-clr-6: var(--sunpillar-4);
+  border-radius: var(--card-radius);
+  grid-area: 1/1;
+  transform: translateZ(1px);
+}
+.card__shine:after {
+  --sunpillar-clr-1: var(--sunpillar-6);
+  --sunpillar-clr-2: var(--sunpillar-1);
+  --sunpillar-clr-3: var(--sunpillar-2);
+  --sunpillar-clr-4: var(--sunpillar-3);
+  --sunpillar-clr-5: var(--sunpillar-4);
+  --sunpillar-clr-6: var(--sunpillar-5);
+  transform: translateZ(1.2px);
+}
+.card__glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    hsla(0, 0%, 100%, 0.8) 10%,
+    hsla(0, 0%, 100%, 0.65) 20%,
+    rgba(0, 0, 0, 0.5) 90%
+  );
+  mix-blend-mode: overlay;
+  opacity: var(--card-opacity);
+  overflow: hidden;
+  transform: translateZ(1.41px);
+}
+.card.masked .card__shine,
+.card.masked .card__shine:after,
+.card.masked .card__shine:before {
+  -webkit-mask-image: var(--mask);
+  mask-image: var(--mask);
+  -webkit-mask-position: center center;
+  mask-position: center center;
+  -webkit-mask-size: cover;
+  mask-size: cover;
+}
+.card[data-rarity$='reverse holo'] .card__glare:after,
+.card[data-rarity='rare holo cosmos'] .card__glare:after,
+.card[data-rarity='rare holo'] .card__glare:after {
+  -webkit-clip-path: var(--clip);
+  clip-path: var(--clip);
+}
+.card[data-rarity$='reverse holo'][data-subtypes^='stage'] .card__glare:after,
+.card[data-rarity='rare holo cosmos'][data-subtypes^='stage'] .card__glare:after,
+.card[data-rarity='rare holo'][data-subtypes^='stage'] .card__glare:after {
+  -webkit-clip-path: var(--clip-stage);
+  clip-path: var(--clip-stage);
+}
+.card[data-rarity$='reverse holo'][data-supertype='trainer'] .card__glare:after,
+.card[data-rarity='rare holo cosmos'][data-supertype='trainer'] .card__glare:after,
+.card[data-rarity='rare holo'][data-supertype='trainer'] .card__glare:after {
+  -webkit-clip-path: var(--clip-trainer);
+  clip-path: var(--clip-trainer);
+}
+.card[data-rarity='rare holo cosmos'][data-subtypes^='stage'] .card__glare:after,
+.card[data-rarity='rare holo cosmos'][data-subtypes^='stage'] .card__shine {
+  -webkit-clip-path: var(--clip-stage);
+  clip-path: var(--clip-stage);
+}
+.card[data-rarity='rare holo cosmos'][data-subtypes^='supporter'] .card__glare:after,
+.card[data-rarity='rare holo cosmos'][data-subtypes^='supporter'] .card__shine {
+  -webkit-clip-path: var(--clip-trainer);
+  clip-path: var(--clip-trainer);
+}
+.card[data-rarity='rare holo cosmos'] .card__shine {
+  --space: 4%;
+  background-blend-mode: color-burn, multiply;
+  background-image: url(https://poke-holo.simey.me/img/cosmos-bottom.png),
+    repeating-linear-gradient(
+      82deg,
+      #dbcc57 calc(var(--space) * 1),
+      #78c738 calc(var(--space) * 2),
+      #39c0b7 calc(var(--space) * 3),
+      #4964d0 calc(var(--space) * 4),
+      #aa47d1 calc(var(--space) * 5),
+      #cc388c calc(var(--space) * 6),
+      #cc388c calc(var(--space) * 7),
+      #aa47d1 calc(var(--space) * 8),
+      #4964d0 calc(var(--space) * 9),
+      #39c0b7 calc(var(--space) * 10),
+      #78c738 calc(var(--space) * 11),
+      #dbcc57 calc(var(--space) * 12)
+    ),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      rgba(199, 255, 255, 0.5) 5%,
+      rgba(130, 161, 161, 0.3) 40%,
+      #000 130%
+    );
+  background-position:
+    var(--cosmosbg, center center),
+    calc(10% + var(--pointer-from-left) * 80%) calc(10% + var(--pointer-from-top) * 80%),
+    50%;
+  background-size:
+    cover,
+    400% 900%,
+    cover;
+  -webkit-clip-path: var(--clip);
+  clip-path: var(--clip);
+  filter: brightness(1) contrast(1) saturate(0.8);
+  mix-blend-mode: color-dodge;
+}
+.card[data-rarity='rare holo cosmos'] .card__shine:before {
+  background-blend-mode: lighten, multiply;
+  background-image: url(https://poke-holo.simey.me/img/cosmos-middle-trans.png),
+    repeating-linear-gradient(
+      82deg,
+      #dbcc57 calc(var(--space) * 1),
+      #78c738 calc(var(--space) * 2),
+      #39c0b7 calc(var(--space) * 3),
+      #4964d0 calc(var(--space) * 4),
+      #aa47d1 calc(var(--space) * 5),
+      #cc388c calc(var(--space) * 6),
+      #cc388c calc(var(--space) * 7),
+      #aa47d1 calc(var(--space) * 8),
+      #4964d0 calc(var(--space) * 9),
+      #39c0b7 calc(var(--space) * 10),
+      #78c738 calc(var(--space) * 11),
+      #dbcc57 calc(var(--space) * 12)
+    );
+  background-position:
+    var(--cosmosbg, center center),
+    calc(15% + var(--pointer-from-left) * 70%) calc(15% + var(--pointer-from-top) * 70%),
+    50%;
+  background-size:
+    cover,
+    400% 900%,
+    cover;
+  content: '';
+  filter: brightness(1.25) contrast(1.75) saturate(0.8);
+  mix-blend-mode: overlay;
+  z-index: 2;
+}
+.card[data-rarity='rare holo cosmos'] .card__shine:after {
+  background-blend-mode: multiply, multiply;
+  background-image: url(https://poke-holo.simey.me/img/cosmos-top-trans.png),
+    repeating-linear-gradient(
+      82deg,
+      #dbcc57 calc(var(--space) * 1),
+      #78c738 calc(var(--space) * 2),
+      #39c0b7 calc(var(--space) * 3),
+      #4964d0 calc(var(--space) * 4),
+      #aa47d1 calc(var(--space) * 5),
+      #cc388c calc(var(--space) * 6),
+      #cc388c calc(var(--space) * 7),
+      #aa47d1 calc(var(--space) * 8),
+      #4964d0 calc(var(--space) * 9),
+      #39c0b7 calc(var(--space) * 10),
+      #78c738 calc(var(--space) * 11),
+      #dbcc57 calc(var(--space) * 12)
+    );
+  background-position:
+    var(--cosmosbg, center center),
+    calc(20% + var(--pointer-from-left) * 60%) calc(20% + var(--pointer-from-top) * 60%),
+    50%;
+  background-size:
+    cover,
+    400% 900%,
+    cover;
+  content: '';
+  filter: brightness(1.25) contrast(1.75) saturate(0.8);
+  mix-blend-mode: multiply;
+  z-index: 3;
+}
+.card[data-rarity='rare holo cosmos'] .card__glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    rgba(230, 245, 255, 0.8) 5%,
+    #2e2b3b 150%
+  );
+  filter: brightness(0.75) contrast(2) saturate(2);
+  mix-blend-mode: overlay;
+  opacity: calc(var(--card-opacity) * (0.25 + var(--pointer-from-center)));
+}
+.card[data-rarity='rare holo cosmos'] .card__glare:after {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    #f8ebff 5%,
+    #1a1a1a 60%
+  );
+  content: '';
+  filter: brightness(0.75) contrast(2.5) saturate(2);
+  mix-blend-mode: soft-light;
+  opacity: calc(1 - var(--pointer-from-top) * 0.75);
+}
+.card[data-rarity='radiant rare'] .card__shine {
+  -webkit-clip-path: var(--clip-borders);
+  clip-path: var(--clip-borders);
+}
+.card[data-rarity='radiant rare'] .card__shine:after {
+  -webkit-clip-path: var(--clip);
+  clip-path: var(--clip);
+}
+.card[data-rarity='radiant rare'] .card__shine {
+  --barwidth: 1.2%;
+  --space: 200px;
+  --hue: 50;
+  --imgsize: cover;
+  background-blend-mode: exclusion, darken, color-dodge;
+  background-image: radial-gradient(
+      farthest-corner ellipse at calc((var(--pointer-x)) * 0.5 + 25%)
+        calc((var(--pointer-y)) * 0.5 + 25%),
+      #f2f2f2 20%,
+      var(--card-glow) 130%
+    ),
+    repeating-linear-gradient(
+      45deg,
+      #1a1a1a 0,
+      #1a1a1a 1%,
+      #1a1a1a var(--barwidth),
+      #333 calc(var(--barwidth) + 0.01%),
+      #333 calc(var(--barwidth) * 2),
+      #595959 calc(var(--barwidth) * 2 + 0.01%),
+      #595959 calc(var(--barwidth) * 3),
+      #6c6c6c calc(var(--barwidth) * 3 + 0.01%),
+      #6c6c6c calc(var(--barwidth) * 4),
+      grey calc(var(--barwidth) * 4 + 0.01%),
+      grey calc(var(--barwidth) * 5),
+      #6c6c6c calc(var(--barwidth) * 5 + 0.01%),
+      #6c6c6c calc(var(--barwidth) * 6),
+      #595959 calc(var(--barwidth) * 6 + 0.01%),
+      #595959 calc(var(--barwidth) * 7),
+      #333 calc(var(--barwidth) * 7 + 0.01%),
+      #333 calc(var(--barwidth) * 8),
+      #1a1a1a calc(var(--barwidth) * 8 + 0.01%),
+      #1a1a1a calc(var(--barwidth) * 9),
+      #000 calc(var(--barwidth) * 9 + 0.01%),
+      #000 calc(var(--barwidth) * 10)
+    ),
+    repeating-linear-gradient(
+      -45deg,
+      #1a1a1a 0,
+      #1a1a1a 1%,
+      #1a1a1a var(--barwidth),
+      #333 calc(var(--barwidth) + 0.01%),
+      #333 calc(var(--barwidth) * 2),
+      #595959 calc(var(--barwidth) * 2 + 0.01%),
+      #595959 calc(var(--barwidth) * 3),
+      #6c6c6c calc(var(--barwidth) * 3 + 0.01%),
+      #6c6c6c calc(var(--barwidth) * 4),
+      grey calc(var(--barwidth) * 4 + 0.01%),
+      grey calc(var(--barwidth) * 5),
+      #6c6c6c calc(var(--barwidth) * 5 + 0.01%),
+      #6c6c6c calc(var(--barwidth) * 6),
+      #595959 calc(var(--barwidth) * 6 + 0.01%),
+      #595959 calc(var(--barwidth) * 7),
+      #333 calc(var(--barwidth) * 7 + 0.01%),
+      #333 calc(var(--barwidth) * 8),
+      #1a1a1a calc(var(--barwidth) * 8 + 0.01%),
+      #1a1a1a calc(var(--barwidth) * 9),
+      #000 calc(var(--barwidth) * 9 + 0.01%),
+      #000 calc(var(--barwidth) * 10)
+    );
+  background-position:
+    50%,
+    calc((var(--background-x) - 50%) * 1.5 + 50%) calc((var(--background-y) - 50%) * 1.5 + 50%),
+    calc((var(--background-x) - 50%) * 1.5 + 50%) calc((var(--background-y) - 50%) * 1.5 + 50%);
+  background-size:
+    cover,
+    210% 210%,
+    210% 210%;
+  filter: brightness(0.5) contrast(2) saturate(1.75);
+  mix-blend-mode: color-dodge;
+}
+.card[data-rarity='radiant rare'] .card__shine:after {
+  background-blend-mode: hard-light;
+  background-image: var(--foil),
+    repeating-linear-gradient(
+      55deg,
+      #fdb8b4 calc(var(--space) * 1),
+      #addaff calc(var(--space) * 2),
+      #ffd7b3 calc(var(--space) * 3),
+      #b8ffe7 calc(var(--space) * 4),
+      #fdbff4 calc(var(--space) * 5),
+      #b4f3fd calc(var(--space) * 6),
+      #fdb8b4 calc(var(--space) * 7)
+    );
+  background-position:
+    50%,
+    calc((var(--background-x) - 50%) * -2.5 + 50%) calc((var(--background-y) - 50%) * -2.5 + 50%);
+  background-size:
+    var(--imgsize),
+    400% 100%;
+  content: '';
+  filter: brightness(0.6) contrast(3) saturate(2);
+  mix-blend-mode: color-dodge;
+}
+.card[data-rarity='radiant rare'] .card__shine:before {
+  background-blend-mode: color-dodge;
+  background-image: var(--glitter),
+    radial-gradient(
+      farthest-corner ellipse at calc((var(--pointer-x)) * 0.5 + 25%)
+        calc((var(--pointer-y)) * 0.5 + 25%),
+      hsla(0, 0%, 58%, 0.8) 10%,
+      rgba(51, 51, 51, 0.9) 20%,
+      rgba(51, 51, 51, 0.5) 50%
+    );
+  background-position: 50%;
+  background-size:
+    15% 15%,
+    350% 350%;
+  content: '';
+  filter: brightness(0.66) contrast(2) saturate(0.5);
+  grid-area: 1/1;
+  mix-blend-mode: overlay;
+  z-index: 2;
+}
+.card[data-rarity='radiant rare'] .card__glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    hsla(0, 0%, 100%, 0.33) 0,
+    #404040 110%
+  );
+  filter: brightness(1) contrast(1.5);
+  mix-blend-mode: hard-light;
+}
+.card:not(.masked)[data-rarity='radiant rare'] .card__shine,
+.card:not(.masked)[data-rarity='radiant rare'] .card__shine:after {
+  --mask: none;
+  --foil: url(https://poke-holo.simey.me/img/trainerbg.png);
+  --imgsize: 25% auto;
+}
+.card:not(.masked)[data-rarity='radiant rare'] .card__shine:after {
+  background-blend-mode: difference;
+}
+.card[data-rarity='rare holo vmax'][data-trainer-gallery='true'] .card__shine,
+.card[data-rarity='rare rainbow alt'] .card__shine {
+  --imgsize: cover;
+  --r-clr-1: #942929;
+  --r-clr-2: #98752f;
+  --r-clr-3: #598f24;
+  --r-clr-4: #248f8f;
+  --r-clr-5: #248f8f;
+  --r-clr-6: #2b639c;
+  --r-clr-7: #5e247b;
+  background-blend-mode: luminosity, overlay;
+  background-image: repeating-linear-gradient(
+      var(--angle),
+      rgba(175, 103, 203, 0.75) calc(var(--space) * 1),
+      rgba(223, 78, 73, 0.75) calc(var(--space) * 2),
+      rgba(215, 197, 55, 0.75) calc(var(--space) * 3),
+      rgba(126, 201, 64, 0.75) calc(var(--space) * 4),
+      rgba(79, 176, 169, 0.75) calc(var(--space) * 5),
+      rgba(138, 161, 255, 0.75) calc(var(--space) * 6),
+      rgba(177, 107, 204, 0.75) calc(var(--space) * 7)
+    ),
+    var(--glitter),
+    linear-gradient(
+      -30deg,
+      var(--r-clr-1),
+      var(--r-clr-2),
+      var(--r-clr-3),
+      var(--r-clr-4),
+      var(--r-clr-5),
+      var(--r-clr-6),
+      var(--r-clr-7),
+      var(--r-clr-1),
+      var(--r-clr-2),
+      var(--r-clr-3),
+      var(--r-clr-4),
+      var(--r-clr-5),
+      var(--r-clr-6),
+      var(--r-clr-7),
+      var(--r-clr-1),
+      var(--r-clr-2),
+      var(--r-clr-3),
+      var(--r-clr-4),
+      var(--r-clr-5),
+      var(--r-clr-6),
+      var(--r-clr-7),
+      var(--r-clr-1)
+    );
+  background-position:
+    0 calc(var(--background-y) * 1),
+    50%,
+    calc(var(--background-x) * 1.5) calc(var(--background-y) * 1.5);
+  background-size:
+    200% 400%,
+    var(--glittersize) var(--glittersize),
+    400% 400%;
+  filter: brightness(calc(var(--pointer-from-center) * 0.3 + 0.3)) contrast(3) saturate(1.8);
+}
+.card[data-rarity='rare holo vmax'][data-trainer-gallery='true'] .card__shine:after,
+.card[data-rarity='rare rainbow alt'] .card__shine:after {
+  background-blend-mode: overlay;
+  background-image: var(--glitter),
+    linear-gradient(
+      -60deg,
+      var(--r-clr-1),
+      var(--r-clr-2),
+      var(--r-clr-3),
+      var(--r-clr-4),
+      var(--r-clr-5),
+      var(--r-clr-6),
+      var(--r-clr-7),
+      var(--r-clr-1),
+      var(--r-clr-2),
+      var(--r-clr-3),
+      var(--r-clr-4),
+      var(--r-clr-5),
+      var(--r-clr-6),
+      var(--r-clr-7),
+      var(--r-clr-1),
+      var(--r-clr-2),
+      var(--r-clr-3),
+      var(--r-clr-4),
+      var(--r-clr-5),
+      var(--r-clr-6),
+      var(--r-clr-7),
+      var(--r-clr-1)
+    );
+  background-position:
+    50%,
+    calc(var(--background-x) * -1.5) calc(var(--background-y) * -1.5);
+  background-size:
+    var(--glittersize) var(--glittersize),
+    400% 400%;
+  content: '';
+  filter: brightness(calc(var(--pointer-from-center) * 0.5 + 0.6)) contrast(3) saturate(1);
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  mix-blend-mode: color-dodge;
+  opacity: calc(1.2 + (var(--pointer-from-center) / 2) * -1);
+}
+.card[data-rarity='rare holo vmax'][data-trainer-gallery='true'] .card__shine:before,
+.card[data-rarity='rare rainbow alt'] .card__shine:before {
+  background-blend-mode: difference;
+  background-image: var(--foil);
+  background-position: 50%;
+  background-size: var(--imgsize);
+  content: '';
+  filter: brightness(1.5) contrast(1.5);
+  mix-blend-mode: color-dodge;
+  opacity: calc((var(--pointer-from-center) + 0.6) * 0.4);
+}
+.card[data-rarity='rare rainbow alt'] .card__glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    hsla(50, 20%, 90%, 0.75) 0,
+    rgba(61, 92, 77, 0.65) 45%,
+    #000 100%
+  );
+  filter: brightness(0.9) contrast(2);
+  opacity: calc(var(--card-opacity) * 0.75);
+}
+.card:not(.masked)[data-rarity='rare holo vmax'][data-trainer-gallery='true'] .card__shine,
+.card:not(.masked)[data-rarity='rare rainbow alt'] .card__shine {
+  --mask: none;
+  --foil: none;
+  --imgsize: 25% auto;
+}
+.card[data-rarity='rare rainbow'] .card__shine {
+  --r-clr-1: #942929;
+  --r-clr-2: #98752f;
+  --r-clr-3: #598f24;
+  --r-clr-4: #248f8f;
+  --r-clr-5: #248f8f;
+  --r-clr-6: #2b639c;
+  --r-clr-7: #5e247b;
+  background-blend-mode: luminosity, soft-light;
+  background-image: linear-gradient(-45deg, var(--r-clr-1), var(--r-clr-5)), var(--glitter),
+    linear-gradient(
+      -30deg,
+      var(--r-clr-1),
+      var(--r-clr-2),
+      var(--r-clr-3),
+      var(--r-clr-4),
+      var(--r-clr-5),
+      var(--r-clr-6),
+      var(--r-clr-7),
+      var(--r-clr-1),
+      var(--r-clr-2),
+      var(--r-clr-3),
+      var(--r-clr-4),
+      var(--r-clr-5),
+      var(--r-clr-6),
+      var(--r-clr-7),
+      var(--r-clr-1),
+      var(--r-clr-2),
+      var(--r-clr-3),
+      var(--r-clr-4),
+      var(--r-clr-5),
+      var(--r-clr-6),
+      var(--r-clr-7),
+      var(--r-clr-1)
+    );
+  background-position:
+    calc(25% + 50% * var(--pointer-from-left)) calc(25% + 50% * var(--pointer-from-top)),
+    50%,
+    calc(25% + var(--pointer-x) / 2) calc(25% + var(--pointer-y) / 2);
+  background-size:
+    200% 200%,
+    var(--glittersize) var(--glittersize),
+    400% 400%;
+  filter: brightness(calc(var(--pointer-from-center) * 0.25 + 0.6)) contrast(2.2) saturate(0.75);
+}
+.card[data-rarity='rare rainbow'] .card__shine:after {
+  background-blend-mode: soft-light;
+  background-image: var(--glitter),
+    linear-gradient(
+      -60deg,
+      var(--r-clr-1),
+      var(--r-clr-2),
+      var(--r-clr-3),
+      var(--r-clr-4),
+      var(--r-clr-5),
+      var(--r-clr-6),
+      var(--r-clr-7),
+      var(--r-clr-1),
+      var(--r-clr-2),
+      var(--r-clr-3),
+      var(--r-clr-4),
+      var(--r-clr-5),
+      var(--r-clr-6),
+      var(--r-clr-7),
+      var(--r-clr-1),
+      var(--r-clr-2),
+      var(--r-clr-3),
+      var(--r-clr-4),
+      var(--r-clr-5),
+      var(--r-clr-6),
+      var(--r-clr-7),
+      var(--r-clr-1)
+    );
+  background-position:
+    50%,
+    var(--pointer-x) var(--pointer-y);
+  background-size:
+    var(--glittersize) var(--glittersize),
+    400% 400%;
+  content: '';
+  filter: brightness(calc(var(--pointer-from-center) * 0.3 + 0.55)) contrast(2) saturate(1);
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  mix-blend-mode: color-dodge;
+}
+.card[data-rarity='rare rainbow'] .card__shine:before {
+  background-blend-mode: difference;
+  background-image: var(--foil);
+  background-position: 50%;
+  background-size: var(--imgsize);
+  content: '';
+  filter: brightness(2.5) contrast(1);
+  mix-blend-mode: darken;
+  opacity: calc((var(--pointer-from-center) + 0.4) * 0.6);
+}
+.card[data-rarity='rare rainbow'] .card__glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    #ccc,
+    rgba(213, 220, 221, 0.25) 30%,
+    #3c4144 120%
+  );
+  filter: brightness(0.9) contrast(1.75);
+  mix-blend-mode: hard-light;
+  opacity: calc(var(--pointer-from-center) * 0.9);
+}
+.card:not(.masked)[data-rarity='rare rainbow'] .card__shine {
+  --foil: url(https://poke-holo.simey.me/img/illusion-mask.png);
+  --imgsize: 33%;
+}
+.card[data-rarity='rare holo'][data-subtypes^='stage'] .card__glare:after,
+.card[data-rarity='rare holo'][data-subtypes^='stage'] .card__shine {
+  -webkit-clip-path: var(--clip-stage);
+  clip-path: var(--clip-stage);
+}
+.card[data-rarity='rare holo'][data-subtypes^='item'] .card__glare:after,
+.card[data-rarity='rare holo'][data-subtypes^='item'] .card__shine,
+.card[data-rarity='rare holo'][data-subtypes^='supporter'] .card__glare:after,
+.card[data-rarity='rare holo'][data-subtypes^='supporter'] .card__shine {
+  -webkit-clip-path: var(--clip-trainer);
+  clip-path: var(--clip-trainer);
+}
+.card[data-rarity='rare holo'] .card__shine {
+  --scanlines-space: 1px;
+  --scanlines-light: #666;
+  --scanlines-dark: #000;
+  --bars: 3%;
+  --bar-color: #b3b3b3;
+  --bar-bg: #000;
+  background-blend-mode: overlay;
+  background-image: repeating-linear-gradient(
+      110deg,
+      var(--violet),
+      var(--blue),
+      var(--green),
+      var(--yellow),
+      var(--red),
+      var(--violet),
+      var(--blue),
+      var(--green),
+      var(--yellow),
+      var(--red),
+      var(--violet),
+      var(--blue),
+      var(--green),
+      var(--yellow),
+      var(--red)
+    ),
+    repeating-linear-gradient(
+      90deg,
+      var(--scanlines-dark) calc(var(--scanlines-space) * 0),
+      var(--scanlines-dark) calc(var(--scanlines-space) * 2),
+      var(--scanlines-light) calc(var(--scanlines-space) * 2),
+      var(--scanlines-light) calc(var(--scanlines-space) * 4)
+    );
+  background-position:
+    calc((50% - var(--background-x)) * 2.6 + 50%) calc((50% - var(--background-y)) * 3.5 + 50%),
+    50%;
+  background-size:
+    400% 400%,
+    cover;
+  -webkit-clip-path: var(--clip);
+  clip-path: var(--clip);
+  filter: brightness(1.1) contrast(1.1) saturate(1.2);
+  mix-blend-mode: color-dodge;
+}
+.card[data-rarity='rare holo'] .card__shine:before {
+  background-blend-mode: screen;
+  background-image: repeating-linear-gradient(
+      90deg,
+      var(--bar-bg) calc(var(--bars) * 2),
+      var(--bar-color) calc(var(--bars) * 3),
+      var(--bar-bg) calc(var(--bars) * 3.5),
+      var(--bar-color) calc(var(--bars) * 4),
+      var(--bar-bg) calc(var(--bars) * 5),
+      var(--bar-bg) calc(var(--bars) * 14)
+    ),
+    repeating-linear-gradient(
+      90deg,
+      var(--bar-bg) calc(var(--bars) * 2),
+      var(--bar-color) calc(var(--bars) * 3),
+      var(--bar-bg) calc(var(--bars) * 3.5),
+      var(--bar-color) calc(var(--bars) * 4),
+      var(--bar-bg) calc(var(--bars) * 5),
+      var(--bar-bg) calc(var(--bars) * 10)
+    );
+  background-position:
+    calc((50% - var(--background-x)) * 1.65 + 50% + var(--background-y) * 0.5) var(--background-x),
+    calc((50% - var(--background-x)) * -0.9 + 50% - var(--background-y) * 0.75) var(--background-y);
+  background-size:
+    200% 200%,
+    200% 200%;
+  content: '';
+  filter: brightness(1.15) contrast(1.1);
+  mix-blend-mode: hard-light;
+}
+.card[data-rarity='rare holo'] .card__shine:after {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    hsla(0, 0%, 90%, 0.8) 0,
+    hsla(0, 0%, 78%, 0.1) 25%,
+    #000 90%
+  );
+  background-position: 50%;
+  background-size: cover;
+  content: '';
+  filter: brightness(0.6) contrast(4);
+  mix-blend-mode: luminosity;
+}
+@media screen and (max-width: 900px) {
+  .card[data-rarity='rare holo'] .card__shine {
+    --scanlines-space: 0.5px;
+  }
+}
+.card[data-rarity='rare holo'] .card__glare {
+  filter: brightness(0.8) contrast(1.5);
+  mix-blend-mode: overlay;
+  opacity: calc(var(--card-opacity) * 0.8);
+}
+.card[data-rarity='rare holo'] .card__glare:after {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    #e6ffff 5%,
+    rgba(99, 99, 99, 0.25) 55%,
+    rgba(0, 0, 0, 0.36) 110%
+  );
+  content: '';
+  filter: brightness(0.6) contrast(3);
+  mix-blend-mode: overlay;
+}
+.card {
+  --foil-brightness: 0.55;
+}
+.card[data-rarity$='reverse holo'] .card__shine {
+  background-blend-mode: soft-light, difference;
+  background-image: radial-gradient(
+      circle at var(--pointer-x) var(--pointer-y),
+      #fff 5%,
+      #000 50%,
+      #fff 80%
+    ),
+    linear-gradient(-45deg, #000 15%, #fff, #000 85%), var(--foil);
+  background-position:
+    50%,
+    calc(100% * var(--pointer-from-left)) calc(100% * var(--pointer-from-top)),
+    50%;
+  background-size:
+    120% 120%,
+    200% 200%,
+    cover;
+  filter: brightness(var(--foil-brightness)) contrast(1.5) saturate(1);
+  mix-blend-mode: color-dodge;
+  opacity: calc(var(--card-opacity) * 1.5 - var(--pointer-from-center));
+}
+.card.lightning {
+  --foil-brightness: 0.7;
+}
+.card.darkness {
+  --foil-brightness: 0.8;
+}
+.card.metal {
+  --foil-brightness: 0.6;
+}
+.card[data-rarity$='reverse holo'] .card__glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    hsla(0, 0%, 100%, 0.8) 10%,
+    hsla(0, 0%, 100%, 0.5) 20%,
+    rgba(0, 0, 0, 0.75) 90%
+  );
+  filter: brightness(0.7) contrast(1.5);
+  opacity: var(--card-opacity);
+}
+.card[data-rarity$='reverse holo'] .card__glare:after {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    #fff 10%,
+    hsla(0, 0%, 100%, 0.5) 20%,
+    rgba(0, 0, 0, 0.5) 120%
+  );
+  content: '';
+  filter: brightness(1) contrast(1.5);
+  opacity: var(--card-opacity);
+}
+.card:not(.masked)[data-rarity$='reverse holo'] .card__shine {
+  --foil: none;
+  -webkit-clip-path: var(--clip-invert);
+  clip-path: var(--clip-invert);
+}
+.card:not(.masked)[data-rarity$='reverse holo'][data-subtypes^='stage'] .card__glare:after {
+  -webkit-clip-path: var(--clip-stage-invert);
+  clip-path: var(--clip-stage-invert);
+}
+.card:not(.masked)[data-rarity$='reverse holo'][data-supertype='trainer'] .card__glare:after {
+  -webkit-clip-path: var(--clip-trainer-invert);
+  clip-path: var(--clip-trainer-invert);
+}
+.card[data-rarity='rare secret'] .card__shine,
+.card[data-set='swshp'][data-number='swsh145'] .card__shine {
+  --shift: 1px;
+  --imgsize: cover;
+  background-blend-mode: soft-light, hard-light, overlay;
+  background-image: var(--glitter), var(--glitter),
+    conic-gradient(
+      var(--sunpillar-clr-4),
+      var(--sunpillar-clr-5),
+      var(--sunpillar-clr-6),
+      var(--sunpillar-clr-1),
+      var(--sunpillar-clr-4)
+    ),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      rgba(0, 0, 0, 0.98) 10%,
+      hsla(0, 0%, 95%, 0.15) 90%
+    );
+  background-position:
+    45% 45%,
+    55% 55%,
+    50%,
+    50%;
+  background-size:
+    var(--glittersize) var(--glittersize),
+    var(--glittersize) var(--glittersize),
+    cover,
+    cover;
+  filter: brightness(calc(0.4 + var(--pointer-from-center) * 0.2)) contrast(1) saturate(2.7);
+  mix-blend-mode: color-dodge;
+}
+.card[data-rarity='rare secret'] .card__shine:before,
+.card[data-set='swshp'][data-number='swsh145'] .card__shine:before {
+  background-blend-mode: hard-light, multiply;
+  background-image: var(--foil), linear-gradient(45deg, #f9c006, #ffea61),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      hsla(10, 20%, 90%, 0.95) 10%,
+      #000 70%
+    );
+  background-position: 50%, 50%, 50%;
+  background-size: var(--imgsize), cover, cover;
+  content: '';
+  filter: brightness(1.25) contrast(1.25) saturate(0.35);
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  mix-blend-mode: lighten;
+  opacity: 0.8;
+}
+.card[data-rarity='rare secret'] .card__shine:after,
+.card[data-set='swshp'][data-number='swsh145'] .card__shine:after {
+  background-image: var(--glitter);
+  background-position: calc(50% - (var(--shift) * 2) * var(--pointer-from-left) + var(--shift))
+    calc(50% - (var(--shift) * 2) * var(--pointer-from-top) + var(--shift));
+  background-size: var(--glittersize) var(--glittersize);
+  content: '';
+  filter: brightness(calc(var(--pointer-from-center) * 0.6 + 0.6)) contrast(1.5);
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  mix-blend-mode: overlay;
+}
+.card[data-rarity='rare secret'] .card__glare,
+.card[data-set='swshp'][data-number='swsh145'] .card__glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    hsla(45, 8%, 80%, 0.3) 0,
+    #231d1a 180%
+  );
+  filter: brightness(1.3) contrast(1.5);
+  mix-blend-mode: hard-light;
+}
+.card:not(.masked)[data-rarity='rare secret'] .card__shine,
+.card:not(.masked)[data-set='swshp'][data-number='swsh145'] .card__shine {
+  --foil: url(https://poke-holo.simey.me/img/geometric.png);
+  --imgsize: 33%;
+  filter: brightness(calc(var(--pointer-from-center) * 0.3 + 0.2)) contrast(2) saturate(0.75);
+}
+.card[data-rarity='rare shiny'] .card__shine {
+  -webkit-clip-path: var(--clip);
+  clip-path: var(--clip);
+}
+.card[data-rarity='rare shiny'][data-subtypes^='stage'] .card__shine {
+  -webkit-clip-path: var(--clip-stage);
+  clip-path: var(--clip-stage);
+}
+.card[data-rarity='rare shiny'] .card__shine,
+.card[data-rarity='rare shiny'] .card__shine:after {
+  --space: 5%;
+  --angle: 133deg;
+  --imgsize: cover;
+  background-blend-mode: soft-light, hue, hard-light;
+  background-image: var(--foil),
+    repeating-linear-gradient(
+      0deg,
+      var(--sunpillar-clr-1) calc(var(--space) * 1),
+      var(--sunpillar-clr-2) calc(var(--space) * 2),
+      var(--sunpillar-clr-3) calc(var(--space) * 3),
+      var(--sunpillar-clr-4) calc(var(--space) * 4),
+      var(--sunpillar-clr-5) calc(var(--space) * 5),
+      var(--sunpillar-clr-6) calc(var(--space) * 6),
+      var(--sunpillar-clr-1) calc(var(--space) * 7)
+    ),
+    repeating-linear-gradient(
+      var(--angle),
+      #0e152e 0,
+      #8fa3a3 3.8%,
+      #8fc1c1 4.5%,
+      #8fa3a3 5.2%,
+      #0e152e 10%,
+      #0e152e 12%
+    ),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      rgba(0, 0, 0, 0.1) 12%,
+      rgba(0, 0, 0, 0.15) 20%,
+      rgba(0, 0, 0, 0.25) 120%
+    );
+  background-position:
+    50%,
+    0 var(--background-y),
+    calc(var(--background-x) + var(--background-y) * 0.2) var(--background-y),
+    var(--background-x) var(--background-y);
+  background-size:
+    var(--imgsize),
+    200% 700%,
+    300% 100%,
+    200% 100%;
+  filter: brightness(calc(var(--pointer-from-center) * 0.4 + 0.4)) contrast(1.4) saturate(2.25);
+}
+.card[data-rarity='rare shiny'] .card__shine:after {
+  background-position:
+    50%,
+    0 var(--background-y),
+    calc((var(--background-x) + (var(--background-y) * 0.2)) * -1) calc(var(--background-y) * -1),
+    var(--background-x) var(--background-y);
+  background-size:
+    var(--imgsize),
+    200% 400%,
+    195% 100%,
+    200% 100%;
+  content: '';
+  filter: brightness(calc(var(--pointer-from-center) * 0.4 + 0.8)) contrast(1.5) saturate(1.25);
+  mix-blend-mode: exclusion;
+}
+.card[data-rarity='rare shiny'] .card__shine:before {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    #fff 0,
+    transparent 40%
+  );
+  background-position: 50%;
+  background-size: cover;
+  content: '';
+  -webkit-mask-image: none;
+  mask-image: none;
+  mix-blend-mode: overlay;
+  opacity: 0.75;
+  z-index: 1;
+}
+.card[data-rarity='rare shiny'] .card__glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    #fff 0,
+    #282427 150%
+  );
+  background-position: 50%;
+  background-size: cover;
+  filter: brightness(1.2) contrast(1) saturate(0.7);
+  mix-blend-mode: multiply;
+  opacity: calc(var(--card-opacity) * var(--pointer-from-center));
+}
+.card:not(.masked).card[data-rarity='rare shiny'] .card__shine,
+.card:not(.masked).card[data-rarity='rare shiny'] .card__shine:after {
+  --mask: none;
+  --foil: url(https://poke-holo.simey.me/img/illusion.png);
+  --imgsize: 33%;
+  background-blend-mode: exclusion, hue, hard-light;
+  filter: brightness(calc(var(--pointer-from-center) * 0.3 + 0.35)) contrast(2) saturate(1.5);
+  -webkit-mask-image: var(--mask);
+  mask-image: var(--mask);
+  -webkit-mask-size: var(--imgsize);
+  mask-size: var(--imgsize);
+}
+.card:not(.masked).card[data-rarity*='rare shiny'] .card__shine:after {
+  filter: brightness(calc(var(--pointer-from-center) * 0.4 + 0.5)) contrast(1.4) saturate(1.2);
+  mix-blend-mode: difference;
+}
+.card[data-rarity='rare shiny v'] .card__shine,
+.card[data-rarity='rare shiny v'] .card__shine:after {
+  --space: 5%;
+  --angle: 133deg;
+  --imgsize: cover;
+  background-blend-mode: soft-light, hue, hard-light;
+  background-image: var(--foil),
+    repeating-linear-gradient(
+      0deg,
+      var(--sunpillar-clr-1) calc(var(--space) * 1),
+      var(--sunpillar-clr-2) calc(var(--space) * 2),
+      var(--sunpillar-clr-3) calc(var(--space) * 3),
+      var(--sunpillar-clr-4) calc(var(--space) * 4),
+      var(--sunpillar-clr-5) calc(var(--space) * 5),
+      var(--sunpillar-clr-6) calc(var(--space) * 6),
+      var(--sunpillar-clr-1) calc(var(--space) * 7)
+    ),
+    repeating-linear-gradient(
+      var(--angle),
+      #0e152e 0,
+      #8fa3a3 3.8%,
+      #8fc1c1 4.5%,
+      #8fa3a3 5.2%,
+      #0e152e 10%,
+      #0e152e 12%
+    ),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      rgba(0, 0, 0, 0.1) 12%,
+      rgba(0, 0, 0, 0.15) 20%,
+      rgba(0, 0, 0, 0.25) 120%
+    );
+  background-position:
+    50%,
+    0 var(--background-y),
+    calc(var(--background-x) + var(--background-y) * 0.2) var(--background-y),
+    var(--background-x) var(--background-y);
+  background-size:
+    var(--imgsize),
+    200% 700%,
+    300% 100%,
+    200% 100%;
+  filter: brightness(calc(var(--pointer-from-center) * 0.4 + 0.4)) contrast(1.4) saturate(2.25);
+}
+.card[data-rarity='rare shiny v'] .card__shine:after {
+  background-position:
+    50%,
+    0 var(--background-y),
+    calc((var(--background-x) + (var(--background-y) * 0.2)) * -1) calc(var(--background-y) * -1),
+    var(--background-x) var(--background-y);
+  background-size:
+    var(--imgsize),
+    200% 400%,
+    195% 100%,
+    200% 100%;
+  content: '';
+  filter: brightness(calc(var(--pointer-from-center) * 0.4 + 0.8)) contrast(1.5) saturate(1.25);
+  mix-blend-mode: exclusion;
+}
+.card[data-rarity='rare shiny v'] .card__shine:before {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    #fff 0,
+    transparent 40%
+  );
+  background-position: 50%;
+  background-size: cover;
+  content: '';
+  -webkit-mask-image: none;
+  mask-image: none;
+  mix-blend-mode: overlay;
+  opacity: 0.75;
+  z-index: 1;
+}
+.card[data-rarity='rare shiny v'] .card__glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    #e6e6e6 5%,
+    #6d7578 80%,
+    #240f1d 150%
+  );
+  background-position: 50%;
+  background-size: 120% 140%;
+  filter: brightness(0.88) contrast(2.25) saturate(0.7);
+  mix-blend-mode: darken;
+  opacity: calc(var(--card-opacity) * var(--pointer-from-center) * 0.75);
+}
+.card:not(.masked)[data-rarity='rare shiny v'] .card__shine,
+.card:not(.masked)[data-rarity='rare shiny v'] .card__shine:after {
+  --mask: none;
+  --foil: url(https://poke-holo.simey.me/img/illusion.png);
+  --imgsize: 33%;
+  background-blend-mode: exclusion, hue, hard-light;
+  filter: brightness(calc(var(--pointer-from-center) * 0.3 + 0.35)) contrast(2) saturate(1.5);
+  -webkit-mask-image: var(--mask);
+  mask-image: var(--mask);
+  -webkit-mask-size: var(--imgsize);
+  mask-size: var(--imgsize);
+}
+.card:not(.masked)[data-rarity='rare shiny v'] .card__shine:before {
+  content: none;
+  display: none;
+}
+.card:not(.masked)[data-rarity='rare shiny v'] .card__shine:after {
+  filter: brightness(calc(var(--pointer-from-center) * 0.5 + 0.8)) contrast(1.6) saturate(1.4);
+}
+.card[data-rarity='rare shiny vmax'] .card__shine {
+  --imgsize: cover;
+  --angle: -30deg;
+  --r-clr-1: #942929;
+  --r-clr-2: #98752f;
+  --r-clr-3: #598f24;
+  --r-clr-4: #248f8f;
+  --r-clr-5: #248f8f;
+  --r-clr-6: #2b639c;
+  --r-clr-7: #5e247b;
+  background-blend-mode: soft-light, overlay, color-burn;
+  background-image: var(--glitter), var(--glitter),
+    linear-gradient(
+      var(--angle),
+      var(--r-clr-1),
+      var(--r-clr-2),
+      var(--r-clr-3),
+      var(--r-clr-4),
+      var(--r-clr-5),
+      var(--r-clr-6),
+      var(--r-clr-7),
+      var(--r-clr-1),
+      var(--r-clr-2),
+      var(--r-clr-3),
+      var(--r-clr-4),
+      var(--r-clr-5),
+      var(--r-clr-6),
+      var(--r-clr-7),
+      var(--r-clr-1),
+      var(--r-clr-2),
+      var(--r-clr-3),
+      var(--r-clr-4),
+      var(--r-clr-5),
+      var(--r-clr-6),
+      var(--r-clr-7),
+      var(--r-clr-1)
+    ),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      #19181b 10%,
+      hsla(206, 5%, 80%, 0.1) 50%,
+      hsla(0, 0%, 95%, 0.98) 90%
+    );
+  background-position:
+    40% 45%,
+    55% 55%,
+    calc(var(--background-x) * 1.5) calc(var(--background-y) * 1.5),
+    50%;
+  background-size:
+    var(--glittersize) var(--glittersize),
+    var(--glittersize) var(--glittersize),
+    400% 400%,
+    cover;
+  filter: brightness(1) contrast(1) saturate(0.85);
+}
+.card[data-rarity='rare shiny vmax'] .card__shine:before {
+  background-blend-mode: color-burn;
+  background-image: var(--foil),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      hsla(248, 5%, 91%, 0.95) 10%,
+      hsla(206, 5%, 68%, 0.5) 50%,
+      #000 120%
+    );
+  background-position: 50%, 50%;
+  background-size: var(--imgsize), cover;
+  content: '';
+  filter: brightness(1) contrast(1) saturate(0.4);
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  mix-blend-mode: lighten;
+  opacity: 0.35;
+}
+.card[data-rarity='rare shiny vmax'] .card__shine:after {
+  background-image: repeating-linear-gradient(
+    calc(var(--angle)),
+    var(--sunpillar-clr-1) calc(var(--space) * 1),
+    var(--sunpillar-clr-2) calc(var(--space) * 2),
+    var(--sunpillar-clr-3) calc(var(--space) * 3),
+    var(--sunpillar-clr-4) calc(var(--space) * 4),
+    var(--sunpillar-clr-5) calc(var(--space) * 5),
+    var(--sunpillar-clr-6) calc(var(--space) * 6),
+    var(--sunpillar-clr-1) calc(var(--space) * 7)
+  );
+  background-position: calc(200% - var(--background-x) * 3) calc(200% - var(--background-y) * 3);
+  background-size: 400% 800%;
+  content: '';
+  filter: brightness(calc(0.75 - var(--pointer-from-center) * 0.5)) contrast(1) saturate(1);
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  mix-blend-mode: hue;
+}
+.card[data-rarity='rare shiny vmax'] .card__glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    hsla(248, 5%, 90%, 0.45) 0,
+    rgba(73, 77, 80, 0.45) 45%,
+    rgba(0, 0, 0, 0.33) 120%
+  );
+  filter: brightness(1) contrast(1.25);
+}
+.card[data-rarity='rare shiny vmax'] .card__glare:after {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    hsla(248, 5%, 90%, 0.75) 0,
+    rgba(73, 77, 80, 0.65) 45%,
+    rgba(0, 0, 0, 0.75) 100%
+  );
+  content: '';
+  filter: brightness(1) contrast(1.25);
+  -webkit-mask-image: var(--mask);
+  mask-image: var(--mask);
+  -webkit-mask-size: cover;
+  mask-size: cover;
+  mix-blend-mode: overlay;
+  opacity: 1;
+}
+.card[data-rarity='rare secret'][data-set='swsh12pt5'][data-number='160'] .card__shine {
+  --r-clr-1: #942929;
+  --r-clr-2: #98752f;
+  --r-clr-3: #598f24;
+  --r-clr-4: #248f8f;
+  --r-clr-5: #248f8f;
+  --r-clr-6: #2b639c;
+  --r-clr-7: #5e247b;
+  background-blend-mode: luminosity, soft-light;
+  background-image: linear-gradient(-45deg, var(--r-clr-1), var(--r-clr-5)), var(--glitter),
+    linear-gradient(
+      -30deg,
+      var(--r-clr-1),
+      var(--r-clr-2),
+      var(--r-clr-3),
+      var(--r-clr-4),
+      var(--r-clr-5),
+      var(--r-clr-6),
+      var(--r-clr-7),
+      var(--r-clr-1),
+      var(--r-clr-2),
+      var(--r-clr-3),
+      var(--r-clr-4),
+      var(--r-clr-5),
+      var(--r-clr-6),
+      var(--r-clr-7),
+      var(--r-clr-1),
+      var(--r-clr-2),
+      var(--r-clr-3),
+      var(--r-clr-4),
+      var(--r-clr-5),
+      var(--r-clr-6),
+      var(--r-clr-7),
+      var(--r-clr-1)
+    );
+  background-position:
+    calc(25% + 50% * var(--pointer-from-left)) calc(25% + 50% * var(--pointer-from-top)),
+    calc(50% - (var(--shift) * 2) * var(--pointer-from-left) + var(--shift))
+      calc(50% - (var(--shift) * 2) * var(--pointer-from-top) + var(--shift)),
+    calc(25% + var(--pointer-x) / 2) calc(25% + var(--pointer-y) / 2);
+  background-size:
+    200% 200%,
+    var(--glittersize) var(--glittersize),
+    400% 400%;
+  filter: brightness(calc(var(--pointer-from-center) * 0.5 + 0.75)) contrast(2) saturate(1);
+}
+.card[data-rarity='rare secret'][data-set='swsh12pt5'][data-number='160'] .card__shine:after {
+  background-blend-mode: soft-light;
+  background-image: var(--glitter),
+    linear-gradient(
+      -60deg,
+      var(--r-clr-1),
+      var(--r-clr-2),
+      var(--r-clr-3),
+      var(--r-clr-4),
+      var(--r-clr-5),
+      var(--r-clr-6),
+      var(--r-clr-7),
+      var(--r-clr-1),
+      var(--r-clr-2),
+      var(--r-clr-3),
+      var(--r-clr-4),
+      var(--r-clr-5),
+      var(--r-clr-6),
+      var(--r-clr-7),
+      var(--r-clr-1),
+      var(--r-clr-2),
+      var(--r-clr-3),
+      var(--r-clr-4),
+      var(--r-clr-5),
+      var(--r-clr-6),
+      var(--r-clr-7),
+      var(--r-clr-1)
+    );
+  background-position:
+    calc(50% - (var(--shift) * 2) * var(--pointer-from-left) - var(--shift))
+      calc(50% - (var(--shift) * 2) * var(--pointer-from-top) - var(--shift)),
+    var(--pointer-x) var(--pointer-y);
+  background-size:
+    var(--glittersize) var(--glittersize),
+    400% 400%;
+  content: '';
+  filter: brightness(calc(var(--pointer-from-center) * 0.35 + 0.35)) contrast(2) saturate(1);
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  mix-blend-mode: exclusion;
+}
+.card[data-rarity='rare secret'][data-set='swsh12pt5'][data-number='160'] .card__shine:before {
+  background-image: var(--foil);
+  background-position: 50%;
+  background-size: var(--imgsize);
+  content: '';
+  filter: brightness(2.5) contrast(1);
+  mix-blend-mode: multiply;
+  opacity: calc((var(--pointer-from-center) + 0.4) * 0.6);
+}
+.card[data-rarity='rare secret'][data-set='swsh12pt5'][data-number='160'] .card__glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    #ccc,
+    hsla(0, 0%, 75%, 0.25) 30%,
+    #373737 130%
+  );
+  filter: brightness(0.9) contrast(2);
+  mix-blend-mode: hard-light;
+  opacity: calc(var(--pointer-from-center) * 0.9);
+}
+.card:not(.masked)[data-rarity='rare secret'][data-set='swsh12pt5'][data-number='160']
+  .card__shine {
+  --foil: url(https://poke-holo.simey.me/img/illusion-mask.png);
+  --imgsize: 33%;
+}
+.card[data-subtypes*='supporter'][data-rarity='rare ultra'] .card__shine {
+  filter: brightness(calc(var(--pointer-from-center) * 0.05 + 0.8)) contrast(1.75) saturate(1.2);
+}
+.card[data-subtypes*='supporter'][data-rarity='rare ultra'] .card__shine:after {
+  filter: brightness(calc(var(--pointer-from-center) * 0.4 + 0.85)) contrast(2) saturate(0.5);
+}
+.card[data-subtypes*='supporter'][data-rarity='rare ultra'] .card__shine:before {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    #fff 0,
+    transparent 80%
+  );
+  mix-blend-mode: screen;
+  opacity: 0.5;
+}
+.card[data-rarity='rare ultra'][data-subtypes*='supporter'] .card__glare {
+  background-size: 170% 170%;
+  filter: brightness(1.5) contrast(1.4) saturate(1);
+  mix-blend-mode: multiply;
+  opacity: calc(var(--card-opacity) * 0.75);
+}
+.card:not(.masked)[data-subtypes*='supporter'][data-rarity='rare ultra'] .card__shine,
+.card:not(.masked)[data-subtypes*='supporter'][data-rarity='rare ultra'] .card__shine:after {
+  --mask: none;
+  --foil: url(https://poke-holo.simey.me/img/trainerbg.png);
+  --imgsize: 20%;
+  background-blend-mode: color-burn, hue, hard-light;
+  filter: brightness(calc(var(--pointer-from-center) * 0.05 + 0.6)) contrast(1.5) saturate(1.2);
+}
+.card[data-rarity='rare holo'][data-trainer-gallery='true'] .card__shine,
+.card[data-rarity='trainer gallery rare holo'] .card__shine,
+.card[data-set='swshp'][data-number='swsh020'] .card__shine {
+  --space: 5%;
+  --angle: -22deg;
+  --imgsize: 300% 400%;
+  background-blend-mode: color-dodge;
+  background-image: repeating-linear-gradient(
+    var(--angle),
+    rgba(175, 103, 203, 0.75) calc(var(--space) * 1),
+    rgba(228, 78, 73, 0.75) calc(var(--space) * 2),
+    rgba(215, 197, 55, 0.75) calc(var(--space) * 3),
+    rgba(126, 201, 64, 0.75) calc(var(--space) * 4),
+    rgba(79, 176, 169, 0.75) calc(var(--space) * 5),
+    rgba(138, 161, 255, 0.75) calc(var(--space) * 6),
+    rgba(177, 107, 204, 0.75) calc(var(--space) * 7)
+  );
+  background-position:
+    0 calc(var(--background-y) * 1),
+    var(--background-x) var(--background-y);
+  background-size: var(--imgsize);
+  -webkit-clip-path: var(--clip-borders);
+  clip-path: var(--clip-borders);
+  filter: brightness(calc(var(--pointer-from-center) * 0.3 + 0.5)) contrast(2.3) saturate(1);
+}
+.card[data-rarity='rare holo'][data-trainer-gallery='true'] .card__shine:after,
+.card[data-rarity='trainer gallery rare holo'] .card__shine:after,
+.card[data-set='swshp'][data-number='swsh020'] .card__shine:after {
+  background-image: radial-gradient(
+    farthest-corner ellipse at calc((var(--pointer-x)) * 0.5 + 25%)
+      calc((var(--pointer-y)) * 0.5 + 25%),
+    #fff 5%,
+    rgba(56, 0, 56, 0.6) 40%,
+    #383838 120%
+  );
+  background-position: 50%;
+  background-size: 400% 500%;
+  content: '';
+  filter: brightness(calc(var(--pointer-from-center) * 0.2 + 0.4)) contrast(0.85) saturate(1.1);
+  mix-blend-mode: hard-light;
+}
+.card[data-rarity='rare holo'][data-trainer-gallery='true'] .card__shine:before,
+.card[data-rarity='trainer gallery rare holo'] .card__shine:before,
+.card[data-set='swshp'][data-number='swsh020'] .card__shine:before {
+  content: none;
+  display: none;
+}
+.card[data-rarity='rare holo'][data-trainer-gallery='true'] .card__glare,
+.card[data-rarity='trainer gallery rare holo'] .card__glare,
+.card[data-set='swshp'][data-number='swsh020'] .card__glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    #fff 10%,
+    hsla(0, 0%, 100%, 0.6) 35%,
+    #4f6363 60%
+  );
+  mix-blend-mode: soft-light;
+}
+.card[data-rarity='rare holo'][data-trainer-gallery='true'] .card__glare:after,
+.card[data-rarity='rare holo'][data-trainer-gallery='true'] .card__glare:before,
+.card[data-rarity='trainer gallery rare holo'] .card__glare:after,
+.card[data-rarity='trainer gallery rare holo'] .card__glare:before {
+  content: none;
+  display: none;
+}
+.card:not(.masked)[data-rarity='rare secret'][data-trainer-gallery='true'] .card__shine {
+  --foil: url(https://poke-holo.simey.me/img/geometric.png);
+  --imgsize: 33%;
+  filter: brightness(calc(var(--pointer-from-center) * 0.3 + 0.2)) contrast(2) saturate(0.75);
+}
+.card:not(.masked)[data-rarity='rare secret'][data-trainer-gallery='true'] .card__glare {
+  filter: brightness(0.5) contrast(1);
+}
+.card[data-rarity='rare secret'][data-trainer-gallery='true'] .card__shine,
+.card[data-rarity='rare secret'][data-trainer-gallery='true'] .card__shine:after,
+.card[data-rarity='rare secret'][data-trainer-gallery='true'] .card__shine:before {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+}
+.card[data-rarity='rare secret'][data-trainer-gallery='true'] .card__shine {
+  background-blend-mode: soft-light, darken, color;
+  background-image: var(--glitter), var(--glitter),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      #141f1a 10%,
+      rgba(193, 215, 214, 0.1) 50%,
+      hsla(0, 0%, 95%, 0.98) 90%
+    ),
+    linear-gradient(45deg, #f9c006, #ffea61);
+  background-position:
+    40% 45%,
+    55% 55%,
+    50%,
+    50%;
+  background-size:
+    var(--glittersize) var(--glittersize),
+    var(--glittersize) var(--glittersize),
+    cover,
+    cover;
+  filter: brightness(1) contrast(1) saturate(1);
+  mix-blend-mode: color-dodge;
+}
+.card[data-rarity='rare secret'][data-trainer-gallery='true'] .card__shine:before {
+  background-blend-mode: color-burn;
+  background-image: var(--foil),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      hsla(50, 20%, 90%, 0.95) 10%,
+      rgba(181, 140, 165, 0.5) 50%,
+      #000 90%
+    );
+  background-position: 50%, 50%;
+  background-size: var(--imgsize), cover;
+  content: '';
+  filter: brightness(1) contrast(1) saturate(1);
+  mix-blend-mode: exclusion;
+  opacity: 1;
+}
+.card[data-rarity='rare secret'][data-trainer-gallery='true'] .card__shine:after {
+  background-blend-mode: luminosity;
+  background-image: var(--glitter),
+    conic-gradient(
+      var(--sunpillar-clr-4),
+      var(--sunpillar-clr-5),
+      var(--sunpillar-clr-6),
+      var(--sunpillar-clr-1),
+      var(--sunpillar-clr-2),
+      var(--sunpillar-clr-3),
+      var(--sunpillar-clr-4)
+    );
+  background-size:
+    var(--glittersize) var(--glittersize),
+    cover;
+  content: '';
+  filter: brightness(calc(var(--pointer-from-center) * 0.5 + 0.6)) contrast(2) saturate(3);
+  mix-blend-mode: soft-light;
+}
+.card[data-rarity='rare secret'][data-trainer-gallery='true'] .card__glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    rgba(255, 247, 230, 0.2) 10%,
+    #0f0e0a 180%
+  );
+  filter: brightness(1) contrast(1);
+  mix-blend-mode: hard-light;
+}
+.card[data-rarity='rare holo vmax'][data-trainer-gallery='true'] .card__glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    #edebde 0,
+    #616b68,
+    #000 120%
+  );
+  filter: brightness(1) contrast(1);
+  opacity: calc(var(--card-opacity) * var(--pointer-from-center) * 0.85);
+}
+.card[data-rarity='rare holo v'][data-trainer-gallery='true'] .card__glare {
+  opacity: calc(var(--card-opacity) * 0.4);
+}
+.card[data-rarity='rare holo v'][data-trainer-gallery='true'] .card__shine,
+.card[data-rarity='rare holo v'][data-trainer-gallery='true'] .card__shine:after,
+.card[data-rarity='rare ultra'][data-subtypes*='supporter'] .card__shine,
+.card[data-rarity='rare ultra'][data-subtypes*='supporter'] .card__shine:after,
+.card[data-rarity='rare ultra'][data-supertype='pok\E9mon'] .card__shine,
+.card[data-rarity='rare ultra'][data-supertype='pok\E9mon'] .card__shine:after {
+  --space: 5%;
+  --angle: 133deg;
+  --imgsize: cover;
+  background-blend-mode: soft-light, hue, hard-light;
+  background-image: var(--foil),
+    repeating-linear-gradient(
+      0deg,
+      var(--sunpillar-clr-1) calc(var(--space) * 1),
+      var(--sunpillar-clr-2) calc(var(--space) * 2),
+      var(--sunpillar-clr-3) calc(var(--space) * 3),
+      var(--sunpillar-clr-4) calc(var(--space) * 4),
+      var(--sunpillar-clr-5) calc(var(--space) * 5),
+      var(--sunpillar-clr-6) calc(var(--space) * 6),
+      var(--sunpillar-clr-1) calc(var(--space) * 7)
+    ),
+    repeating-linear-gradient(
+      var(--angle),
+      #0e152e 0,
+      #8fa3a3 3.8%,
+      #8fc1c1 4.5%,
+      #8fa3a3 5.2%,
+      #0e152e 10%,
+      #0e152e 12%
+    ),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      rgba(0, 0, 0, 0.1) 12%,
+      rgba(0, 0, 0, 0.15) 20%,
+      rgba(0, 0, 0, 0.25) 120%
+    );
+  background-position:
+    50%,
+    0 var(--background-y),
+    calc(var(--background-x) + var(--background-y) * 0.2) var(--background-y),
+    var(--background-x) var(--background-y);
+  background-size:
+    var(--imgsize),
+    200% 700%,
+    300% 100%,
+    200% 100%;
+  filter: brightness(calc(var(--pointer-from-center) * 0.4 + 0.4)) contrast(1.4) saturate(2.25);
+}
+.card[data-subtypes*='supporter'][data-rarity='rare ultra'] .card__shine:after,
+.card[data-supertype='pok\E9mon'][data-rarity='rare ultra'] .card__shine:after,
+.card[data-trainer-gallery='true'][data-rarity='rare holo v'] .card__shine:after {
+  background-position:
+    50%,
+    0 var(--background-y),
+    calc((var(--background-x) + (var(--background-y) * 0.2)) * -1) calc(var(--background-y) * -1),
+    var(--background-x) var(--background-y);
+  background-size:
+    var(--imgsize),
+    200% 400%,
+    195% 100%,
+    200% 100%;
+  content: '';
+  filter: brightness(calc(var(--pointer-from-center) * 0.4 + 0.8)) contrast(1.5) saturate(1.25);
+  mix-blend-mode: exclusion;
+}
+.card[data-subtypes*='supporter'][data-rarity='rare ultra'] .card__shine:before,
+.card[data-supertype='pok\E9mon'][data-rarity='rare ultra'] .card__shine:before {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    #fff 0,
+    transparent 40%
+  );
+  background-position: 50%;
+  background-size: cover;
+  content: '';
+  -webkit-mask-image: none;
+  mask-image: none;
+  mix-blend-mode: overlay;
+  opacity: 0.75;
+  z-index: 1;
+}
+.card[data-subtypes*='supporter'][data-rarity='rare ultra'] .card__glare,
+.card[data-supertype='pok\E9mon'][data-rarity='rare ultra'] .card__glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    #bfbfbf 5%,
+    #555b5e 60%,
+    #240f1d 150%
+  );
+  background-position: 50%;
+  background-size: 120% 150%;
+  filter: brightness(1) contrast(1.2) saturate(1);
+  mix-blend-mode: hard-light;
+  opacity: calc(var(--card-opacity) * 0.75);
+}
+.card:not(.masked)[data-supertype='pok\E9mon'][data-rarity='rare ultra'] .card__shine,
+.card:not(.masked)[data-supertype='pok\E9mon'][data-rarity='rare ultra'] .card__shine:after,
+.card:not(.masked)[data-trainer-gallery='true'][data-rarity='rare holo v'] .card__shine,
+.card:not(.masked)[data-trainer-gallery='true'][data-rarity='rare holo v'] .card__shine:after {
+  --mask: none;
+  --foil: url(https://poke-holo.simey.me/img/illusion.png);
+  --imgsize: 33%;
+  background-blend-mode: exclusion, hue, hard-light;
+  filter: brightness(calc(var(--pointer-from-center) * 0.3 + 0.35)) contrast(2) saturate(1.5);
+  -webkit-mask-image: var(--mask);
+  mask-image: var(--mask);
+  -webkit-mask-size: var(--imgsize);
+  mask-size: var(--imgsize);
+}
+.card:not(.masked)[data-supertype='pok\E9mon'][data-rarity='rare ultra'] .card__shine:before,
+.card:not(.masked)[data-trainer-gallery='true'][data-rarity='rare holo v'] .card__shine:before {
+  content: none;
+  display: none;
+}
+.card:not(.masked)[data-supertype='pok\E9mon'][data-rarity='rare ultra'] .card__shine:after,
+.card:not(.masked)[data-trainer-gallery='true'][data-rarity='rare holo v'] .card__shine:after {
+  filter: brightness(calc(var(--pointer-from-center) * 0.5 + 0.8)) contrast(1.6) saturate(1.4);
+}
+.card:not(.masked)[data-rarity='rare holo vmax'][data-supertype='pok\E9mon'] .card__shine,
+.card:not(.masked)[data-rarity='rare holo vmax'][data-supertype='pok\E9mon'] .card__shine:after {
+  --mask: none;
+  --foil: url(https://poke-holo.simey.me/img/vmaxbg.jpg);
+  --imgsize: 60% 30%;
+}
+.card[data-rarity='rare holo vmax'] .card__shine {
+  --space: 6%;
+  --angle: 133deg;
+  --imgsize: cover;
+  background-blend-mode: difference, luminosity, soft-light;
+  background-image: var(--foil),
+    repeating-linear-gradient(
+      -33deg,
+      #cc2a24 calc(var(--space) * 1),
+      #6c82da calc(var(--space) * 2),
+      #2d9a93 calc(var(--space) * 3),
+      #1d9623 calc(var(--space) * 4),
+      #b53fe4 calc(var(--space) * 5),
+      #cc2a24 calc(var(--space) * 6)
+    ),
+    repeating-linear-gradient(
+      var(--angle),
+      rgba(14, 21, 47, 0.5) 0,
+      #738c8c 2.5%,
+      #64862d 5%,
+      #738c8c 7.5%,
+      rgba(14, 21, 47, 0.5) 10%,
+      rgba(14, 21, 47, 0.5) 15%
+    ),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      rgba(152, 228, 241, 0.6) 0,
+      rgba(162, 231, 193, 0.6) 25%,
+      rgba(177, 132, 219, 0.6) 50%,
+      rgba(224, 144, 150, 0.6) 75%
+    );
+  background-position:
+    50%,
+    var(--background-x) var(--background-y),
+    var(--background-x) var(--background-y),
+    var(--background-x) var(--background-y);
+  background-size:
+    var(--imgsize),
+    1100% 1100%,
+    600% 600%,
+    200% 200%;
+  filter: brightness(calc(var(--pointer-from-center) * 0.4 + 0.4)) contrast(2) saturate(1);
+}
+.card[data-rarity='rare holo vmax'] .card__shine:after {
+  background-blend-mode: hue, hard-light;
+  background-image: repeating-linear-gradient(
+      0deg,
+      var(--sunpillar-clr-1) calc(var(--space) * 1),
+      var(--sunpillar-clr-2) calc(var(--space) * 2),
+      var(--sunpillar-clr-3) calc(var(--space) * 3),
+      var(--sunpillar-clr-4) calc(var(--space) * 4),
+      var(--sunpillar-clr-5) calc(var(--space) * 5),
+      var(--sunpillar-clr-6) calc(var(--space) * 6),
+      var(--sunpillar-clr-1) calc(var(--space) * 7)
+    ),
+    repeating-linear-gradient(
+      var(--angle),
+      #0e152e 0,
+      #8fa3a3 3.8%,
+      #8fc1c1 4.5%,
+      #8fa3a3 5.2%,
+      #0e152e 10%,
+      #0e152e 12%
+    );
+  background-position:
+    0 var(--background-y),
+    var(--background-x) var(--background-y),
+    var(--background-x) var(--background-y);
+  background-size:
+    200% 700%,
+    300% 100%,
+    200% 100%;
+  content: '';
+  filter: saturate(1.5);
+  mix-blend-mode: lighten;
+  opacity: calc(var(--card-opacity) * 0.3 + var(--card-opacity) * var(--pointer-from-center) * 0.5);
+}
+.card[data-rarity='rare holo vmax'] .card__glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    hsla(0, 0%, 100%, 0.75) 0,
+    #000 120%
+  );
+  filter: brightness(1) contrast(1);
+  mix-blend-mode: hard-light;
+  opacity: calc(var(--card-opacity) * 0.2 + var(--card-opacity) * var(--pointer-from-center) * 0.8);
+}
+.card:not(.masked) [data-rarity='rare holo vmax'] .card__shine {
+  filter: brightness(calc(var(--pointer-from-center) * 0.4 + 0.4)) contrast(2) saturate(1);
+}
+.card[data-rarity='rare holo v']:not(.masked) .card__shine,
+.card[data-subtypes='v-union']:not(.masked) .card__shine {
+  filter: brightness(0.7) contrast(2) saturate(0.5);
+}
+.card[data-rarity='rare holo v'] .card__shine,
+.card[data-rarity='rare holo v'] .card__shine:after,
+.card[data-subtypes='v-union'] .card__shine,
+.card[data-subtypes='v-union'] .card__shine:after {
+  --space: 5%;
+  --angle: 133deg;
+  --imgsize: 500px;
+  background-blend-mode: screen, hue, hard-light;
+  background-image: var(--grain),
+    repeating-linear-gradient(
+      0deg,
+      var(--sunpillar-clr-1) calc(var(--space) * 1),
+      var(--sunpillar-clr-2) calc(var(--space) * 2),
+      var(--sunpillar-clr-3) calc(var(--space) * 3),
+      var(--sunpillar-clr-4) calc(var(--space) * 4),
+      var(--sunpillar-clr-5) calc(var(--space) * 5),
+      var(--sunpillar-clr-6) calc(var(--space) * 6),
+      var(--sunpillar-clr-1) calc(var(--space) * 7)
+    ),
+    repeating-linear-gradient(
+      var(--angle),
+      #0e152e 0,
+      #8fa3a3 3.8%,
+      #8fc1c1 4.5%,
+      #8fa3a3 5.2%,
+      #0e152e 10%,
+      #0e152e 12%
+    ),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      rgba(0, 0, 0, 0.1) 12%,
+      rgba(0, 0, 0, 0.15) 20%,
+      rgba(0, 0, 0, 0.25) 120%
+    );
+  background-position:
+    50%,
+    0 var(--background-y),
+    var(--background-x) var(--background-y),
+    var(--background-x) var(--background-y);
+  background-size:
+    var(--imgsize) 100%,
+    200% 700%,
+    300% 100%,
+    200% 100%;
+  filter: brightness(0.8) contrast(2.95) saturate(0.65);
+}
+.card[data-rarity='rare holo v'] .card__shine:after,
+.card[data-subtypes='v-union'] .card__shine:after {
+  background-position:
+    50%,
+    0 var(--background-y),
+    calc(var(--background-x) * -1) calc(var(--background-y) * -1),
+    var(--background-x) var(--background-y);
+  background-size:
+    var(--imgsize) 100%,
+    200% 400%,
+    195% 100%,
+    200% 100%;
+  content: '';
+  filter: brightness(1) contrast(2.5) saturate(1.75);
+  mix-blend-mode: soft-light;
+}
+.card[data-rarity='rare holo v'] .card__glare,
+.card[data-subtypes='v-union'] .card__glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    #fff 0,
+    hsla(210, 3%, 54%, 0.33) 45%,
+    rgba(51, 51, 51, 0.9) 130%
+  );
+  filter: brightness(0.9) contrast(1.75);
+  mix-blend-mode: hard-light;
+  opacity: calc(var(--card-opacity) * 0.5);
+}
+.card.masked[data-rarity='rare holo vstar'] .card__shine,
+.card.masked[data-rarity='rare holo vstar'] .card__shine:after,
+.card.masked[data-rarity='rare holo vstar'] .card__shine:before {
+  -webkit-mask-image: var(--mask),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      hsla(0, 0%, 100%, 0) 0,
+      hsla(0, 0%, 100%, 0.5) 120%
+    );
+  mask-image: var(--mask),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      hsla(0, 0%, 100%, 0) 0,
+      hsla(0, 0%, 100%, 0.5) 120%
+    );
+}
+.card[data-rarity='rare holo vstar'] .card__shine,
+.card[data-rarity='rare holo vstar'] .card__shine:after {
+  --space: 5%;
+  --angle: 133deg;
+  --imgsize: cover;
+  background-blend-mode: soft-light, hue, hard-light;
+  background-image: var(--foil),
+    repeating-linear-gradient(
+      0deg,
+      var(--sunpillar-clr-1) calc(var(--space) * 1),
+      var(--sunpillar-clr-2) calc(var(--space) * 2),
+      var(--sunpillar-clr-3) calc(var(--space) * 3),
+      var(--sunpillar-clr-4) calc(var(--space) * 4),
+      var(--sunpillar-clr-5) calc(var(--space) * 5),
+      var(--sunpillar-clr-6) calc(var(--space) * 6),
+      var(--sunpillar-clr-1) calc(var(--space) * 7)
+    ),
+    repeating-linear-gradient(
+      var(--angle),
+      #0e152e 0,
+      #8fa3a3 3.8%,
+      #8fc1c1 4.5%,
+      #8fa3a3 5.2%,
+      #0e152e 10%,
+      #0e152e 12%
+    ),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      rgba(0, 0, 0, 0.1) 12%,
+      rgba(0, 0, 0, 0.15) 20%,
+      rgba(0, 0, 0, 0.25) 120%
+    );
+  background-position:
+    50%,
+    0 var(--background-y),
+    var(--background-x) var(--background-y),
+    var(--background-x) var(--background-y);
+  background-size:
+    var(--imgsize),
+    200% 700%,
+    300% 100%,
+    200% 100%;
+  filter: brightness(calc(var(--pointer-from-center) * 0.75 + 0.25)) contrast(2) saturate(1.25);
+}
+.card[data-rarity='rare holo vstar'] .card__shine:after {
+  background-position:
+    50%,
+    0 var(--background-y),
+    calc(var(--background-x) * -1) calc(var(--background-y) * -1),
+    var(--background-x) var(--background-y);
+  background-size:
+    var(--imgsize),
+    200% 400%,
+    195% 100%,
+    200% 100%;
+  content: '';
+  filter: brightness(calc(var(--pointer-from-center) * 0.75 + 0.5)) contrast(1.5) saturate(1.5);
+  mix-blend-mode: exclusion;
+}
+.card[data-rarity='rare holo vstar'] .card__shine:before {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    hsla(190, 7%, 80%, 0.75) 0,
+    hsla(260, 7%, 50%, 0.25) 45%,
+    #887785 120%
+  );
+  content: '';
+  mix-blend-mode: hard-light;
+  opacity: 0.8;
+  z-index: 2;
+}
+.card[data-rarity='rare holo vstar'] .card__glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    #cff1fc 5%,
+    #9c969c 60%,
+    #262626 150%
+  );
+  filter: brightness(0.7) contrast(2);
+  mix-blend-mode: hard-light;
+  opacity: calc(var(--card-opacity) * (var(--pointer-from-center) * 0.75));
+}
+.card:not(.masked)[data-rarity='rare holo vstar'] .card__shine,
+.card:not(.masked)[data-rarity='rare holo vstar'] .card__shine:after {
+  --mask: none;
+  --foil: url(https://poke-holo.simey.me/img/ancient.png);
+  --imgsize: 18% 15%;
+  background-blend-mode: exclusion, hue, hard-light;
+  filter: brightness(calc(var(--pointer-from-center) * 0.25 + 0.35)) contrast(1.8) saturate(1.75);
+}
+.card:not(.masked)[data-rarity='rare holo vstar'] .card__shine:after {
+  filter: brightness(calc(var(--pointer-from-center) * 0.75 + 0.5)) contrast(1.5) saturate(1.5);
+}
+.card:not(.masked)[data-rarity='rare holo vstar'] .card__glare {
+  filter: brightness(0.55) contrast(2);
+}
