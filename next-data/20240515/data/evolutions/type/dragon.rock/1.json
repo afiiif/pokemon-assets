@@ -1,0 +1,1 @@
+{"total":1,"totalPages":1,"data":[[{"gen":6,"id":696,"name":"tyrunt","evolvesFrom":null,"evolvesTo":[697],"pokemons":[{"id":696,"name":"tyrunt","types":["rock","dragon"],"evolution":null}]},{"gen":6,"id":697,"name":"tyrantrum","evolvesFrom":696,"evolvesTo":[],"pokemons":[{"id":697,"name":"tyrantrum","types":["rock","dragon"],"evolution":{"trigger":"level-up","lv":39}}]}]]}

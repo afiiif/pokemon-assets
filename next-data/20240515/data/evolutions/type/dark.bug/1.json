@@ -1,0 +1,1 @@
+{"total":1,"totalPages":1,"data":[[{"gen":9,"id":919,"name":"nymble","evolvesFrom":null,"evolvesTo":[920],"pokemons":[{"id":919,"name":"nymble","types":["bug"],"evolution":null}]},{"gen":9,"id":920,"name":"lokix","evolvesFrom":919,"evolvesTo":[],"pokemons":[{"id":920,"name":"lokix","types":["bug","dark"],"evolution":{"trigger":"level-up","lv":24}}]}]]}

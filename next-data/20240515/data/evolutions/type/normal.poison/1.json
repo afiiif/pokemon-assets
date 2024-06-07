@@ -1,0 +1,1 @@
+{"total":1,"totalPages":1,"data":[[{"gen":9,"id":944,"name":"shroodle","evolvesFrom":null,"evolvesTo":[945],"pokemons":[{"id":944,"name":"shroodle","types":["poison","normal"],"evolution":null}]},{"gen":9,"id":945,"name":"grafaiai","evolvesFrom":944,"evolvesTo":[],"pokemons":[{"id":945,"name":"grafaiai","types":["poison","normal"],"evolution":{"trigger":"level-up","lv":28}}]}]]}

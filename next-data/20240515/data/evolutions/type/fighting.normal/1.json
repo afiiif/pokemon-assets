@@ -1,0 +1,1 @@
+{"total":1,"totalPages":1,"data":[[{"gen":7,"id":759,"name":"stufful","evolvesFrom":null,"evolvesTo":[760],"pokemons":[{"id":759,"name":"stufful","types":["normal","fighting"],"evolution":null}]},{"gen":7,"id":760,"name":"bewear","evolvesFrom":759,"evolvesTo":[],"pokemons":[{"id":760,"name":"bewear","types":["normal","fighting"],"evolution":{"trigger":"level-up","lv":27}}]}]]}

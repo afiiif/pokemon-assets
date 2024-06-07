@@ -1,0 +1,1 @@
+{"total":1,"totalPages":1,"data":[[{"gen":4,"id":425,"name":"drifloon","evolvesFrom":null,"evolvesTo":[426],"pokemons":[{"id":425,"name":"drifloon","types":["ghost","flying"],"evolution":null}]},{"gen":4,"id":426,"name":"drifblim","evolvesFrom":425,"evolvesTo":[],"pokemons":[{"id":426,"name":"drifblim","types":["ghost","flying"],"evolution":{"trigger":"level-up","lv":28}}]}]]}

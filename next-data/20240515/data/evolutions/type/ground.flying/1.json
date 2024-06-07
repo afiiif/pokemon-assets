@@ -1,0 +1,1 @@
+{"total":1,"totalPages":1,"data":[[{"gen":2,"id":207,"name":"gligar","evolvesFrom":null,"evolvesTo":[472],"pokemons":[{"id":207,"name":"gligar","types":["ground","flying"],"evolution":null}]},{"gen":4,"id":472,"name":"gliscor","evolvesFrom":207,"evolvesTo":[],"pokemons":[{"id":472,"name":"gliscor","types":["ground","flying"],"evolution":{"trigger":"level-up","lv":null}}]}]]}

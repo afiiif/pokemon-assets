@@ -1,0 +1,1 @@
+{"total":1,"totalPages":1,"data":[[{"gen":3,"id":343,"name":"baltoy","evolvesFrom":null,"evolvesTo":[344],"pokemons":[{"id":343,"name":"baltoy","types":["ground","psychic"],"evolution":null}]},{"gen":3,"id":344,"name":"claydol","evolvesFrom":343,"evolvesTo":[],"pokemons":[{"id":344,"name":"claydol","types":["ground","psychic"],"evolution":{"trigger":"level-up","lv":36}}]}]]}

@@ -1,0 +1,1 @@
+{"total":1,"totalPages":1,"data":[[{"gen":9,"id":969,"name":"glimmet","evolvesFrom":null,"evolvesTo":[970],"pokemons":[{"id":969,"name":"glimmet","types":["rock","poison"],"evolution":null}]},{"gen":9,"id":970,"name":"glimmora","evolvesFrom":969,"evolvesTo":[],"pokemons":[{"id":970,"name":"glimmora","types":["rock","poison"],"evolution":{"trigger":"level-up","lv":35}}]}]]}

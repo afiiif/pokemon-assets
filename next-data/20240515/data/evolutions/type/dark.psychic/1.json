@@ -1,0 +1,1 @@
+{"total":1,"totalPages":1,"data":[[{"gen":6,"id":686,"name":"inkay","evolvesFrom":null,"evolvesTo":[687],"pokemons":[{"id":686,"name":"inkay","types":["dark","psychic"],"evolution":null}]},{"gen":6,"id":687,"name":"malamar","evolvesFrom":686,"evolvesTo":[],"pokemons":[{"id":687,"name":"malamar","types":["dark","psychic"],"evolution":{"trigger":"level-up","lv":30}}]}]]}

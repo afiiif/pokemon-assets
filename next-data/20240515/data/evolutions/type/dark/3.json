@@ -1,0 +1,1 @@
+{"total":31,"totalPages":3,"data":[[{"gen":9,"id":942,"name":"maschiff","evolvesFrom":null,"evolvesTo":[943],"pokemons":[{"id":942,"name":"maschiff","types":["dark"],"evolution":null}]},{"gen":9,"id":943,"name":"mabosstiff","evolvesFrom":942,"evolvesTo":[],"pokemons":[{"id":943,"name":"mabosstiff","types":["dark"],"evolution":{"trigger":"level-up","lv":30}}]}]]}

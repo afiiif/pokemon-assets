@@ -1,0 +1,1 @@
+{"total":1,"totalPages":1,"data":[[{"gen":6,"id":698,"name":"amaura","evolvesFrom":null,"evolvesTo":[699],"pokemons":[{"id":698,"name":"amaura","types":["rock","ice"],"evolution":null}]},{"gen":6,"id":699,"name":"aurorus","evolvesFrom":698,"evolvesTo":[],"pokemons":[{"id":699,"name":"aurorus","types":["rock","ice"],"evolution":{"trigger":"level-up","lv":39}}]}]]}

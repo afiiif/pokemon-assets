@@ -1,0 +1,1 @@
+{"total":1,"totalPages":1,"data":[[{"gen":3,"id":345,"name":"lileep","evolvesFrom":null,"evolvesTo":[346],"pokemons":[{"id":345,"name":"lileep","types":["rock","grass"],"evolution":null}]},{"gen":3,"id":346,"name":"cradily","evolvesFrom":345,"evolvesTo":[],"pokemons":[{"id":346,"name":"cradily","types":["rock","grass"],"evolution":{"trigger":"level-up","lv":40}}]}]]}

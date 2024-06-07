@@ -1,0 +1,1 @@
+{"total":1,"totalPages":1,"data":[[{"gen":2,"id":170,"name":"chinchou","evolvesFrom":null,"evolvesTo":[171],"pokemons":[{"id":170,"name":"chinchou","types":["water","electric"],"evolution":null}]},{"gen":2,"id":171,"name":"lanturn","evolvesFrom":170,"evolvesTo":[],"pokemons":[{"id":171,"name":"lanturn","types":["water","electric"],"evolution":{"trigger":"level-up","lv":27}}]}]]}

@@ -1,0 +1,1 @@
+{"total":1,"totalPages":1,"data":[[{"gen":4,"id":399,"name":"bidoof","evolvesFrom":null,"evolvesTo":[400],"pokemons":[{"id":399,"name":"bidoof","types":["normal"],"evolution":null}]},{"gen":4,"id":400,"name":"bibarel","evolvesFrom":399,"evolvesTo":[],"pokemons":[{"id":400,"name":"bibarel","types":["normal","water"],"evolution":{"trigger":"level-up","lv":15}}]}]]}
